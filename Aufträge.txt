@@ -18,5 +18,5 @@ Gerome:
 
 Für alle:
 
-- Doodle durchforsten
+- Moodle durchforsten
 - Lernbilanz abgeben
