@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.6.13)  6 MAR 2017 15:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.6.13)  6 MAR 2017 16:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -977,80 +977,86 @@ Package babel Info: Redefining german shorthand "|
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 113.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 122.
+(babel)             in language  on input line 143.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 122.
+(babel)             in language  on input line 143.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 122.
+(babel)             in language  on input line 143.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 124.
+(babel)             in language  on input line 143.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 124.
+(babel)             in language  on input line 143.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 124.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 126.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 126.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 126.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 128.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 128.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 128.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 130.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 130.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 130.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 132.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 132.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 132.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 137.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 137.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 137.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 137.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 137.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 137.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 137.
+(babel)             in language  on input line 143.
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 137.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 159.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 159.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 159.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 161.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 161.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 161.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 163.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 163.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 163.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 165.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 165.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 165.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 167.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 167.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 167.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 169.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 169.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 169.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 174.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 174.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 174.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 174.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 174.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 174.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 174.
 
-(./tki.aux
+[2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 174.
+ (./tki.aux
 Package cleveref Info: loaded `german language definitions on input line 21.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 137.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 137.
-
-
-Package rerunfilecheck Warning: File `tki.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `tki.out':
-(rerunfilecheck)             Before: 2E0111418EB6AC3CFABE61F81FAEECBE;372
-(rerunfilecheck)             After:  065394AC91EBF301AC48D9C39FD143FA;347.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 174.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 174.
+Package rerunfilecheck Info: File `tki.out' has not changed.
+(rerunfilecheck)             Checksum: 065394AC91EBF301AC48D9C39FD143FA;347.
  ) 
 Here is how much of TeX's memory you used:
- 22886 strings out of 493014
- 426584 string characters out of 6133351
- 552666 words of memory out of 5000000
+ 22893 strings out of 493014
+ 426636 string characters out of 6133351
+ 553666 words of memory out of 5000000
  26142 multiletter control sequences out of 15000+600000
- 15461 words of font info for 73 fonts, out of 8000000 for 9000
+ 15614 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  61i,7n,96p,10363b,743s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
@@ -1060,10 +1066,10 @@ usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
 r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
 local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/lo
 cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on tki.pdf (1 page, 90499 bytes).
+Output written on tki.pdf (2 pages, 97350 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
+ 84 PDF objects out of 1000 (max. 8388607)
+ 72 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
  23097 words of extra memory for PDF output out of 24883 (max. 10000000)
 
