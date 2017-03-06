@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  6 MAR 2017 00:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  6 MAR 2017 13:58
 entering extended mode
 **./tki.tex
 (tki.tex
@@ -1084,54 +1084,48 @@ Package babel Info: Redefining german shorthand "|
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 121.
 Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 123.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 123.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 123.
+Package babel Info: Redefining german shorthand "f
 (babel)             in language  on input line 125.
 Package babel Info: Redefining german shorthand "|
 (babel)             in language  on input line 125.
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 125.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 129.
+(babel)             in language  on input line 130.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 129.
+(babel)             in language  on input line 130.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 129.
+(babel)             in language  on input line 130.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 131.
+(babel)             in language  on input line 130.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 131.
+(babel)             in language  on input line 130.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 131.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 136.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 136.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 136.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 136.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 136.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 136.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 136.
+(babel)             in language  on input line 130.
  [1
 
 {C:/Users/pasca/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 136.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
  (tki.aux
 Package cleveref Info: loaded `german language definitions on input line 21.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 136.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 136.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 130.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 130.
 Package rerunfilecheck Info: File `tki.out' has not changed.
-(rerunfilecheck)             Checksum: BC42102E7424D69190577CE413A2B8D1;452.
+(rerunfilecheck)             Checksum: C7E2DFF96E07E1C46882CA0E36219447;379.
  ) 
 Here is how much of TeX's memory you used:
- 23026 strings out of 493333
- 430787 string characters out of 3130144
- 558375 words of memory out of 3000000
- 26269 multiletter control sequences out of 15000+200000
- 15717 words of font info for 73 fonts, out of 3000000 for 9000
+ 23021 strings out of 493333
+ 430687 string characters out of 3130144
+ 557375 words of memory out of 3000000
+ 26265 multiletter control sequences out of 15000+200000
+ 15410 words of font info for 72 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  61i,7n,96p,10365b,743s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
@@ -1143,9 +1137,9 @@ al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pasca
 /AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:
 /Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mr9.pfb>
-Output written on tki.pdf (1 page, 97473 bytes).
+Output written on tki.pdf (1 page, 87891 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
- 23617 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 78 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
+ 23097 words of extra memory for PDF output out of 24883 (max. 10000000)
 
