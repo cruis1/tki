@@ -1,22 +1,19 @@
 Gökhan:
 
-- Richtet Git ein.
+- Trakdandenliste Vorlage auf latex
 
 
 
 Pascal:
 
-- Projektbericht Template erstellen in LaTex
-- MS Project Link an Gerome schicken
-
+- Regeldokument finalisieren
+- MS Project
 
 Gerome:
 
-- MS Project installieren
-
+- Sitzungsprotokoll 06.03
 
 
 Für alle:
 
-- Moodle durchforsten
-- Lernbilanz abgeben
+- Lernbilanz
