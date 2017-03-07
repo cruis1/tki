@@ -60,8 +60,8 @@
 %% Seiten-Layout einstellen
 \usepackage[
  a4paper,
- total={16cm,26cm},          % Breite und Höhe des Inhalt-Bereichs
- top=20mm, left=30mm,        % Ränder oben und links
+ total={18cm,28cm},          % Breite und Höhe des Inhalt-Bereichs
+ top=10mm, left=15mm,        % Ränder oben und links
  headsep=10mm,               % Abstand des unteren Rands der Kopfzeile vom oberen Rand des Inhalts
  footskip=10mm               % Abstand des unteren des Inhalts zum oberen Rand der Fusszeile
 ]{geometry}
@@ -81,7 +81,7 @@
 
 %% Angaben für die PDF-Eigenschaften
 \hypersetup{
-  pdfauthor = {Pascal Horat, Steve Gerome Kamga, Gökhan Kaya},
+  pdfauthor = {Pascal Horat, Steve Gerome Kamga, G"okhan Kaya},
   pdftitle = {Projektbericht Assessment Elektroingenieur},
   pdfsubject = {LaTeX},
   pdfkeywords = {LaTeX, Projektbericht}
@@ -94,9 +94,11 @@
 \usepackage[german]{cleveref}
 % \usepackage[english, capitalise]{cleveref}
 
+\usepackage{tabulary}
+\usepackage{array}
 
 %% Angaben für \maketitle
-\title{Projektbericht\\* Assessment Elektroingenieur}
+\title{Regeln TKI}
 \author{Pascal Horat, Steve Gerome Kamga, Gökhan Kaya}
 % \date{7. Mai 2013}             % ohne Angabe wird das heutig Datum verwendet
 
@@ -104,71 +106,43 @@
 
 \maketitle
 
-\begin{abstract}
-......abstract.....
-\end{abstract}
+Das Ziel dieses Dokuments ist das Festlegen allgemeiner Regeln, die für die zuk"unftige Teamarbeit als verbindlich gelten. \\
 
-\tableofcontents
+\begin{tabular}{p{0.0cm}p{12cm}l}
+\textbullet & P"unktlichkeit ist wichtig. Bei mehr als 10 Minuten Versp"atung, ist dies den anderen per WhatsApp zu melden & BILD\\\\
 
-\section{Teamreview}
+\textbullet & Falls ein Auftrag ohne akzeptable Begr"undung nicht erledigt wird, muss dieser auf die n"achste Woche nachgeholt werden. Falls er auch dann nicht erledigt wurde, wird eine Konsequenz mit dem Dozenten erarbeitet & BILD \\\\
 
-Das Ziel dieses Dokumentes ist das Festlegen allgemeiner Regeln, die für die zuguenftige Teamarbeit als verbindlich gelten.
+\textbullet & Wenn nicht anders abgemacht, treffen wir uns jeden Montag in der Vorlesung. Falls weitere Termine notwendig sind, werden zus"atzliche Sitzungen einberufen & BILD \\\\
 
-- Puenklichkeit ist wichtig. Bei mehr als 10min. Verspaetung ueber Whatsapp melden. 
+\textbullet & Als Kommunikationskan"ale dienen unsere Whatsapp-Gruppe und das schulinterne E-Mail. Als Datenablage und Versionskontrolle verwenden wir GitHub. Bei gr"osseren Files wird die eingerichtete OneDrive-Cloud hinzugezogen & BILD \\\\
 
-- Falls Auftrag ohne akzeptable Begruendung nicht erledigt wird, muss diese auf die naechste Woche erledigt werden. Falls der Auftrag auch dann nicht erledigt wurde, wird eine Loesung mit dem Dozenten erarbeitet.
+\textbullet & Um Dokumente zu setzen, wird \LaTeX verwendet. Die n"otigen Vorlagen werden, falls als sinnvoll erachtet, erstellt & BILD \\\\
 
-- Falls nichts anderes abgemacht treffen wir uns jeden Montag in der Vorlesung.
+\textbullet & Da unsere Gruppenstruktur keinen eigentlichen Chef aufweist, werden folgende Verantwortungsbereiche definiert ("Anderungen bei Einstimmigkeit vorbehalten):
+\linebreak
 
-- Falls weitere Termine notwendig sind werden zusätzlich Sitzungen einberufen.
+\begin{itemize}
+\item Projektkoordinator: Pascal Horat
+\item LaTeX-Vorlagen: Pascal Horat
+\item MS-Project: Steve Gerome Kamga
+\item Git/Github: G"okhan Kaya  
+\item Projektbericht: Pascal Horat
+\item Kostenveranschlagung: G"okhan Kaya
+\item Vortragsplanung: Steve Gerome Kamga
+\item Teamreview: alternierend
+\item Sitzungschef: alternierend
 
-- Als Kommunikationskanaele dienen Whatsapp Gruppe und das schulinterne Mail. Als Datenablage und Versionskontrolle verwenden wir Github. Bei groesseren Files wird der eingerichtete OneDrive Cloud verwendet.
-
-- Es wird wo moeglich für jedes Dokument Latex zu verwenden. Die noetigen Vorlagen werden falls Sinnvoll erstellt.
-
-- Folgende Gruppenstruktur wird definiert:
-
-Wir haben uns entschlossen, keinen Chef zu definieren sondern kleinere Verantwortungsbereiche zu verteilen.
-
-- Es werden folgende Verantwortungsbereiche definiert (Aenderungen bei Einstimmigkeit vorbehalten):
-
-Projektkoordinator: Pascal Horat
-
-Latex-Vorlagen: Pascal Horat
-
-MS-Projekt: Gerome Kamga
-
-Git/Github: Goekhan Kaya
-
-Projektbericht: Pascal Horat
-
-Kostenveranschlagung: Goekhan Kaya
-
-Vortragplanung: Gerome Kamga
-
-- Folgende Verantwortlichkeiten alternieren:
-
-Teamreview und Sitzungschef
-
-- Jede Meinungsverschiedenheiten wird besprochen und falls keine Einigung erzielt wird nach relativer Mehrheitswahl entschieden.
-
-- Unser angestrebtes Ziel ist es moeglichs alles waehrend der Vorlesungszeit zu erledigen. Unsere Teamphilosophie ist es mit einem gegebenen Zeitaufwand ein moeglichst gutes Produkt abzuliefern. 
-
-- Wird das angestrebte Ziel von einer Person vernachlaessigt, wird eine zweiwoechige Frist angesetzt. Falls nach dieser Frist die noetige Qualitaet geliefert wird, werden weitere Schritte in Absprache mit dem Dozenten einigeleitet.
-
-\section{Projektumfeld}
-
-\section{Projektorganisation}
-
-\section{Projektplanung}
-
-\section{Controlling}
-
-\section{Information, Kommunikation}
-
-\section{Abschluss}
+\end{itemize} & BILD \\\\
 
 
+\textbullet & Jede Meinungsverschiedenheit wird besprochen und falls keine Einigung erzielt wird, nach relativer Mehrheitswahl entschieden & BILD \\\\
 
+\textbullet & Unsere Teamphilosophie ist es, mit einem gegebenen Zeitaufwand ein m"oglichst gutes Produkt abzuliefern. Das Ziel ist es, m"oglichst viele Arbeiten w"ahrend der Vorlesungszeit erledigen zu können & BILD \\\\
+
+\textbullet & Falls eine Person das angestrebte Ziel vernachl"assigt, wird eine zweiw"ochige Frist angesetzt. Hat sich in dieser Frist die Qualit"at der Produkte nicht verbessert, werden weitere Schritte in Absprache mit dem Dozenten einigeleitet & BILD \\\\
+
+\end{tabular}
+ 
 
 \end{document}
