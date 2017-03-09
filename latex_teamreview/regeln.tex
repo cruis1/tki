@@ -1,4 +1,4 @@
-\documentclass[10pt]{article}
+\documentclass[11pt]{article}
 
 %% Text-Encoding festlegen. Mit utf8 oder utf8x funktionieren Umlaute wie gewohnt.
 %% (mit Bibtex funktioniert nur utf8)
@@ -61,8 +61,8 @@
 \usepackage[
  a4paper,
  total={18cm,28cm},          % Breite und Höhe des Inhalt-Bereichs
- top=10mm, left=15mm,        % Ränder oben und links
- headsep=10mm,               % Abstand des unteren Rands der Kopfzeile vom oberen Rand des Inhalts
+ top=10mm, left=12mm,        % Ränder oben und links
+ headsep=0mm,               % Abstand des unteren Rands der Kopfzeile vom oberen Rand des Inhalts
  footskip=10mm               % Abstand des unteren des Inhalts zum oberen Rand der Fusszeile
 ]{geometry}
 
@@ -82,9 +82,9 @@
 %% Angaben für die PDF-Eigenschaften
 \hypersetup{
   pdfauthor = {Pascal Horat, Steve Gerome Kamga, G"okhan Kaya},
-  pdftitle = {Projektbericht Assessment Elektroingenieur},
-  pdfsubject = {LaTeX},
-  pdfkeywords = {LaTeX, Projektbericht}
+  pdftitle = {},
+  pdfsubject = {},
+  pdfkeywords = {}
 }
 
 
@@ -106,21 +106,36 @@
 
 \maketitle
 
-Das Ziel dieses Dokuments ist das Festlegen allgemeiner Regeln, die für die zuk"unftige Teamarbeit als verbindlich gelten. \\
+Das Ziel dieses Dokuments ist das Festlegen allgemeiner Regeln, die für die zuk"unftige Teamarbeit als verbindlich gelten.\\
 
-\begin{tabular}{p{0.0cm}p{12cm}l}
-\textbullet & P"unktlichkeit ist wichtig. Bei mehr als 10 Minuten Versp"atung, ist dies den anderen per WhatsApp zu melden & BILD\\\\
+\begin{center}
+\includegraphics[scale=0.2]{clock}\\
+\end{center}
 
-\textbullet & Falls ein Auftrag ohne akzeptable Begr"undung nicht erledigt wird, muss dieser auf die n"achste Woche nachgeholt werden. Falls er auch dann nicht erledigt wurde, wird eine Konsequenz mit dem Dozenten erarbeitet & BILD \\\\
 
-\textbullet & Wenn nicht anders abgemacht, treffen wir uns jeden Montag in der Vorlesung. Falls weitere Termine notwendig sind, werden zus"atzliche Sitzungen einberufen & BILD \\\\
+\begin{itemize}
+\item P"unktlichkeit ist wichtig. Bei mehr als 10 Minuten Versp"atung, ist dies den anderen per WhatsApp zu melden
+\end{itemize}
 
-\textbullet & Als Kommunikationskan"ale dienen unsere Whatsapp-Gruppe und das schulinterne E-Mail. Als Datenablage und Versionskontrolle verwenden wir GitHub. Bei gr"osseren Files wird die eingerichtete OneDrive-Cloud hinzugezogen & BILD \\\\
+\begin{itemize}
+\item Falls ein Auftrag ohne akzeptable Begr"undung nicht erledigt wird, muss dieser auf die n"achste Woche nachgeholt werden. Falls er auch dann nicht erledigt wurde, wird eine Konsequenz mit dem Dozenten erarbeitet
+\end{itemize}
 
-\textbullet & Um Dokumente zu setzen, wird \LaTeX verwendet. Die n"otigen Vorlagen werden, falls als sinnvoll erachtet, erstellt & BILD \\\\
+\begin{itemize}
+\item Wenn nicht anders abgemacht, treffen wir uns jeden Montag in der Vorlesung. Falls weitere Termine notwendig sind, werden zus"atzliche Sitzungen einberufen \\\\
+\end{itemize}
 
-\textbullet & Da unsere Gruppenstruktur keinen eigentlichen Chef aufweist, werden folgende Verantwortungsbereiche definiert ("Anderungen bei Einstimmigkeit vorbehalten):
-\linebreak
+\begin{itemize}
+\item Als Kommunikationskan"ale dienen unsere Whatsapp-Gruppe und das schulinterne E-Mail. Als Datenablage und Versionskontrolle verwenden wir GitHub. Bei gr"osseren Files wird die eingerichtete OneDrive-Cloud hinzugezogen\\\\
+\end{itemize}
+
+\begin{itemize}
+\item Um Dokumente zu setzen, wird \LaTeX verwendet. Die n"otigen Vorlagen werden, falls als sinnvoll erachtet, erstellt\\\\
+\end{itemize}
+
+\begin{itemize}
+\item Da unsere Gruppenstruktur keinen eigentlichen Chef aufweist, werden folgende Verantwortungsbereiche definiert ("Anderungen bei Einstimmigkeit vorbehalten):\\
+
 
 \begin{itemize}
 \item Projektkoordinator: Pascal Horat
@@ -132,17 +147,19 @@ Das Ziel dieses Dokuments ist das Festlegen allgemeiner Regeln, die für die zuk
 \item Vortragsplanung: Steve Gerome Kamga
 \item Teamreview: alternierend
 \item Sitzungschef: alternierend
+\end{itemize}
+\end{itemize}
 
-\end{itemize} & BILD \\\\
+\begin{itemize}
+\item Jede Meinungsverschiedenheit wird besprochen und falls keine Einigung erzielt wird, nach relativer Mehrheitswahl entschieden\\\\
+\end{itemize}
 
+\begin{itemize}
+\item Unsere Teamphilosophie ist es, mit einem gegebenen Zeitaufwand ein m"oglichst gutes Produkt abzuliefern. Das Ziel ist es, m"oglichst viele Arbeiten w"ahrend der Vorlesungszeit erledigen zu können\\\\
+\end{itemize}
 
-\textbullet & Jede Meinungsverschiedenheit wird besprochen und falls keine Einigung erzielt wird, nach relativer Mehrheitswahl entschieden & BILD \\\\
-
-\textbullet & Unsere Teamphilosophie ist es, mit einem gegebenen Zeitaufwand ein m"oglichst gutes Produkt abzuliefern. Das Ziel ist es, m"oglichst viele Arbeiten w"ahrend der Vorlesungszeit erledigen zu können & BILD \\\\
-
-\textbullet & Falls eine Person das angestrebte Ziel vernachl"assigt, wird eine zweiw"ochige Frist angesetzt. Hat sich in dieser Frist die Qualit"at der Produkte nicht verbessert, werden weitere Schritte in Absprache mit dem Dozenten einigeleitet & BILD \\\\
-
-\end{tabular}
+\begin{itemize}
+\item Falls eine Person das angestrebte Ziel vernachl"assigt, wird eine zweiw"ochige Frist angesetzt. Hat sich in dieser Frist die Qualit"at der Produkte nicht verbessert, werden weitere Schritte in Absprache mit dem Dozenten einigeleitet\\\\
+\end{itemize}
  
-
 \end{document}

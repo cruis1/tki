@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  7 MAR 2017 13:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  9 MAR 2017 10:46
 entering extended mode
 **./regeln.tex
 (regeln.tex
@@ -6,8 +6,8 @@ LaTeX2e <2017/01/01> patch level 1
 Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo"
-File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -979,23 +979,23 @@ Package caption Info: End \AtBeginDocument code.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(42.67912pt, 512.1496pt, 42.67915pt)
+* h-part:(L,W,R)=(34.1433pt, 512.1496pt, 51.21498pt)
 * v-part:(T,H,B)=(28.45274pt, 796.67715pt, 19.91695pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=512.1496pt
 * \textheight=796.67715pt
-* \oddsidemargin=-29.59087pt
-* \evensidemargin=-29.59087pt
-* \topmargin=-84.26999pt
+* \oddsidemargin=-38.1267pt
+* \evensidemargin=-38.1267pt
+* \topmargin=-55.81725pt
 * \headheight=12.0pt
-* \headsep=28.45274pt
-* \topskip=10.0pt
+* \headsep=0.0pt
+* \topskip=11.0pt
 * \footskip=28.45274pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1060,106 +1060,140 @@ Underfull \hbox (badness 10000) in paragraph at lines 109--110
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 112.
+<img/clock.png, id=3, 256.96pt x 256.96pt>
+File: img/clock.png Graphic file (type png)
+ <use img/clock.png>
+Package pdftex.def Info: img/clock.png used on input line 112.
+(pdftex.def)             Requested size: 51.39108pt x 51.39108pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 117.
+
 
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 112.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 117.
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 112--112
-[]|\OMS/cmsy/m/n/10 | 
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 114--114
-[]|\OMS/cmsy/m/n/10 | 
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 116--116
-[]|\OMS/cmsy/m/n/10 | 
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 118--118
-[]|\OMS/cmsy/m/n/10 | 
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 120--120
-[]|\OMS/cmsy/m/n/10 | 
- []
-
-
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 122--122
-[]|\OMS/cmsy/m/n/10 | 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 122--124
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 139--139
-[]|\OMS/cmsy/m/n/10 | 
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 141--141
-[]|\OMS/cmsy/m/n/10 | 
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 143--143
-[]|\OMS/cmsy/m/n/10 | 
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 148.
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 155.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 155.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 155.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 155.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 155.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 148.
+(babel)             in language  on input line 155.
 [1
 
-{C:/Users/pasca/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 148.
+{C:/Users/pasca/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./img/clock
+.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
 
-(regeln.aux
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 165.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 165.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 165.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 165.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 165.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 165.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 165.
+[2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 165.
+ (regeln.aux
 Package cleveref Info: loaded `german language definitions on input line 21.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 148.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 148.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 165.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 165.
 Package rerunfilecheck Info: File `regeln.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23067 strings out of 493333
- 431489 string characters out of 3130144
- 558718 words of memory out of 3000000
- 26309 multiletter control sequences out of 15000+200000
- 14145 words of font info for 72 fonts, out of 3000000 for 9000
+ 23044 strings out of 493333
+ 431187 string characters out of 3130144
+ 556636 words of memory out of 3000000
+ 26295 multiletter control sequences out of 15000+200000
+ 13044 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,11n,96p,10368b,743s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 61i,7n,96p,10368b,838s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmr10.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmr12.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pasca/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/pasca/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on regeln.pdf (1 page, 64306 bytes).
+/cm/cmbx10.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pasca/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pasca/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pasca/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on regeln.pdf (2 pages, 100236 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
- 2 named destinations out of 1000 (max. 500000)
- 18945 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 42 PDF objects out of 1000 (max. 8388607)
+ 3 named destinations out of 1000 (max. 500000)
+ 13318 words of extra memory for PDF output out of 14400 (max. 10000000)
 
