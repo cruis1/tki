@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  9 MAR 2017 11:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  13 MAR 2017 12:30
 entering extended mode
 **./regeln.tex
 (regeln.tex
@@ -1105,112 +1105,161 @@ Underfull \hbox (badness 10000) in paragraph at lines 141--142
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 145--146
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 145--146
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 149--150
-
- []
-
+<img/doc.png, id=8, 45.92157pt x 56.46094pt>
+File: img/doc.png Graphic file (type png)
+ <use img/doc.png>
+Package pdftex.def Info: img/doc.png used on input line 145.
+(pdftex.def)             Requested size: 55.10559pt x 67.75276pt.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 146.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 146.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 146.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 146.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 150.
+(babel)             in language  on input line 146.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 150.
-[1
+(babel)             in language  on input line 146.
+ [1
 
 {C:/Users/pasca/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./img/clock
 .png> <./img/work.png> <./img/lecture.png> <./img/communication.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 166--167
+<img/boss.jpg, id=20, 642.4pt x 642.4pt>
+File: img/boss.jpg Graphic file (type jpg)
+ <use img/boss.jpg>
+Package pdftex.def Info: img/boss.jpg used on input line 153.
+(pdftex.def)             Requested size: 77.08467pt x 77.08467pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+
+ []
+
+<img/voteHand.png, id=21, 204.765pt x 204.765pt>
+File: img/voteHand.png Graphic file (type png)
+ <use img/voteHand.png>
+Package pdftex.def Info: img/voteHand.png used on input line 175.
+(pdftex.def)             Requested size: 61.42996pt x 61.42996pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--167
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
+<img/performance.png, id=22, 256.96pt x 256.96pt>
+File: img/performance.png Graphic file (type png)
+ <use img/performance.png>
+Package pdftex.def Info: img/performance.png used on input line 183.
+(pdftex.def)             Requested size: 77.0886pt x 77.0886pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 174--175
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 174--175
-
- []
-
-<img/unterschriften.png, id=20, 615.80063pt x 193.84921pt>
-File: img/unterschriften.png Graphic file (type png)
-
-<use img/unterschriften.png>
-Package pdftex.def Info: img/unterschriften.png used on input line 178.
-(pdftex.def)             Requested size: 307.89955pt x 96.92436pt.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 181.
+<img/quality.png, id=23, 128.48pt x 128.48pt>
+File: img/quality.png Graphic file (type png)
+ <use img/quality.png>
+Package pdftex.def Info: img/quality.png used on input line 191.
+(pdftex.def)             Requested size: 89.93538pt x 89.93538pt.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 181.
+(babel)             in language  on input line 192.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 181.
+(babel)             in language  on input line 192.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 181.
+(babel)             in language  on input line 192.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 181.
+(babel)             in language  on input line 192.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 181.
+(babel)             in language  on input line 192.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 181.
- [2 <./img/unterschriften.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 181.
+(babel)             in language  on input line 192.
+ [2 <./img/doc.png> <./img/boss.jpg> <./img/voteHand.png> <./img/performance.pn
+g>]
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+
+ []
+
+<img/unterschriftPascal.png, id=33, 154.32657pt x 154.32657pt>
+File: img/unterschriftPascal.png Graphic file (type png)
+
+<use img/unterschriftPascal.png>
+Package pdftex.def Info: img/unterschriftPascal.png used on input line 200.
+(pdftex.def)             Requested size: 92.59663pt x 92.59663pt.
+
+<img/unterschriftGerome.png, id=34, 233.37187pt x 233.37187pt>
+File: img/unterschriftGerome.png Graphic file (type png)
+
+<use img/unterschriftGerome.png>
+Package pdftex.def Info: img/unterschriftGerome.png used on input line 201.
+(pdftex.def)             Requested size: 140.02419pt x 140.02419pt.
+
+<img/unterschriftGoekhan.png, id=35, 188.20313pt x 188.20313pt>
+File: img/unterschriftGoekhan.png Graphic file (type png)
+
+<use img/unterschriftGoekhan.png>
+Package pdftex.def Info: img/unterschriftGoekhan.png used on input line 202.
+(pdftex.def)             Requested size: 112.92273pt x 112.92273pt.
+
+Overfull \hbox (78.67911pt too wide) in paragraph at lines 198--204
+[][] 
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 205.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 205.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 205.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 205.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 205.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 205.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 205.
+[3 <./img/quality.png> <./img/unterschriftPascal.png> <./img/unterschriftGerome
+.png> <./img/unterschriftGoekhan.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 205.
  (regeln.aux
 Package cleveref Info: loaded `german language definitions on input line 21.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 181.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 181.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 205.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 205.
 Package rerunfilecheck Info: File `regeln.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23103 strings out of 493333
- 432159 string characters out of 3130144
+ 23142 strings out of 493333
+ 432942 string characters out of 3130144
  555666 words of memory out of 3000000
- 26336 multiletter control sequences out of 15000+200000
- 15407 words of font info for 77 fonts, out of 3000000 for 9000
+ 26364 multiletter control sequences out of 15000+200000
+ 15456 words of font info for 78 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,7n,96p,10368b,838s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 61i,13n,96p,10368b,813s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmr12.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pasca/AppData/Local/Programs/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/pasca/AppData/Local
 /Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on regeln.pdf (2 pages, 197194 bytes).
+Output written on regeln.pdf (3 pages, 296209 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
- 3 named destinations out of 1000 (max. 500000)
- 19482 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 62 PDF objects out of 1000 (max. 8388607)
+ 4 named destinations out of 1000 (max. 500000)
+ 19517 words of extra memory for PDF output out of 20736 (max. 10000000)
 
