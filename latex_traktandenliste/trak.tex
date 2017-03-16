@@ -1,0 +1,146 @@
+\documentclass[10pt]{article}
+
+%% Text-Encoding festlegen. Mit utf8 oder utf8x funktionieren Umlaute wie gewohnt.
+%% (mit Bibtex funktioniert nur utf8)
+\usepackage[utf8x]{inputenc}
+
+%% Sprachdatei für Trennregeln, Datum-Format und ähnliches festlegen
+\usepackage[german]{babel}  % nötig für Umlaute
+% \usepackage[english]{babel}
+
+%% optimiert das typographische Erscheinungsbild
+\usepackage{microtype}
+
+%% erlaubt Listen einfacher zu formatieren (bietet nosep für kompakte Listen)
+\usepackage{enumitem}
+%% erlaubt hübsche Tabellen über mehrere Seiten, beinhaltet booktabs (\toprule, \midrule, ...)
+\usepackage{ctable}
+%% ermöglicht farbigen Text ({\color{red} ...})
+\usepackage{xcolor} 
+
+%% erweiterte Funktionalität für Formeln (Pakete der American Mathematical Society)
+\usepackage{amsfonts,amsmath,amsthm,amssymb}
+
+%% vordefinierte Einheiten, einfaches Angeben von Einheiten (\SI{8 \pm 1}{cm})
+%%   die Unsicherheit soll mit +- abgetrennt werden
+\usepackage[separate-uncertainty]{siunitx}
+\sisetup{
+    range-units = single,       % \SIrange soll die Einheit nur einmal anzeigen
+    list-units  = repeat,       % \SIlist soll die Einheit wiederholen
+}
+%% bei siuntix funktioniert babel leider nicht
+%% für englische Dokumente sollten diese Zeilen auskommentiert werden. 
+\sisetup{
+    range-phrase         = { bis },
+    list-final-separator = { und },
+%    list-pair-separator  = { und }, % an Uni noch nicht verfügbar
+}
+
+%% erlaubt es Bilddateien einzubinden
+%% (ctable graphicx intern auch. Trotzdem ist es sinnvoll graphicx expilizt zu laden.
+%%  Sonst entstehen schwehr verständliche Fehler, wenn ctable entfernt wird)
+\usepackage{graphicx}
+%% ermöglicht Bilder und Tabellen am eingegebenen Ort zu platzieren ([H])
+\usepackage{float}
+%% ermöglicht Unter-Bilder in einer figure-Umgebung
+\usepackage{subfig}
+%% Grafik-Dateien werden in den folgenden Ordnern gesucht
+\graphicspath{{img/}}
+%% Grafikdateien haben die folgenden Endungen (höchste Priorität zu erst)
+\DeclareGraphicsExtensions{.pdf,.png,.jpg}
+
+%% Vertikaler Abstand zwischen Absätzen, Beginn eines Absatzes nicht einrücken
+\usepackage{parskip}
+% \setlength{\parskip}{0.6em}   % Vertikaler Abstand zwischen Absätzen anpassen 
+% \setlength{\parindent}{0em}   % Einrück-Abstand anpassen 
+
+%% zeige Labels im Seitenrand. Dies ist praktisch um Verweise zu kontrollieren
+\usepackage[final]{showkeys} % die Option 'final' deaktiviert die Ausgabe von showkeys
+
+%% Seiten-Layout einstellen
+\usepackage[
+ a4paper,
+ total={16cm,26cm},          % Breite und Höhe des Inhalt-Bereichs
+ top=20mm, left=30mm,        % Ränder oben und links
+ headsep=10mm,               % Abstand des unteren Rands der Kopfzeile vom oberen Rand des Inhalts
+ footskip=10mm               % Abstand des unteren des Inhalts zum oberen Rand der Fusszeile
+]{geometry}
+
+%% Ermöglicht Links im PDF 
+%%   sollte möglichst spät in der Präambel geladen werden
+\usepackage[
+ pdftex,                        % wir verwenden pdftex/pdflatex
+ bookmarks=true,                % wir wollen auch im PDF-Reader ein Inhaltsverzeichnis
+ bookmarksdepth=3,              % das Inhaltsverzeichnis soll 3 Tiefen enthalten
+ colorlinks=true,               % Linktexte sollen Farbig sein 
+ linkcolor=black,               % Links innerhalb des Dokuments bleiben schwarz
+ citecolor=black,               % Links zu Quellenangaben bleiben ebenfalls schwarz
+ urlcolor=blue,                 % URL-Linktexte sollen blau dargestellt werden
+%  pdfborder={0 0 0}              % Links im PDF erhalten keinen Rahmen, nur nötig wenn colorlinks=false
+]{hyperref}
+
+%% Angaben für die PDF-Eigenschaften
+\hypersetup{
+  pdfauthor = {Pascal Horat, Steve Gerome Kamga, Gökhan Kaya},
+  pdftitle = {Projektbericht Assessment Elektroingenieur},
+  pdfsubject = {LaTeX},
+  pdfkeywords = {LaTeX, Projektbericht}
+}
+
+
+%% definiert \cref: Referenzen mit korrekter Bezeichnung (z.B. "Abbildung 1")
+%%   die Nummer alleine ist weiter mittels \ref verfügbar
+%% muss NACH 'hyperref' geladen werden
+\usepackage[german]{cleveref}
+% \usepackage[english, capitalise]{cleveref}
+
+
+%% Angaben für \maketitle
+\title{Trakdandenliste}
+%%\author{Pascal Horat, Steve Gerome Kamga, Gökhan Kaya}
+\date{}             % ohne Angabe wird das heutig Datum verwendet
+
+\begin{document}
+
+\maketitle
+
+
+%% \tableofcontents
+
+%%\begin{large}
+%%\textbf{Trakdandenliste: \vspace{1cm}}
+%%\end{large}
+
+\begin{tabular}{l p{5cm}}
+
+
+Datum/Zeit: & 15.03.2017 \\ \\
+
+Ort: & Rapperswil \\ \\
+%%\hspace{0.5cm}
+Teilnehmende: & \begin{itemize} \item Steve Gerome Kamga \item Gökhan Kaya \item Pascal Horat \end{itemize}
+
+\end{tabular}
+
+\vspace{1cm}
+
+\begin{tabular}{|l|l|l|}
+\hline
+\textbf{Besprechungspunkte} & \textbf{Zuständig} & \textbf{Zeitbudget} \\ \hline
+Begrüssung, Ziele und bisherigen Arbeitsstand diskutieren& Alle & 1' \\ \hline
+Bisherigen Regeldokument diskutieren & Alle & 2' \\ \hline
+Bisherigen Fragenkatalog diskutieren & Gökhan und Steve & 3' \\ \hline
+Bisherige Reflexion diskutieren & Pascal & 3' \\ \hline
+Zusammenfassung und Ausblick & Alle & 1' \\ \hline
+
+\end{tabular}
+
+\vspace{1cm}
+
+Rapperswil, \today
+
+\vspace{1cm}
+
+Steve Gerome Kamga , Gökhan Kaya, Pascal Horat
+
+\end{document}
