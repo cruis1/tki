@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  17 MAR 2017 16:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  17 MAR 2017 16:21
 entering extended mode
-**./trak.tex
-(trak.tex
+**./ReflexionVideo.tex
+(ReflexionVideo.tex
 LaTeX2e <2017/01/01> patch level 1
 Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
@@ -886,8 +886,28 @@ LaTeX Info: Redefining \labelcref on input line 2230.
 LaTeX Info: Redefining \labelcpageref on input line 2230.
 Package cleveref Info: `amsthm' support loaded on input line 2858.
 Package cleveref Info: `subfig' support loaded on input line 2983.
-) (trak.aux)
-\openout1 = `trak.aux'.
+)
+
+! LaTeX Error: Option clash for package geometry.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 \begin
+            {document}
+The package geometry has already been loaded with options:
+  [a4paper,total={16cm,26cm},top=20mm,left=30mm,headsep=10mm,footskip=10mm]
+There has now been an attempt to load it with options
+  [landscape]
+Adding the global options:
+  a4paper,total={16cm,26cm},top=20mm,left=30mm,headsep=10mm,footskip=10mm,lands
+cape
+to your \documentclass declaration may fix this.
+Try typing  <return>  to proceed.
+
+(ReflexionVideo.aux)
+\openout1 = `ReflexionVideo.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 103.
 LaTeX Font Info:    ... okay on input line 103.
@@ -1015,9 +1035,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 103.
 LaTeX Info: Redefining \pageref on input line 103.
 LaTeX Info: Redefining \nameref on input line 103.
- (trak.out) (trak.out)
+ (ReflexionVideo.out) (ReflexionVideo.out)
 \@outlinefile=\write3
-\openout3 = `trak.out'.
+\openout3 = `ReflexionVideo.out'.
 
 \c__siunitx_mathsf_int=\count266
 LaTeX Font Info:    Try loading font information for U+msa on input line 103.
@@ -1049,6 +1069,19 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             See the microtype manual for details.
 
 
+! LaTeX Error: Environment landscape undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104 \begin{landscape}
+                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
 LaTeX Warning: No \author given.
 
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 121.
@@ -1058,6 +1091,20 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 121.
+
+
+! LaTeX Error: \begin{document} ended by \end{landscape}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146 \end{landscape}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 147.
 Package babel Info: Redefining german shorthand "f
 (babel)             in language  on input line 147.
@@ -1071,33 +1118,33 @@ Package babel Info: Redefining german shorthand "|
 (babel)             in language  on input line 147.
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 147.
-
 [1
 
 {C:/Users/pasca/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 147.
- (trak.aux
+
+(ReflexionVideo.aux
 Package cleveref Info: loaded `german language definitions on input line 21.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 147.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 147.
-Package rerunfilecheck Info: File `trak.out' has not changed.
+Package rerunfilecheck Info: File `ReflexionVideo.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 23009 strings out of 493333
- 430732 string characters out of 3130144
- 558348 words of memory out of 3000000
- 26268 multiletter control sequences out of 15000+200000
+ 23011 strings out of 493333
+ 430893 string characters out of 3130144
+ 558368 words of memory out of 3000000
+ 26270 multiletter control sequences out of 15000+200000
  14096 words of font info for 66 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,9n,96p,10366b,743s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 61i,9n,96p,10376b,743s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmr10.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/pasca/AppData/Local/Programs/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on trak.pdf (1 page, 54389 bytes).
+Output written on ReflexionVideo.pdf (1 page, 53462 bytes).
 PDF statistics:
  27 PDF objects out of 1000 (max. 8388607)
  2 named destinations out of 1000 (max. 500000)
