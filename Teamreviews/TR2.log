@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  20 MAR 2017 19:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  20 MAR 2017 19:26
 entering extended mode
-**./tki.tex
-(tki.tex
+**./TR2.tex
+(TR2.tex
 LaTeX2e <2017/01/01> patch level 1
 Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
@@ -1181,8 +1181,8 @@ LaTeX Info: Redefining \labelcref on input line 2230.
 LaTeX Info: Redefining \labelcpageref on input line 2230.
 Package cleveref Info: `amsthm' support loaded on input line 2858.
 Package cleveref Info: `subfig' support loaded on input line 2983.
-) (tki.aux)
-\openout1 = `tki.aux'.
+) (TR2.aux)
+\openout1 = `TR2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 103.
 LaTeX Font Info:    ... okay on input line 103.
@@ -1381,9 +1381,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 103.
 LaTeX Info: Redefining \pageref on input line 103.
 LaTeX Info: Redefining \nameref on input line 103.
- (tki.out) (tki.out)
+ (TR2.out) (TR2.out)
 \@outlinefile=\write3
-\openout3 = `tki.out'.
+\openout3 = `TR2.out'.
 
 \c__siunitx_mathsf_int=\count199
 LaTeX Font Info:    Try loading font information for U+msa on input line 103.
@@ -1413,11 +1413,11 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- (tki.toc
+ (TR2.toc
 Package cleveref Info: loaded `german language definitions on input line 1.
 )
 \tf@toc=\write4
-\openout4 = `tki.toc'.
+\openout4 = `TR2.toc'.
 
 Package babel Info: Redefining german shorthand "f
 (babel)             in language  on input line 113.
@@ -1426,86 +1426,90 @@ Package babel Info: Redefining german shorthand "|
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 113.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 115.
+(babel)             in language  on input line 120.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 115.
+(babel)             in language  on input line 120.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 115.
+(babel)             in language  on input line 120.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 117.
+(babel)             in language  on input line 122.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 117.
+(babel)             in language  on input line 122.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 117.
+(babel)             in language  on input line 122.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 119.
+(babel)             in language  on input line 124.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 119.
+(babel)             in language  on input line 124.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 119.
+(babel)             in language  on input line 124.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 121.
+(babel)             in language  on input line 126.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 121.
+(babel)             in language  on input line 126.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 121.
+(babel)             in language  on input line 126.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 123.
+(babel)             in language  on input line 128.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 123.
+(babel)             in language  on input line 128.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 123.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 125.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 125.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 125.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
+(babel)             in language  on input line 128.
 Package babel Info: Redefining german shorthand "f
 (babel)             in language  on input line 130.
 Package babel Info: Redefining german shorthand "|
 (babel)             in language  on input line 130.
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 130.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 130.
+(babel)             in language  on input line 133.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 130.
+(babel)             in language  on input line 133.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 130.
+(babel)             in language  on input line 133.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 133.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 133.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 133.
  [1
 
 {C:/Users/pasca/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
- (tki.aux
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
+ (TR2.aux
 Package cleveref Info: loaded `german language definitions on input line 21.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 130.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 130.
-Package rerunfilecheck Info: File `tki.out' has not changed.
-(rerunfilecheck)             Checksum: C7E2DFF96E07E1C46882CA0E36219447;379.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 133.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
+
+
+Package rerunfilecheck Warning: File `TR2.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `TR2.out':
+(rerunfilecheck)             Before: 8384AC21F2329711BAB051A7A227DBF3;363
+(rerunfilecheck)             After:  F3BEFD23B5C84C2DE2B65908D2209BE0;383.
  ) 
 Here is how much of TeX's memory you used:
- 22656 strings out of 493333
- 423693 string characters out of 3130144
- 541593 words of memory out of 3000000
- 25901 multiletter control sequences out of 15000+200000
- 15410 words of font info for 72 fonts, out of 3000000 for 9000
+ 22645 strings out of 493333
+ 423573 string characters out of 3130144
+ 541598 words of memory out of 3000000
+ 25896 multiletter control sequences out of 15000+200000
+ 14701 words of font info for 68 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  61i,7n,96p,10365b,742s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/pasca/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pasca/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pasca
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:
-/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mr9.pfb>
-Output written on tki.pdf (1 page, 87548 bytes).
+onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pasca/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pasca/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on TR2.pdf (1 page, 76343 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
+ 66 PDF objects out of 1000 (max. 8388607)
  10 named destinations out of 1000 (max. 500000)
- 23097 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 20529 words of extra memory for PDF output out of 20736 (max. 10000000)
 

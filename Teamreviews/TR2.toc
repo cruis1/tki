@@ -1,0 +1,8 @@
+\select@language {german}
+\contentsline {section}{\numberline {1}Einleitung}{1}{section.1}
+\contentsline {section}{\numberline {2}Selbsteinsch\IeC {\"a}tzung}{1}{section.2}
+\contentsline {section}{\numberline {3}Fremdeinsch\IeC {\"a}tzung}{1}{section.3}
+\contentsline {section}{\numberline {4}Vergleich der Einsch\IeC {\"a}tzungen}{1}{section.4}
+\contentsline {section}{\numberline {5}Interpretation/Zusammenfassung}{1}{section.5}
+\contentsline {section}{\numberline {6}Konsequenzen}{1}{section.6}
+\contentsline {section}{\numberline {7}Quellen}{1}{section.7}

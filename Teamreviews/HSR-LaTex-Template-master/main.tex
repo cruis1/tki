@@ -31,29 +31,7 @@
 \usepackage{graphicx}
 \usepackage{tikz}
 
-\colorlet{helpful}{lime!70}
-\colorlet{harmful}{red!30}
-\colorlet{internal}{yellow!20}
-\colorlet{external}{cyan!30}
-\colorlet{S}{helpful!50!internal}
-\colorlet{W}{harmful!50!internal}
-\colorlet{O}{helpful!50!external}
-\colorlet{T}{harmful!50!external}
 
-\newcommand{\texta}{Helpful\par \tiny (to achieve the objective)}
-\newcommand{\textb}{Harmful\par \tiny (to achieve the objective)}
-\newcommand{\textcn}{\rotatebox[origin=c]{90}{\parbox[t]{3cm}{\centering Internal origin\\ \tiny (product\slash company attributes)\par}}}
-\newcommand{\textdn}{\rotatebox[origin=c]{90}{\parbox[b]{3cm}{\centering External origin\\ \tiny (environment\slash market attributes)\par}}}
-
-\newcommand{\texts}{\makebox[0pt][c]{\parbox[t]{0.2\textwidth}{\centering strength 1\par strength 2}}}
-\newcommand{\textw}{\makebox[0pt][c]{\parbox[t]{0.2\textwidth}{\centering weakness 1\par weakness 2}}}
-\newcommand{\texto}{\makebox[0pt][c]{\parbox[t]{0.2\textwidth}{\centering opportunity 1\par opportunity 2}}}
-\newcommand{\textt}{\makebox[0pt][c]{\parbox[t]{0.2\textwidth}{\centering threat 1\par threat 2}}}
-
-
-\newcommand{\back}[1]{\tikz\node[overlay,text=#1!60!black,font=\fontsize{60}{70}\selectfont](char) at (0,-0.1) {#1};}
-\newcommand\mycolor[1]{\cellcolor{#1}}
-\newcolumntype{C}[1]{>{\centering\arraybackslash}m{#1}}
 \makeindex
 
 % do this here, so you can \gls{...} to it
@@ -75,23 +53,12 @@
 % ...
 
 \chapter{Selbsteinschätzung gemäss Belbin $^{[2]}$}
-\section{Auftrag}
+\section{Pascal Horat}
 
-Mittels einer SWOT-Analyse$^{[1]}$ soll beschrieben werden:
-\begin{itemize}
-\item Welche Interessen und Ziele verfolge ich bei der Projektarbeit?
-\item Wie schätze ich meine eigene Position im Team ein?
-\end{itemize}
 
 
 \chapter{Selbsteinschätzung gemäss Belbin}
-\begin{tabular}{c*{2}{C{0.2\textwidth}}}
-                            &\cellcolor{helpful} \texta  & \cellcolor{harmful} \textb \\
-\cellcolor{internal}\textcn & \mycolor{S}\back{S} \texts & \mycolor{W}\back{W} \textw \\
-\cellcolor{external}\textdn & \mycolor{O}\back{O} \texto & \mycolor{T}\back{T} \textt
-\end{tabular}
-\\
-\newline
+
 Der Übersichtlichkeit halber werden die einzelnen Punkte nicht in die obige Tabelle geschrieben, sondern anschliessend aufgelistet.
 
 \section{Vergleich Selbst- und Fremdeinschätzung}
@@ -132,22 +99,15 @@ Der Übersichtlichkeit halber werden die einzelnen Punkte nicht in die obige Tab
 
 \chapter{Lernbilanz 3: Mich und das Team entwickeln} 
 
-\chapter{Referenzen}
 
-\begin{itemize}
-\item[[1]] Folie PM	2.1.14, S. 46 in TKI{\_}2017.02.20.2.pdf
-\item[[2]] Folie TE 2.2.2.2, S. 104 in TKI{\_}2017.02.27.pdf
-\item[[3]] siehe Storming, Folie TE 1.1.6, S. 27 in TKI{\_}2017.02.20.1.pdf
-\end{itemize}
- 
 % List of figures & glossary
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\listoffigures
-%\printglossary[style=altlist,title=Glossar]
+\printglossary[style=altlist,title=Glossar]
 
 % Bibliography
 %%%%%%%%%%%%%%
-\bibliographystyle {alpha}
+\bibliographystyle{IEEEtran}
 \bibliography{index/bibliography}
 
 
