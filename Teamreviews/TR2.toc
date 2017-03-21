@@ -1,10 +1,13 @@
 \select@language {german}
 \contentsline {section}{\numberline {1}Einleitung}{1}{section.1}
-\contentsline {section}{\numberline {2}Selbsteinsch\IeC {\"a}tzung}{1}{section.2}
-\contentsline {subsection}{\numberline {2.1}Pascal Horat}{1}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}G\IeC {\"o}khan Kaya}{1}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Steve Gerome Kamga}{1}{subsection.2.3}
+\contentsline {section}{\numberline {2}Selbsteinsch\IeC {\"a}tzungen}{1}{section.2}
+\contentsline {paragraph}{Pascal Horat}{1}{section*.2}
+\contentsline {paragraph}{G\IeC {\"o}khan Kaya}{1}{section*.3}
+\contentsline {paragraph}{Steve Gerome Kamga}{1}{section*.4}
 \contentsline {section}{\numberline {3}Fremdeinsch\IeC {\"a}tzung}{1}{section.3}
+\contentsline {paragraph}{Pascal Horat}{1}{section*.5}
+\contentsline {paragraph}{G\IeC {\"o}khan Kaya}{1}{section*.6}
+\contentsline {paragraph}{Steve Gerome Kamga}{2}{section*.7}
 \contentsline {section}{\numberline {4}Vergleich der Einsch\IeC {\"a}tzungen}{2}{section.4}
 \contentsline {section}{\numberline {5}Interpretation/Zusammenfassung}{2}{section.5}
 \contentsline {section}{\numberline {6}Konsequenzen}{2}{section.6}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  20 MAR 2017 20:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  20 MAR 2017 20:30
 entering extended mode
 **./TR2.tex
 (TR2.tex
@@ -1432,108 +1432,90 @@ Package babel Info: Redefining german shorthand "|
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 120.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 121.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 121.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 121.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 124.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 124.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 124.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 126.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 126.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 126.
-Package babel Info: Redefining german shorthand "f
 (babel)             in language  on input line 128.
 Package babel Info: Redefining german shorthand "|
 (babel)             in language  on input line 128.
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 128.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 132.
+(babel)             in language  on input line 139.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 132.
+(babel)             in language  on input line 139.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 132.
+(babel)             in language  on input line 139.
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 134.
+(babel)             in language  on input line 139.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 134.
+(babel)             in language  on input line 139.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 134.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 136.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 136.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 136.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 138.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 138.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 138.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 141.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 141.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 141.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 141.
-Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 141.
-Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 141.
-Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 139.
  [1
 
 {C:/Users/pasca/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Package babel Info: Redefining german shorthand "f
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 139.
 Package babel Info: Redefining german shorthand "|
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 139.
 Package babel Info: Redefining german shorthand "~
-(babel)             in language  on input line 141.
+(babel)             in language  on input line 139.
 Package babel Info: Redefining german shorthand "f
 (babel)             in language  on input line 141.
 Package babel Info: Redefining german shorthand "|
 (babel)             in language  on input line 141.
 Package babel Info: Redefining german shorthand "~
 (babel)             in language  on input line 141.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 143.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 143.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 143.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 145.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 145.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 145.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 148.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 148.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 148.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 148.
+Package babel Info: Redefining german shorthand "f
+(babel)             in language  on input line 148.
+Package babel Info: Redefining german shorthand "|
+(babel)             in language  on input line 148.
+Package babel Info: Redefining german shorthand "~
+(babel)             in language  on input line 148.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 141.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 148.
  (TR2.aux
 Package cleveref Info: loaded `german language definitions on input line 21.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 141.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 141.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 148.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 148.
 Package rerunfilecheck Info: File `TR2.out' has not changed.
-(rerunfilecheck)             Checksum: ACB1CE30C3EB555B4D4903A624371025;578.
+(rerunfilecheck)             Checksum: C77B97CD765407F469B978C25C398206;385.
  ) 
 Here is how much of TeX's memory you used:
- 22658 strings out of 493333
- 423756 string characters out of 3130144
- 543598 words of memory out of 3000000
- 25903 multiletter control sequences out of 15000+200000
- 15059 words of font info for 70 fonts, out of 3000000 for 9000
+ 22659 strings out of 493333
+ 423696 string characters out of 3130144
+ 542598 words of memory out of 3000000
+ 25897 multiletter control sequences out of 15000+200000
+ 14854 words of font info for 71 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 61i,7n,96p,10365b,742s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 61i,7n,96p,10365b,744s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pasca/AppData/Local/Programs/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pasca/AppData/Loc
 al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on TR2.pdf (2 pages, 84240 bytes).
+Output written on TR2.pdf (2 pages, 82799 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 14 named destinations out of 1000 (max. 500000)
- 21073 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 81 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 20537 words of extra memory for PDF output out of 20736 (max. 10000000)
 

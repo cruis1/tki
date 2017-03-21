@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  20 MAR 2017 19:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=latex 2017.3.13)  20 MAR 2017 22:08
 entering extended mode
 **./main.tex
 (main.tex
@@ -46,21 +46,11 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 ics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: dvips.def on input line 99.
 
-("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
-x.def"
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
-
-("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
-rr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
-.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count88
+("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\dvips
+.def"
+File: dvips.def 2016/07/10 v3.1a Driver-dependent file (DPC,SPQR)
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
@@ -591,8 +581,8 @@ Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
-Package hobsub Info: Skipping package `infwarerr' (already loaded).
-Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
@@ -611,7 +601,7 @@ Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
+Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
 Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
 Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
 )
@@ -641,8 +631,8 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen105
-\Hy@linkcounter=\count89
-\Hy@pagecounter=\count90
+\Hy@linkcounter=\count88
+\Hy@pagecounter=\count89
 
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.de
 f"
@@ -650,7 +640,7 @@ File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count91
+\Hy@SavedSpaceFactor=\count90
 
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.
 cfg"
@@ -663,14 +653,14 @@ Package hyperref Info: Plain pages OFF on input line 4501.
 Package hyperref Info: Backreferencing OFF on input line 4506.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4735.
-\c@Hy@tempcnt=\count92
+\c@Hy@tempcnt=\count91
  ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5088.
 \XeTeXLinkMargin=\dimen106
-\Fld@menulength=\count93
+\Fld@menulength=\count92
 \Field@Width=\dimen107
 \Fld@charsize=\dimen108
 Package hyperref Info: Hyper figures OFF on input line 6342.
@@ -682,17 +672,26 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6367.
 Package hyperref Info: PDF/A mode OFF on input line 6372.
 LaTeX Info: Redefining \ref on input line 6412.
 LaTeX Info: Redefining \pageref on input line 6416.
-\Hy@abspage=\count94
-\c@Item=\count95
-\c@Hfootnote=\count96
+\Hy@abspage=\count93
+\c@Item=\count94
+\c@Hfootnote=\count95
 )
 
-Package hyperref Message: Driver (autodetected): hpdftex.
+Package hyperref Message: Driver (default): hdvips.
 
 
-("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.d
+("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hdvips.de
+f"
+File: hdvips.def 2016/06/24 v6.83q Hyperref driver for dvips
+
+("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pdfmark.d
 ef"
-File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+File: pdfmark.def 2016/06/24 v6.83q Hyperref definitions for pdfmark specials
+\pdf@docset=\toks17
+\pdf@box=\box26
+\pdf@toks=\toks18
+\pdf@defaulttoks=\toks19
+\HyField@AnnotCount=\count96
 \Fld@listcount=\count97
 \c@bookmark@seq@number=\count98
 
@@ -703,12 +702,12 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip43
-)
+))
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \col@sep=\dimen109
 \extrarowheight=\dimen110
-\NC@list=\toks17
+\NC@list=\toks20
 \extratabsurround=\skip44
 \backup@length=\skip45
 )
@@ -730,8 +729,8 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 tex"
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils
 .tex"
-\XKV@toks=\toks18
-\XKV@tempa@toks=\toks19
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
 )
 \XKV@depth=\count99
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -745,8 +744,8 @@ sty"
 Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count100
 )
-\@glsmfirst=\toks20
-\@glsmrest=\toks21
+\@glsmfirst=\toks23
+\@glsmrest=\toks24
 )
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\textcase\textcase.
 sty"
@@ -772,7 +771,7 @@ Package: amstext 2000/06/29 v2.01 AMS text
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
 "
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks22
+\@emptytoks=\toks25
 \ex@=\dimen112
 ))
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
@@ -794,8 +793,8 @@ LaTeX Info: Redefining \overline on input line 375.
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
-\Mathstrutbox@=\box26
-\strutbox@=\box27
+\Mathstrutbox@=\box27
+\strutbox@=\box28
 \big@size=\dimen114
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
@@ -804,21 +803,21 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \dotsspace@=\muskip11
 \c@parentequation=\count108
 \dspbrk@lvl=\count109
-\tag@help=\toks23
+\tag@help=\toks26
 \row@=\count110
 \column@=\count111
 \maxfields@=\count112
-\andhelp@=\toks24
+\andhelp@=\toks27
 \eqnshift@=\dimen115
 \alignsep@=\dimen116
 \tagshift@=\dimen117
 \tagwidth@=\dimen118
 \totwidth@=\dimen119
 \lineht@=\dimen120
-\@envbody=\toks25
+\@envbody=\toks28
 \multlinegap=\skip47
 \multlinetaggap=\skip48
-\mathdisplay@stack=\toks26
+\mathdisplay@stack=\toks29
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
@@ -872,7 +871,7 @@ Package: fp-upn 1996/10/21
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fp\fp-eval.sty"
 Package: fp-eval 1995/04/03
 )))
-\@dtl@toks=\toks27
+\@dtl@toks=\toks30
 \@dtl@tmpcount=\count125
 \dtl@tmplength=\skip49
 \dtl@sortresult=\count126
@@ -897,12 +896,12 @@ glossaries-german.ldf"
 File: glossaries-german.ldf 2014/11/23 v1.0
 )
 \gls@level=\count132
-\@gls@tmpb=\toks28
+\@gls@tmpb=\toks31
 \gls@tmplen=\skip50
-\glskeylisttok=\toks29
-\glslabeltok=\toks30
-\glsshorttok=\toks31
-\glslongtok=\toks32
+\glskeylisttok=\toks32
+\glslabeltok=\toks33
+\glsshorttok=\toks34
+\glslongtok=\toks35
 
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries\styles\
 glossary-hypernav.sty"
@@ -926,15 +925,15 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTpost=\skip55
 \LTchunksize=\count133
 \LTcapwidth=\dimen121
-\LT@head=\box28
-\LT@firsthead=\box29
-\LT@foot=\box30
-\LT@lastfoot=\box31
+\LT@head=\box29
+\LT@firsthead=\box30
+\LT@foot=\box31
+\LT@lastfoot=\box32
 \LT@cols=\count134
 \LT@rows=\count135
 \c@LT@tables=\count136
 \c@LT@chunks=\count137
-\LT@p@ftn=\toks33
+\LT@p@ftn=\toks36
 )
 \glsdescwidth=\skip56
 \glspagelistwidth=\skip57
@@ -961,7 +960,7 @@ Package: supertabular 2004/02/20 v4.1e the supertabular environment
 \ST@prevht=\dimen130
 \ST@toadd=\dimen131
 \ST@dimen=\dimen132
-\ST@pbox=\box32
+\ST@pbox=\box33
 ))
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\glossaries\styles\
 glossary-tree.sty"
@@ -976,13 +975,17 @@ Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 .cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: pdftex.def on input line 147.
-)
+Package color Info: Driver file: dvips.def on input line 147.
+
+("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\dvipsnam.
+def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
 sty"
 \lst@mode=\count139
-\lst@gtempboxa=\box33
-\lst@token=\toks34
+\lst@gtempboxa=\box34
+\lst@token=\toks37
 \lst@length=\count140
 \lst@currlwidth=\dimen133
 \lst@column=\count141
@@ -998,7 +1001,7 @@ ty"
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
 \c@lstnumber=\count145
 \lst@skipnumbers=\count146
-\lst@framebox=\box34
+\lst@framebox=\box35
 )
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
 cfg"
@@ -1015,16 +1018,16 @@ y"
 \wrapoverhang=\dimen137
 \WF@size=\dimen138
 \c@WF@wrappedlines=\count147
-\WF@box=\box35
-\WF@everypar=\toks35
+\WF@box=\box36
+\WF@everypar=\toks38
 Package: wrapfig 2003/01/31  v 3.6
 ) ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count148
-\float@exts=\toks36
-\float@box=\box36
-\@float@everytoks=\toks37
-\@floatcapt=\box37
+\float@exts=\toks39
+\float@box=\box37
+\@float@everytoks=\toks40
+\@floatcapt=\box38
 )
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
@@ -1042,7 +1045,7 @@ Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
 \TX@target=\dimen142
 \TX@delta=\dimen143
 \TX@cols=\count150
-\TX@ftn=\toks38
+\TX@ftn=\toks41
 )
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\booktabs\booktabs.
 sty"
@@ -1071,7 +1074,7 @@ Package: times 2005/04/12 PSNFSS-v9.2a (SPQR)
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\colortbl\colortbl.
 sty"
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
-\everycr=\toks39
+\everycr=\toks42
 \minrowclearance=\skip64
 )
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\
@@ -1082,7 +1085,7 @@ tikz.sty"
 cs.sty"
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
 futil-common.tex"
-\pgfutil@everybye=\toks40
+\pgfutil@everybye=\toks43
 \pgfutil@tempdima=\dimen157
 \pgfutil@tempdimb=\dimen158
 
@@ -1090,7 +1093,7 @@ futil-common.tex"
 futil-common-lists.tex"))
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
 futil-latex.def"
-\pgfutil@abb=\box38
+\pgfutil@abb=\box39
 
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
@@ -1111,12 +1114,12 @@ Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
 fkeys.code.tex"
-\pgfkeys@pathtoks=\toks41
-\pgfkeys@temptoks=\toks42
+\pgfkeys@pathtoks=\toks44
+\pgfkeys@temptoks=\toks45
 
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
 fkeysfiltered.code.tex"
-\pgfkeys@tmptoks=\toks43
+\pgfkeys@tmptoks=\toks46
 ))
 \pgf@x=\dimen159
 \pgf@y=\dimen160
@@ -1132,29 +1135,30 @@ fkeysfiltered.code.tex"
 \c@pgf@countb=\count156
 \c@pgf@countc=\count157
 \c@pgf@countd=\count158
-\t@pgf@toka=\toks44
-\t@pgf@tokb=\toks45
-\t@pgf@tokc=\toks46
+\t@pgf@toka=\toks47
+\t@pgf@tokb=\toks48
+\t@pgf@tokc=\toks49
 
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
 pgf.cfg"
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
-Driver file for pgf: pgfsys-pdftex.def
+Driver file for pgf: pgfsys-dvips.def
 
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
-pgfsys-pdftex.def"
-File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+pgfsys-dvips.def"
+File: pgfsys-dvips.def 2014/07/09  (rcs-revision 1.25)
 
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
-pgfsys-common-pdf.def"
-File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+pgfsys-common-postscript.def"
+File: pgfsys-common-postscript.def 2008/10/01  (rcs-revision 1.22)
+\pgf@objectcount=\count159
 )))
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
 pgfsyssoftpath.code.tex"
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count159
-\pgfsyssoftpath@bigbuffer@items=\count160
+\pgfsyssoftpath@smallbuffer@items=\count160
+\pgfsyssoftpath@bigbuffer@items=\count161
 )
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
 pgfsysprotocol.code.tex"
@@ -1167,10 +1171,9 @@ Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 .cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Driver file: dvips.def on input line 225.
 LaTeX Info: Redefining \color on input line 709.
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
@@ -1192,11 +1195,11 @@ util.code.tex")
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
 parser.code.tex"
 \pgfmath@dimen=\dimen167
-\pgfmath@count=\count161
-\pgfmath@box=\box39
-\pgfmath@toks=\toks47
-\pgfmath@stack@operand=\toks48
-\pgfmath@stack@operation=\toks49
+\pgfmath@count=\count162
+\pgfmath@box=\box40
+\pgfmath@toks=\toks50
+\pgfmath@stack@operand=\toks51
+\pgfmath@stack@operation=\toks52
 )
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
 functions.code.tex"
@@ -1218,7 +1221,7 @@ functions.misc.code.tex")
 functions.integerarithmetics.code.tex")))
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
 float.code.tex"
-\c@pgfmathroundto@lastzeros=\count162
+\c@pgfmathroundto@lastzeros=\count163
 ))
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
 gfcorepoints.code.tex"
@@ -1253,10 +1256,10 @@ File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
 gfcorescopes.code.tex"
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box40
-\pgf@hbox=\box41
-\pgf@layerbox@main=\box42
-\pgf@picture@serial@count=\count163
+\pgfpic=\box41
+\pgf@hbox=\box42
+\pgf@layerbox@main=\box43
+\pgf@picture@serial@count=\count164
 )
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
 gfcoregraphicstate.code.tex"
@@ -1291,7 +1294,7 @@ File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
 gfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
 \pgf@max=\dimen191
-\pgf@sys@shading@range@num=\count164
+\pgf@sys@shading@range@num=\count165
 )
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
 gfcoreimage.code.tex"
@@ -1300,7 +1303,7 @@ File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
 gfcoreexternal.code.tex"
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box43
+\pgfexternal@startupbox=\box44
 ))
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
 gfcorelayers.code.tex"
@@ -1317,7 +1320,7 @@ File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
 oduleshapes.code.tex"
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box44
+\pgfnodeparttextbox=\box45
 )
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
 oduleplot.code.tex"
@@ -1351,8 +1354,8 @@ Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 .code.tex")
 \pgffor@iter=\dimen194
 \pgffor@skip=\dimen195
-\pgffor@stack=\toks50
-\pgffor@toks=\toks51
+\pgffor@stack=\toks53
+\pgffor@toks=\toks54
 ))
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
 r\tikz\tikz.code.tex"
@@ -1361,7 +1364,7 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pg
 flibraryplothandlers.code.tex"
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count165
+\pgf@plot@mark@count=\count166
 \pgfplotmarksize=\dimen196
 )
 \tikz@lastx=\dimen197
@@ -1370,23 +1373,23 @@ File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \tikz@lastysaved=\dimen256
 \tikzleveldistance=\dimen257
 \tikzsiblingdistance=\dimen258
-\tikz@figbox=\box45
-\tikz@figbox@bg=\box46
-\tikz@tempbox=\box47
-\tikz@tempbox@bg=\box48
-\tikztreelevel=\count166
-\tikznumberofchildren=\count167
-\tikznumberofcurrentchild=\count168
-\tikz@fig@count=\count169
+\tikz@figbox=\box46
+\tikz@figbox@bg=\box47
+\tikz@tempbox=\box48
+\tikz@tempbox@bg=\box49
+\tikztreelevel=\count167
+\tikznumberofchildren=\count168
+\tikznumberofcurrentchild=\count169
+\tikz@fig@count=\count170
 
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
 odulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count170
-\pgfmatrixcurrentcolumn=\count171
-\pgf@matrix@numberofcolumns=\count172
+\pgfmatrixcurrentrow=\count171
+\pgfmatrixcurrentcolumn=\count172
+\pgf@matrix@numberofcolumns=\count173
 )
-\tikz@expandcount=\count173
+\tikz@expandcount=\count174
 
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
 r\tikz\libraries\tikzlibrarytopaths.code.tex"
@@ -1401,11 +1404,11 @@ Writing index file main.idx
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\rotating.
 sty"
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-\c@r@tfl@t=\count174
+\c@r@tfl@t=\count175
 \rotFPtop=\skip65
 \rotFPbot=\skip66
-\rot@float@box=\box49
-\rot@mess@toks=\toks52
+\rot@float@box=\box50
+\rot@mess@toks=\toks55
 ) (main.aux)
 \openout1 = `main.aux'.
 
@@ -1435,36 +1438,6 @@ LaTeX Font Info:    Try loading font information for T1+ptm on input line 41.
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
-("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
-ii"
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count175
-\scratchdimen=\dimen259
-\scratchbox=\box50
-\nofMPsegments=\count176
-\nofMParguments=\count177
-\everyMPshowfont=\toks53
-\MPscratchCnt=\count178
-\MPscratchDim=\dimen260
-\MPnumerator=\count179
-\makeMPintoPDFobject=\count180
-\everyMPtoPDFconversion=\toks54
-)
-("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
-y"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-)
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-)
 \AtBeginShipoutBox=\box51
 Package hyperref Info: Link coloring OFF on input line 41.
 
@@ -1476,7 +1449,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 estring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count181
+\c@section@level=\count176
 )
 LaTeX Info: Redefining \ref on input line 41.
 LaTeX Info: Redefining \pageref on input line 41.
@@ -1485,21 +1458,39 @@ LaTeX Info: Redefining \nameref on input line 41.
 \@outlinefile=\write5
 \openout5 = `main.out'.
 
-\c@lstlisting=\count182
+\c@lstlisting=\count177
  ABD: EveryShipout initializing macros
-(chapter/01title.tex <images/hsrlogo.png, id=46, 577.40718pt x 225.84375pt>
-File: images/hsrlogo.png Graphic file (type png)
+(chapter/01title.tex
 
-<use images/hsrlogo.png>
-Package pdftex.def Info: images/hsrlogo.png used on input line 17.
-(pdftex.def)             Requested size: 218.2364pt x 85.35826pt.
+! LaTeX Error: Cannot determine size of graphic in images/hsrlogo.png (no Bound
+ingBox).
 
-<images/partnerlogo.png, id=47, 64.36546pt x 13.92703pt>
-File: images/partnerlogo.png Graphic file (type png)
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \maketitle
+               
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
-<use images/partnerlogo.png>
-Package pdftex.def Info: images/partnerlogo.png used on input line 17.
-(pdftex.def)             Requested size: 263.0181pt x 56.9055pt.
+File: images/hsrlogo.png Graphic file (type eps)
+<images/hsrlogo.png>
+
+! LaTeX Error: Cannot determine size of graphic in images/partnerlogo.png (no B
+oundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \maketitle
+               
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: images/partnerlogo.png Graphic file (type eps)
+<images/partnerlogo.png>
 LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 17
 .
 
@@ -1555,8 +1546,7 @@ Overfull \hbox (17.0pt too wide) in paragraph at lines 17--17
 
 [1
 
-{C:/Users/pasca/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/hs
-rlogo.png> <./images/partnerlogo.png>])
+])
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 45.
  (main.toc
@@ -1566,8 +1556,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
-
-(chapter/03introduction.tex [2
+ (chapter/03introduction.tex [2
 
 ]
 Kapitel 1.
@@ -1628,30 +1617,19 @@ Package natbib Warning: Empty `thebibliography' environment on input line 3.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 119.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 119.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 548E89CDD06B59C414BB3DBAF6BD6427;703.
+(rerunfilecheck)             Checksum: 2F968A75FE46AAB82592F122C3D4DD4E;702.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 119.
  ) 
 Here is how much of TeX's memory you used:
- 24900 strings out of 493333
- 454987 string characters out of 3130144
- 550408 words of memory out of 3000000
- 27888 multiletter control sequences out of 15000+200000
- 62845 words of font info for 100 fonts, out of 3000000 for 9000
+ 24499 strings out of 493334
+ 448955 string characters out of 3130169
+ 551486 words of memory out of 3000000
+ 27540 multiletter control sequences out of 15000+200000
+ 48147 words of font info for 83 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,10n,74p,1957b,400s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
-}<C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmr10.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
-courier/ucrr8a.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/urw/times/utmb8a.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/urw/times/utmr8a.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (9 pages, 110517 bytes).
-PDF statistics:
- 131 PDF objects out of 1000 (max. 8388607)
- 22 named destinations out of 1000 (max. 500000)
- 103 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 55i,11n,74p,1957b,427s stack positions out of 5000i,500n,10000p,200000b,50000s
 
+Output written on main.dvi (9 pages, 24048 bytes).
