@@ -1,8 +1,0 @@
-- Analyse Projektauftrag mit Hilfe des Vorlage-Word-Dokuments
-- Regeln abmachen (Vorlagedokument?)
-- Traktandenliste Sitzungen
-- Teamkultur bei uns? (wer Chef, Wechsel des Leaders? usw.)
-- Zimmer für Sitzungen?
-- MS Project einsetzen (wer kennt es?)
-- Projektbericht-Vorlage einsetzen
-- Berufskompetenzen.pdf beschreibt unseren Auftrag
