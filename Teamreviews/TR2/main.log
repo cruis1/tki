@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  27 MAR 2017 00:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  27 MAR 2017 01:56
 entering extended mode
 **./main.tex
 (main.tex
@@ -1075,19 +1075,7 @@ Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ltxmisc\parskip.st
 y"
 Package: parskip 2001/04/09 non-zero parskip adjustments
-))
-\@indexfile=\write3
-\openout3 = `main.idx'.
-
-
-Writing index file main.idx
-(index/glossar.tex)
-\glswrite=\write4
-\glo@main@file=\write5
-\openout5 = `main.glo'.
-
-Package glossaries Info: Writing glossary file main.glo on input line 32.
- (main.aux)
+)) (main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -1163,8 +1151,8 @@ LaTeX Info: Redefining \ref on input line 34.
 LaTeX Info: Redefining \pageref on input line 34.
 LaTeX Info: Redefining \nameref on input line 34.
  (main.out) (main.out)
-\@outlinefile=\write6
-\openout6 = `main.out'.
+\@outlinefile=\write3
+\openout3 = `main.out'.
 
 \c@lstlisting=\count162
  (chapter/01title.tex
@@ -1236,8 +1224,6 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 18--18
 
 [1
 
-\openout4 = `main.ist'.
-
 {C:/Users/pasca/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./images/hs
 rlogo.png> <./images/partnerlogo.png>])
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
@@ -1246,8 +1232,8 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
 )
-\tf@toc=\write7
-\openout7 = `main.toc'.
+\tf@toc=\write4
+\openout4 = `main.toc'.
 
 
 (chapter/03introduction.tex [2
@@ -1256,9 +1242,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 Kapitel 1.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 3.
-) (chapter/04chapterSelbsteinsch.tex [3
-
-]
+) (chapter/04chapterSelbsteinsch.tex
 Kapitel 2.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 5.
@@ -1267,7 +1251,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-<images/SelbsteinschaetzungHorat.png, id=59, 500.5902pt x 151.767pt>
+
+Underfull \vbox (badness 7576) has occurred while \output is active []
+
+ [3
+
+]
+<images/SelbsteinschaetzungHorat.png, id=61, 500.5902pt x 151.767pt>
 File: images/SelbsteinschaetzungHorat.png Graphic file (type png)
 
 <use images/SelbsteinschaetzungHorat.png>
@@ -1279,9 +1269,7 @@ Overfull \hbox (36.00832pt too wide) in paragraph at lines 8--9
 [][] 
  []
 
-[4
 
- <./images/SelbsteinschaetzungHorat.png>]
 Overfull \hbox (1.5104pt too wide) in paragraph at lines 21--22
 \T1/ptm/m/n/10.95 Meine Aus-wer-tung der Selbst-ein-schät-zung ge-mä-ss Bel-bin
  er-gab die fol-gen-de Punk-
@@ -1292,7 +1280,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--35
 
  []
 
-[5]) (chapter/05chapterFremdeinsch.tex [6]
+[4 <./images/SelbsteinschaetzungHorat.png>]) (chapter/05chapterFremdeinsch.tex
 Kapitel 3.
 
 Overfull \hbox (1.54274pt too wide) in paragraph at lines 3--7
@@ -1306,7 +1294,11 @@ Overfull \hbox (5.5371pt too wide) in paragraph at lines 3--7
 en-zu-tei-lung vor-ge-nom-men. 
  []
 
-<images/FremdeinschaetzungHoratKamga.png, id=79, 490.7133pt x 151.767pt>
+
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [5]
+<images/FremdeinschaetzungHoratKamga.png, id=77, 490.7133pt x 151.767pt>
 File: images/FremdeinschaetzungHoratKamga.png Graphic file (type png)
 
 <use images/FremdeinschaetzungHoratKamga.png>
@@ -1318,13 +1310,7 @@ Overfull \hbox (28.78679pt too wide) in paragraph at lines 19--20
 [][] 
  []
 
-
-Underfull \vbox (badness 8113) has occurred while \output is active []
-
- [7
-
-]
-<images/FremdeinschaetzungHoratKaya.png, id=89, 490.7133pt x 151.5261pt>
+<images/FremdeinschaetzungHoratKaya.png, id=78, 490.7133pt x 151.5261pt>
 File: images/FremdeinschaetzungHoratKaya.png Graphic file (type png)
 
 <use images/FremdeinschaetzungHoratKaya.png>
@@ -1342,22 +1328,24 @@ Overfull \hbox (17.49687pt too wide) in paragraph at lines 27--28
  punk-te-mäs-sig ei-ne Ausgleicher-
  []
 
-
+[6 <./images/FremdeinschaetzungHoratKamga.png> <./images/FremdeinschaetzungHora
+tKaya.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
 
-[8 <./images/FremdeinschaetzungHoratKamga.png> <./images/FremdeinschaetzungHora
-tKaya.png>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
-) (chapter/06chapterVergleich.tex [9]
+[7]) (chapter/06chapterVergleich.tex
 Kapitel 4.
-) (chapter/07chapterZusammenfassung.tex [10
 
-] [11]
+Underfull \vbox (badness 3128) has occurred while \output is active []
+
+ [8])
+(chapter/07chapterZusammenfassung.tex
 Kapitel 5.
 
 Overfull \hbox (4.18282pt too wide) in paragraph at lines 5--6
@@ -1368,44 +1356,42 @@ e-spre-chung in ei-ner Team-
 LaTeX Font Info:    Try loading font information for TS1+ptm on input line 7.
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)) (chapter/08chapterKonsequenzen.tex [12
-
-]
+) [9]) (chapter/08chapterKonsequenzen.tex
 Kapitel 6.
 )
 No file main.gls.
-(main.bbl [13
+(main.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 68.
- [14
+ [10])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
 
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 68.
+[11]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 68.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 68.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 71.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 71.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: FAFFB0AF71E19DEF521D15D5832F7165;329.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 68.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
  ) 
 Here is how much of TeX's memory you used:
- 15102 strings out of 493333
- 243383 string characters out of 3130144
+ 15064 strings out of 493333
+ 242837 string characters out of 3130144
  379682 words of memory out of 3000000
- 18260 multiletter control sequences out of 15000+200000
+ 18231 multiletter control sequences out of 15000+200000
  51036 words of font info for 75 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,9n,74p,1939b,399s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 52i,9n,74p,1939b,424s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
 } <C:\Users\pasca\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
 ctt1200.pk><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/ti
 mes/utmb8a.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
 w/times/utmr8a.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/urw/times/utmri8a.pfb>
-Output written on main.pdf (14 pages, 8649590 bytes).
+Output written on main.pdf (11 pages, 8649982 bytes).
 PDF statistics:
- 184 PDF objects out of 1000 (max. 8388607)
- 51 named destinations out of 1000 (max. 500000)
+ 173 PDF objects out of 1000 (max. 8388607)
+ 49 named destinations out of 1000 (max. 500000)
  74 words of extra memory for PDF output out of 10000 (max. 10000000)
 

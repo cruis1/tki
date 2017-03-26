@@ -25,11 +25,11 @@
 
 \documentclass[11pt,twoside]{hsrthesis}
 
-\makeindex
+%\makeindex
 
 % do this here, so you can \gls{...} to it
-\input{index/glossar}
-\makeglossaries
+%\input{index/glossar}
+%\makeglossaries
 
 \begin{document}
 
@@ -42,6 +42,9 @@
 %%%%%%%%%%%%%%%%%%
 %\input{chapter/02examples}
 \input{chapter/03introduction}
+\makeatletter
+\patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
+\makeatother
 \input{chapter/04chapterSelbsteinsch}
 \input{chapter/05chapterFremdeinsch}
 \input{chapter/06chapterVergleich}
