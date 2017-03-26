@@ -2,5 +2,5 @@
 \contentsline {chapter}{\numberline {2}Selbsteinsch\IeC {\"a}tzung}{4}{chapter.2}
 \contentsline {chapter}{\numberline {3}Fremdeinsch\IeC {\"a}tzung}{7}{chapter.3}
 \contentsline {chapter}{\numberline {4}Vergleich der Einsch\IeC {\"a}tzungen}{10}{chapter.4}
-\contentsline {chapter}{\numberline {5}Zusammenfassung}{11}{chapter.5}
-\contentsline {chapter}{\numberline {6}Konsequenzen}{12}{chapter.6}
+\contentsline {chapter}{\numberline {5}Zusammenfassung}{12}{chapter.5}
+\contentsline {chapter}{\numberline {6}Konsequenzen}{13}{chapter.6}
