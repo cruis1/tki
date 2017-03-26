@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  26 MAR 2017 14:54
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.22)  24 MAR 2017 16:39
+>>>>>>> Stashed changes
 entering extended mode
 **./main.tex
 (main.tex
@@ -1288,11 +1292,22 @@ Overfull \hbox (1.5104pt too wide) in paragraph at lines 19--20
  []
 
 
+<<<<<<< Updated upstream
 Underfull \hbox (badness 10000) in paragraph at lines 21--33
 
  []
 
 ) (chapter/05chapterFremdeinsch.tex [5]
+=======
+Overfull \hbox (2.41956pt too wide) in paragraph at lines 38--43
+\T1/ptm/m/n/10.95 Nach die-ser Be-wer-tungs-me-tho-de ha-be ich in Ru-he an die
+ drei oben-ge-nann-ten Team-
+ []
+
+[4
+
+]) (chapter/05chapterFremdeinsch.tex [5]
+>>>>>>> Stashed changes
 Kapitel 3.
 
 Overfull \hbox (1.54274pt too wide) in paragraph at lines 4--8
@@ -1376,6 +1391,7 @@ Here is how much of TeX's memory you used:
  18240 multiletter control sequences out of 15000+200000
  50722 words of font info for 74 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
+<<<<<<< Updated upstream
  52i,9n,74p,1939b,403s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
 } <C:\Users\pasca\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
@@ -1384,6 +1400,16 @@ mes/utmb8a.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
 w/times/utmr8a.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/urw/times/utmri8a.pfb>
 Output written on main.pdf (12 pages, 8642291 bytes).
+=======
+ 52i,9n,74p,1939b,415s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Gerome Kamga/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base
+/8r.enc} <C:\Users\Gerome Kamga\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknapp
+en\ec\dpi600\ectt1200.pk><C:/Users/Gerome Kamga/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Gerome Kamga/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Gerome Kamga/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (11 pages, 95854 bytes).
+>>>>>>> Stashed changes
 PDF statistics:
  162 PDF objects out of 1000 (max. 8388607)
  40 named destinations out of 1000 (max. 500000)
