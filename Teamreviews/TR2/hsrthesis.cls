@@ -30,7 +30,7 @@
 \usepackage{booktabs}
 \usepackage{verbatim}
 \usepackage[parfill]{parskip}
-\usepackage{etoolbox}
+\usepackage{etoolbox} %Damit kein Pagebreak bei Chapter entsteht
 \definecolor{lightgrey}{rgb}{.9,.9,.9}
 
 
