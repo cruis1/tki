@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  27 MAR 2017 01:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  27 MAR 2017 12:09
 entering extended mode
 **./main.tex
 (main.tex
@@ -1348,8 +1348,8 @@ Underfull \vbox (badness 3128) has occurred while \output is active []
 (chapter/07chapterZusammenfassung.tex
 Kapitel 5.
 
-Overfull \hbox (4.18282pt too wide) in paragraph at lines 5--6
-\T1/ptm/m/n/10.95 Gemäss der vor-her-ge-hen-den Ana-ly-sen und ein-ge-hen-der B
+Overfull \hbox (6.0115pt too wide) in paragraph at lines 5--6
+\T1/ptm/m/n/10.95 Gemäss den vor-her-ge-hen-den Ana-ly-sen und ein-ge-hen-der B
 e-spre-chung in ei-ner Team-
  []
 
@@ -1364,16 +1364,16 @@ No file main.gls.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 72.
 
 [11]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 72.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 71.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 71.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 72.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 72.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: FAFFB0AF71E19DEF521D15D5832F7165;329.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 72.
  ) 
 Here is how much of TeX's memory you used:
  15064 strings out of 493333
@@ -1389,7 +1389,7 @@ ctt1200.pk><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/ti
 mes/utmb8a.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
 w/times/utmr8a.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/urw/times/utmri8a.pfb>
-Output written on main.pdf (11 pages, 8649982 bytes).
+Output written on main.pdf (11 pages, 8649195 bytes).
 PDF statistics:
  173 PDF objects out of 1000 (max. 8388607)
  49 named destinations out of 1000 (max. 500000)
