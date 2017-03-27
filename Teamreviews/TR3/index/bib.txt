@@ -1,0 +1,11 @@
+@article{Studienbrief,
+  author  = {Stefan Schmid, Stefan Kammhuber}, 
+  title   = {Teamfähigkeit},
+  journal = {Studienbrief Teamfähigkeit neu.pdf},
+  year    = 2017,
+  number  = 1,
+  pages   = {76-82},
+  month   = 3,
+  note    = {}, 
+  volume  = 1
+}
