@@ -2,4 +2,9 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
 The style file: plain.bst
 I found no \citation commands---while reading file main.aux
 Database file #1: index/bibliography.bib
-(There was 1 error message)
+I was expecting a `,' or a `}'---line 11 of file index/bibliography.bib
+ : 
+ : @book{lencioni2010five,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+(There were 2 error messages)
