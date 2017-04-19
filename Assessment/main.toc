@@ -1,0 +1,43 @@
+\contentsline {chapter}{\numberline {1}Verzeichnisse}{4}{chapter.1}
+\contentsline {section}{\numberline {1.1}Abbildungen}{4}{section.1.1}
+\contentsline {section}{\numberline {1.2}Quellen Abbildungen}{4}{section.1.2}
+\contentsline {chapter}{\numberline {2}Einleitung}{5}{chapter.2}
+\contentsline {chapter}{\numberline {3}Teamgrundlagen}{6}{chapter.3}
+\contentsline {section}{\numberline {3.1}Organigramm}{6}{section.3.1}
+\contentsline {section}{\numberline {3.2}Teamvertrag}{6}{section.3.2}
+\contentsline {section}{\numberline {3.3}Teamrollen}{6}{section.3.3}
+\contentsline {section}{\numberline {3.4}Teameffizienz}{6}{section.3.4}
+\contentsline {chapter}{\numberline {4}Kl\IeC {\"a}rung der Aufgabenstellung}{7}{chapter.4}
+\contentsline {chapter}{\numberline {5}Vorgehen}{8}{chapter.5}
+\contentsline {chapter}{\numberline {6}Interview}{9}{chapter.6}
+\contentsline {section}{\numberline {6.1}Teamideen}{9}{section.6.1}
+\contentsline {section}{\numberline {6.2}Interviewleitfaden}{9}{section.6.2}
+\contentsline {section}{\numberline {6.3}Interviewpartner Auswahl}{9}{section.6.3}
+\contentsline {section}{\numberline {6.4}Auswertung der Interviews}{9}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Interview 1}{9}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Interview 2}{9}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}Interview 3}{9}{subsection.6.4.3}
+\contentsline {chapter}{\numberline {7}Assessment}{10}{chapter.7}
+\contentsline {section}{\numberline {7.1}Auswahl der wichtigsten Kernpetenzen}{10}{section.7.1}
+\contentsline {section}{\numberline {7.2}Methoden f\IeC {\"u}r ein Tool}{10}{section.7.2}
+\contentsline {section}{\numberline {7.3}Ideen f\IeC {\"u}r ein Fallbeispiel}{10}{section.7.3}
+\contentsline {section}{\numberline {7.4}Ausarbeitung}{10}{section.7.4}
+\contentsline {section}{\numberline {7.5}Ablauf des Assessments}{10}{section.7.5}
+\contentsline {section}{\numberline {7.6}Aufgabenstellung}{10}{section.7.6}
+\contentsline {chapter}{\numberline {8}Bewertung}{11}{chapter.8}
+\contentsline {section}{\numberline {8.1}Einleitung}{11}{section.8.1}
+\contentsline {section}{\numberline {8.2}Bewertungskriterien}{11}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Erster Eindruck}{11}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Vorgehen}{11}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.3}Ergebnis}{11}{subsection.8.2.3}
+\contentsline {subsection}{\numberline {8.2.4}Auftreten}{11}{subsection.8.2.4}
+\contentsline {subsection}{\numberline {8.2.5}Diskussion}{11}{subsection.8.2.5}
+\contentsline {chapter}{\numberline {9}Test des Assessment}{12}{chapter.9}
+\contentsline {section}{\numberline {9.1}Vorbereitung}{12}{section.9.1}
+\contentsline {section}{\numberline {9.2}Auswertung}{12}{section.9.2}
+\contentsline {chapter}{\numberline {10}Reflexion}{13}{chapter.10}
+\contentsline {section}{\numberline {10.1}Lesson learned}{13}{section.10.1}
+\contentsline {section}{\numberline {10.2}Verbesserungspotenzial}{13}{section.10.2}
+\contentsline {chapter}{\numberline {11}Schlussfolgerungen, Ausblicke und Empfehlungen}{14}{chapter.11}
+\contentsline {section}{\numberline {11.1}SWOT Analyse}{14}{section.11.1}
+\contentsline {section}{\numberline {11.2}Aufwand und Kosten}{14}{section.11.2}
