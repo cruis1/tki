@@ -18,6 +18,7 @@
     list-units  = repeat,       % \SIlist soll die Einheit wiederholen
 }
 
+\newcolumntype{C}[1]{>{\centering\arraybackslash}p{#1}} % zentriert mit Breitenangabe
 
 %% Angaben für \maketitle
 \title{Fragenkatalog:}
@@ -125,10 +126,24 @@ Theoretische Grundlagen
 \end{itemize} 
 \bigskip 
 
+\textbf{Personalien:}
+
+\vspace{0.5cm}
+
+\begin{tabular}{lC{5cm}}
+  Vorname: &  \\  \cline{2-2}
+  Nachname: &  \\ \cline{2-2}
+  Ausbildung: &  \\ \cline{2-2}
+  Berufstätig seit: & \\ \cline{2-2}
+  Position:  & \\ \cline{2-2}
+\end{tabular}
+
+\vspace{1cm}
+
 \textbf{Einwilligungserklärung zur Erhebung und Verarbeitung von Personenbezogener Interviewdaten:}
 
 \begin{enumerate}
-\item Ich erkläre mich damit Einverstanden, dass das Interview aufgezeichnet und/oder von den Projektleitern in Schriftform als Assessmentbericht abgegeben wird.   
+\item Ich erkläre mich damit Einverstanden, dass das Interview Schriftform als Assessmentbericht abgegeben wird.   
 \item Für die weitere Auswertung werden alle Angaben, die zu meiner Identifizierung führen könnten verändert oder aus dem Text entfernt.
 \end{enumerate}
 
