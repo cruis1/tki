@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.6.13)  19 APR 2017 15:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.6.13)  24 APR 2017 12:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -609,11 +609,11 @@ siunitx-abbreviations.cfg    2016/03/01 v2.6q siunitx: Abbreviated units
 
  ) 
 Here is how much of TeX's memory you used:
- 13163 strings out of 493014
- 271082 string characters out of 6133351
+ 13161 strings out of 493014
+ 271062 string characters out of 6133351
  312549 words of memory out of 5000000
  16586 multiletter control sequences out of 15000+600000
- 52129 words of font info for 67 fonts, out of 8000000 for 9000
+ 52046 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,8n,42p,10360b,481s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}</usr/local/
@@ -621,7 +621,7 @@ texlive/2016/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/20
 16/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2016/texmf-di
 st/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
 pe1/public/wasy2-ps/wasy10.pfb>
-Output written on frag.pdf (3 pages, 85870 bytes).
+Output written on frag.pdf (3 pages, 85659 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream
