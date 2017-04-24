@@ -1,0 +1,20 @@
+﻿[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = Corumh
+	email = pascal.horat@hotmail.com
+
+
+[diff]
+    tool = diffmerge
+[difftool "diffmerge"]
+    cmd = C:/Program\\ Files/SourceGear/Common/DiffMerge/sgdm.exe \"$LOCAL\" \"$REMOTE\"
+
+[merge]
+    tool = diffmerge
+[mergetool "diffmerge"]
+    trustExitCode = true
+    cmd = C:/Program\\ Files/SourceGear/Common/DiffMerge/sgdm.exe -merge -result=\"$MERGED\" \"$LOCAL\" \"$BASE\" \"$REMOTE\"
