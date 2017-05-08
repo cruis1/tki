@@ -6,7 +6,7 @@ Hier einige nützliche Links:
 * [Reference guide for beginners](http://www.dataschool.io/git-quick-reference-for-beginners/)
 * Terminal Befehle für mac: pdflatex "name.tex"
 
-Falls gröbere Mergekonflikte bestehen und ihr kurz vor der Verzweiflung steht und bereit seit einfach alles von Git lokal zu überschreiben dann sind die beiden folgenden Codes genau für euch:
+Falls gröbere Mergekonflikte bestehen und ihr kurz vor der Verzweiflung steht und bereit seid einfach alles von Git lokal zu überschreiben, dann sind die beiden folgenden Codes genau richtig für euch:
 
 * git fetch --all
 * git reset --hard origin/master
