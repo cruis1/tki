@@ -2,3 +2,7 @@ Falls es gröbers Mergekonflikt bestaat und ihr alles vo Git wend hole ohni Rüc
 
 git fetch --all
 git reset --hard origin/master
+
+Für die wo immerno hoffnige hend empfili das Video:
+
+https://www.youtube.com/watch?v=CKAdoAR0ykc
