@@ -1,0 +1,4 @@
+Falls es gröbers Mergekonflikt bestaat und ihr alles vo Git wend hole ohni Rücksicht uf eui enderige. Die zwei Codes bruche:
+
+git fetch --all
+git reset --hard origin/master
