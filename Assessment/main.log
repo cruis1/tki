@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  29 MAY 2017 16:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  29 MAY 2017 16:08
 entering extended mode
 **./main.tex
 (main.tex
@@ -1332,7 +1332,7 @@ LaTeX Font Info:    Try loading font information for TS1+ptm on input line 43.
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-Overfull \hbox (5.83612pt too wide) in paragraph at lines 50--51
+Overfull \hbox (5.83612pt too wide) in paragraph at lines 52--53
 \T1/ptm/m/n/10.95 Eisenhower-Prinzip er-klä-ren, um dann di-rekt in oben be-sch
 rie-be-ner Übung zu schau-
  []
@@ -1377,8 +1377,8 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 15147 strings out of 493333
- 243781 string characters out of 3130144
+ 15148 strings out of 493333
+ 243791 string characters out of 3130144
  381682 words of memory out of 3000000
  18265 multiletter control sequences out of 15000+200000
  50991 words of font info for 75 fonts, out of 3000000 for 9000
@@ -1390,9 +1390,9 @@ ctt1200.pk><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/ti
 mes/utmb8a.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
 w/times/utmr8a.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/urw/times/utmri8a.pfb>
-Output written on main.pdf (21 pages, 177385 bytes).
+Output written on main.pdf (21 pages, 186380 bytes).
 PDF statistics:
- 380 PDF objects out of 1000 (max. 8388607)
- 77 named destinations out of 1000 (max. 500000)
+ 381 PDF objects out of 1000 (max. 8388607)
+ 78 named destinations out of 1000 (max. 500000)
  357 words of extra memory for PDF output out of 10000 (max. 10000000)
 
