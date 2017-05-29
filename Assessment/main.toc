@@ -18,24 +18,25 @@
 \contentsline {section}{\numberline {7.1}Auswahl der wichtigsten Kernpetenzen}{11}{section.7.1}
 \contentsline {section}{\numberline {7.2}Methoden f\IeC {\"u}r ein Tool}{11}{section.7.2}
 \contentsline {section}{\numberline {7.3}Beobachtungsinstrument Selbstmanagement und Selbstorganisation}{11}{section.7.3}
-\contentsline {subsection}{\numberline {7.3.1}Grobbeschreibung}{11}{subsection.7.3.1}
-\contentsline {section}{\numberline {7.4}Ausarbeitung}{12}{section.7.4}
-\contentsline {section}{\numberline {7.5}Ablauf des Assessments}{12}{section.7.5}
-\contentsline {section}{\numberline {7.6}Aufgabenstellung}{12}{section.7.6}
-\contentsline {chapter}{\numberline {8}Bewertung}{13}{chapter.8}
-\contentsline {section}{\numberline {8.1}Einleitung}{13}{section.8.1}
-\contentsline {section}{\numberline {8.2}Bewertungskriterien}{13}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Erster Eindruck}{13}{subsection.8.2.1}
-\contentsline {subsection}{\numberline {8.2.2}Vorgehen}{13}{subsection.8.2.2}
-\contentsline {subsection}{\numberline {8.2.3}Ergebnis}{13}{subsection.8.2.3}
-\contentsline {subsection}{\numberline {8.2.4}Auftreten}{13}{subsection.8.2.4}
-\contentsline {subsection}{\numberline {8.2.5}Diskussion}{13}{subsection.8.2.5}
-\contentsline {chapter}{\numberline {9}Test des Assessment}{14}{chapter.9}
-\contentsline {section}{\numberline {9.1}Vorbereitung}{14}{section.9.1}
-\contentsline {section}{\numberline {9.2}Auswertung}{14}{section.9.2}
-\contentsline {chapter}{\numberline {10}Reflexion}{15}{chapter.10}
-\contentsline {section}{\numberline {10.1}Lesson learned}{15}{section.10.1}
-\contentsline {section}{\numberline {10.2}Verbesserungspotenzial}{15}{section.10.2}
-\contentsline {chapter}{\numberline {11}Schlussfolgerungen, Ausblicke und Empfehlungen}{16}{chapter.11}
-\contentsline {section}{\numberline {11.1}SWOT Analyse}{16}{section.11.1}
-\contentsline {section}{\numberline {11.2}Aufwand und Kosten}{16}{section.11.2}
+\contentsline {subsection}{\numberline {7.3.1}Idee/ Grobbeschreibung}{11}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.2}Detailbeschreibung}{12}{subsection.7.3.2}
+\contentsline {section}{\numberline {7.4}Ausarbeitung}{13}{section.7.4}
+\contentsline {section}{\numberline {7.5}Ablauf des Assessments}{13}{section.7.5}
+\contentsline {section}{\numberline {7.6}Aufgabenstellung}{13}{section.7.6}
+\contentsline {chapter}{\numberline {8}Bewertung}{14}{chapter.8}
+\contentsline {section}{\numberline {8.1}Einleitung}{14}{section.8.1}
+\contentsline {section}{\numberline {8.2}Bewertungskriterien}{14}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Erster Eindruck}{14}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Vorgehen}{14}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.3}Ergebnis}{14}{subsection.8.2.3}
+\contentsline {subsection}{\numberline {8.2.4}Auftreten}{14}{subsection.8.2.4}
+\contentsline {subsection}{\numberline {8.2.5}Diskussion}{14}{subsection.8.2.5}
+\contentsline {chapter}{\numberline {9}Test des Assessment}{15}{chapter.9}
+\contentsline {section}{\numberline {9.1}Vorbereitung}{15}{section.9.1}
+\contentsline {section}{\numberline {9.2}Auswertung}{15}{section.9.2}
+\contentsline {chapter}{\numberline {10}Reflexion}{16}{chapter.10}
+\contentsline {section}{\numberline {10.1}Lesson learned}{16}{section.10.1}
+\contentsline {section}{\numberline {10.2}Verbesserungspotenzial}{16}{section.10.2}
+\contentsline {chapter}{\numberline {11}Schlussfolgerungen, Ausblicke und Empfehlungen}{17}{chapter.11}
+\contentsline {section}{\numberline {11.1}SWOT Analyse}{17}{section.11.1}
+\contentsline {section}{\numberline {11.2}Aufwand und Kosten}{17}{section.11.2}
