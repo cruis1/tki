@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  30 MAY 2017 13:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  30 MAY 2017 14:28
 entering extended mode
 **./main.tex
 (main.tex
@@ -1156,14 +1156,14 @@ LaTeX Info: Redefining \nameref on input line 34.
 
 \c@lstlisting=\count162
  (chapter/01title.tex
-<images/hsrlogo.png, id=171, 577.40718pt x 225.84375pt>
+<images/hsrlogo.png, id=175, 577.40718pt x 225.84375pt>
 File: images/hsrlogo.png Graphic file (type png)
 
 <use images/hsrlogo.png>
 Package pdftex.def Info: images/hsrlogo.png used on input line 18.
 (pdftex.def)             Requested size: 218.2364pt x 85.35826pt.
 
-<images/partnerlogo.png, id=172, 140.77594pt x 14.67984pt>
+<images/partnerlogo.png, id=176, 140.77594pt x 14.67984pt>
 File: images/partnerlogo.png Graphic file (type png)
 
 <use images/partnerlogo.png>
@@ -1286,7 +1286,7 @@ Overfull \hbox (12.52614pt too wide) in paragraph at lines 20--21
 tig wa-ren, wur-den pro Schlüs-
  []
 
-<images/Tabelle_Kernkompetenzen.png, id=265, 674.52pt x 197.73875pt>
+<images/Tabelle_Kernkompetenzen.png, id=270, 674.52pt x 197.73875pt>
 File: images/Tabelle_Kernkompetenzen.png Graphic file (type png)
 
 <use images/Tabelle_Kernkompetenzen.png>
@@ -1294,7 +1294,7 @@ Package pdftex.def Info: images/Tabelle_Kernkompetenzen.png used on input line
 24.
 (pdftex.def)             Requested size: 323.9978pt x 94.98291pt.
 
-<images/Auswertung_kernkompetenzen.png, id=266, 538.01pt x 472.76625pt>
+<images/Auswertung_kernkompetenzen.png, id=271, 538.01pt x 472.76625pt>
 File: images/Auswertung_kernkompetenzen.png Graphic file (type png)
 
 <use images/Auswertung_kernkompetenzen.png>
@@ -1339,21 +1339,31 @@ Overfull \hbox (2.12335pt too wide) in paragraph at lines 39--40
 n mit un-ter-schied-li-cher Prio-
  []
 
-[12] [13]) (chapter/09bewertung.tex [14]
+[12] [13]
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 86--86
+[]|\T1/ptm/b/n/10.95 Punkte| 
+ []
+
+
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 100--100
+[]|\T1/ptm/b/n/10.95 Punkte| 
+ []
+
+[14]) (chapter/09bewertung.tex [15]
 Kapitel 8.
-) (chapter/10test.tex [15
+) (chapter/10test.tex [16
 
 ]
 Kapitel 9.
-) (chapter/11reflexion.tex [16
+) (chapter/11reflexion.tex [17
 
 ]
 Kapitel 10.
-) (chapter/12schluss.tex [17
+) (chapter/12schluss.tex [18
 
 ]
 Kapitel 11.
-) (main.bbl [18
+) (main.bbl [19
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 4--8
@@ -1361,13 +1371,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--8
 /infos-
  []
 
-) (chapter/14urheber.tex [19
+) (chapter/14urheber.tex [20
 
-]) (chapter/15anhang.tex [20
+]) (chapter/15anhang.tex [21
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 82.
- [21
+ [22
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
@@ -1375,14 +1385,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: DDFEDE96957F16CF761DB8A75173BC33;2705.
+(rerunfilecheck)             Checksum: 1E1CABF961D4C65AEB67797C0956CDF3;2769.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 15153 strings out of 493333
- 243842 string characters out of 3130144
+ 15158 strings out of 493333
+ 243905 string characters out of 3130144
  381682 words of memory out of 3000000
- 18265 multiletter control sequences out of 15000+200000
+ 18266 multiletter control sequences out of 15000+200000
  50991 words of font info for 75 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  52i,9n,74p,1939b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1392,9 +1402,9 @@ ctt1200.pk><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/ti
 mes/utmb8a.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
 w/times/utmr8a.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/urw/times/utmri8a.pfb>
-Output written on main.pdf (22 pages, 189577 bytes).
+Output written on main.pdf (23 pages, 193238 bytes).
 PDF statistics:
- 391 PDF objects out of 1000 (max. 8388607)
- 83 named destinations out of 1000 (max. 500000)
- 357 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 403 PDF objects out of 1000 (max. 8388607)
+ 87 named destinations out of 1000 (max. 500000)
+ 365 words of extra memory for PDF output out of 10000 (max. 10000000)
 

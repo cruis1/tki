@@ -25,23 +25,26 @@
 \contentsline {subsubsection}{Aufgabe 3: Beantwortung formelles E-Mail}{13}{section*.4}
 \contentsline {subsubsection}{Aufgabe 4: Berechnung Emitterschaltung}{13}{section*.5}
 \contentsline {subsubsection}{Aufgabe ohne Reihenfolge: Kreuzwortr\IeC {\"a}tsel}{14}{section*.6}
-\contentsline {section}{\numberline {7.4}Ausarbeitung}{14}{section.7.4}
-\contentsline {section}{\numberline {7.5}Ablauf des Assessments}{14}{section.7.5}
-\contentsline {section}{\numberline {7.6}Aufgabenstellung}{14}{section.7.6}
-\contentsline {chapter}{\numberline {8}Bewertung}{15}{chapter.8}
-\contentsline {section}{\numberline {8.1}Einleitung}{15}{section.8.1}
-\contentsline {section}{\numberline {8.2}Bewertungskriterien}{15}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Erster Eindruck}{15}{subsection.8.2.1}
-\contentsline {subsection}{\numberline {8.2.2}Vorgehen}{15}{subsection.8.2.2}
-\contentsline {subsection}{\numberline {8.2.3}Ergebnis}{15}{subsection.8.2.3}
-\contentsline {subsection}{\numberline {8.2.4}Auftreten}{15}{subsection.8.2.4}
-\contentsline {subsection}{\numberline {8.2.5}Diskussion}{15}{subsection.8.2.5}
-\contentsline {chapter}{\numberline {9}Test des Assessment}{16}{chapter.9}
-\contentsline {section}{\numberline {9.1}Vorbereitung}{16}{section.9.1}
-\contentsline {section}{\numberline {9.2}Auswertung}{16}{section.9.2}
-\contentsline {chapter}{\numberline {10}Reflexion}{17}{chapter.10}
-\contentsline {section}{\numberline {10.1}Lesson learned}{17}{section.10.1}
-\contentsline {section}{\numberline {10.2}Verbesserungspotenzial}{17}{section.10.2}
-\contentsline {chapter}{\numberline {11}Schlussfolgerungen, Ausblicke und Empfehlungen}{18}{chapter.11}
-\contentsline {section}{\numberline {11.1}SWOT Analyse}{18}{section.11.1}
-\contentsline {section}{\numberline {11.2}Aufwand und Kosten}{18}{section.11.2}
+\contentsline {subsection}{\numberline {7.3.3}Bewertung}{14}{subsection.7.3.3}
+\contentsline {subsubsection}{Macht der Bewerber sich Notizen?}{14}{section*.7}
+\contentsline {subsubsection}{Schafft er sich eine \IeC {\"U}bersicht \IeC {\"u}ber die Arbeiten?}{14}{section*.8}
+\contentsline {section}{\numberline {7.4}Ausarbeitung}{15}{section.7.4}
+\contentsline {section}{\numberline {7.5}Ablauf des Assessments}{15}{section.7.5}
+\contentsline {section}{\numberline {7.6}Aufgabenstellung}{15}{section.7.6}
+\contentsline {chapter}{\numberline {8}Bewertung}{16}{chapter.8}
+\contentsline {section}{\numberline {8.1}Einleitung}{16}{section.8.1}
+\contentsline {section}{\numberline {8.2}Bewertungskriterien}{16}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Erster Eindruck}{16}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Vorgehen}{16}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.3}Ergebnis}{16}{subsection.8.2.3}
+\contentsline {subsection}{\numberline {8.2.4}Auftreten}{16}{subsection.8.2.4}
+\contentsline {subsection}{\numberline {8.2.5}Diskussion}{16}{subsection.8.2.5}
+\contentsline {chapter}{\numberline {9}Test des Assessment}{17}{chapter.9}
+\contentsline {section}{\numberline {9.1}Vorbereitung}{17}{section.9.1}
+\contentsline {section}{\numberline {9.2}Auswertung}{17}{section.9.2}
+\contentsline {chapter}{\numberline {10}Reflexion}{18}{chapter.10}
+\contentsline {section}{\numberline {10.1}Lesson learned}{18}{section.10.1}
+\contentsline {section}{\numberline {10.2}Verbesserungspotenzial}{18}{section.10.2}
+\contentsline {chapter}{\numberline {11}Schlussfolgerungen, Ausblicke und Empfehlungen}{19}{chapter.11}
+\contentsline {section}{\numberline {11.1}SWOT Analyse}{19}{section.11.1}
+\contentsline {section}{\numberline {11.2}Aufwand und Kosten}{19}{section.11.2}
