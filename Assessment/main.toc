@@ -15,16 +15,16 @@
 \contentsline {section}{\numberline {6.3}Interviewpartner Auswahl}{9}{section.6.3}
 \contentsline {section}{\numberline {6.4}Auswertung der Interviews}{9}{section.6.4}
 \contentsline {chapter}{\numberline {7}Assessment}{11}{chapter.7}
-\contentsline {section}{\numberline {7.1}Auswahl der wichtigsten Kernpetenzen}{11}{section.7.1}
-\contentsline {section}{\numberline {7.2}Methoden f\IeC {\"u}r ein Tool}{11}{section.7.2}
-\contentsline {section}{\numberline {7.3}Beobachtungsinstrument Selbstmanagement und Selbstorganisation}{11}{section.7.3}
+\contentsline {section}{\numberline {7.1}Auswahl der wichtigsten Kernkompetenzen}{11}{section.7.1}
+\contentsline {section}{\numberline {7.2}\IeC {\"U}bung 1: Logisches und analytisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{11}{section.7.2}
+\contentsline {section}{\numberline {7.3}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{11}{section.7.3}
 \contentsline {subsection}{\numberline {7.3.1}Idee/ Grobbeschreibung}{11}{subsection.7.3.1}
 \contentsline {subsection}{\numberline {7.3.2}Detailbeschreibung}{12}{subsection.7.3.2}
 \contentsline {subsubsection}{Aufgabe 1: Korrektur Messbericht}{13}{section*.2}
 \contentsline {subsubsection}{Aufgabe 2: Berechnung Operationsverst\IeC {\"a}rkerschaltung}{13}{section*.3}
 \contentsline {subsubsection}{Aufgabe 3: Beantwortung formelles E-Mail}{13}{section*.4}
 \contentsline {subsubsection}{Aufgabe 4: Berechnung Emitterschaltung}{13}{section*.5}
-\contentsline {subsubsection}{Aufgabe ohne Reihenfolge: Kreuzwortr\IeC {\"a}tsel}{13}{section*.6}
+\contentsline {subsubsection}{Aufgabe ohne Reihenfolge: Kreuzwortr\IeC {\"a}tsel}{14}{section*.6}
 \contentsline {section}{\numberline {7.4}Ausarbeitung}{14}{section.7.4}
 \contentsline {section}{\numberline {7.5}Ablauf des Assessments}{14}{section.7.5}
 \contentsline {section}{\numberline {7.6}Aufgabenstellung}{14}{section.7.6}
