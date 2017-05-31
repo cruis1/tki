@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  31 MAY 2017 10:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  31 MAY 2017 11:48
 entering extended mode
 **./main.tex
 (main.tex
@@ -1463,23 +1463,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--8
 ]) (chapter/15anhang.tex [26
 
 ]
-(attachments/messbericht.tex)
-Overfull \hbox (11.04866pt too wide) in paragraph at lines 3--10
+(attachments/messbericht.tex [27
+
+]
+Overfull \hbox (11.04866pt too wide) in paragraph at lines 4--5
 []\T1/ptm/m/n/10.95 Der Schal-tung vom Schal-tungs-teil T0453 wur-de von mir (P
 a-vel Dat-syuk) am 20.04.17
  []
 
 
-Overfull \hbox (2.02516pt too wide) in paragraph at lines 3--10
+Overfull \hbox (2.02516pt too wide) in paragraph at lines 4--5
 \T1/ptm/m/n/10.95 mit Um-ge-bungs-be-din-gun-gen nor-mal (22 Gra-de Cel-si-us, 
 60 Pro-zen-tes re-la-ti-ver Luft-
  []
 
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 82.
- [27
+LaTeX Font Info:    Font shape `TS1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `TS1/ptm/b/n' tried instead on input line 11.
 
-]
+Overfull \hbox (24.93436pt too wide) in paragraph at lines 9--22
+ [] 
+ []
+
+[28]))
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 82.
+ [29]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
  (main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 82.
@@ -1489,11 +1496,11 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 15203 strings out of 493333
- 244466 string characters out of 3130144
+ 15210 strings out of 493333
+ 244545 string characters out of 3130144
  384682 words of memory out of 3000000
- 18273 multiletter control sequences out of 15000+200000
- 53839 words of font info for 77 fonts, out of 3000000 for 9000
+ 18276 multiletter control sequences out of 15000+200000
+ 54150 words of font info for 78 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  52i,9n,74p,1939b,401s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
@@ -1502,9 +1509,9 @@ ctt1200.pk><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/ti
 mes/utmb8a.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
 w/times/utmr8a.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/urw/times/utmri8a.pfb>
-Output written on main.pdf (28 pages, 218258 bytes).
+Output written on main.pdf (30 pages, 222976 bytes).
 PDF statistics:
- 471 PDF objects out of 1000 (max. 8388607)
- 120 named destinations out of 1000 (max. 500000)
+ 481 PDF objects out of 1000 (max. 8388607)
+ 123 named destinations out of 1000 (max. 500000)
  389 words of extra memory for PDF output out of 10000 (max. 10000000)
 
