@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  31 MAY 2017 15:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  31 MAY 2017 16:32
 entering extended mode
 **./main.tex
 (main.tex
@@ -1156,14 +1156,14 @@ LaTeX Info: Redefining \nameref on input line 34.
 
 \c@lstlisting=\count162
  (chapter/01title.tex
-<images/hsrlogo.png, id=187, 577.40718pt x 225.84375pt>
+<images/hsrlogo.png, id=191, 577.40718pt x 225.84375pt>
 File: images/hsrlogo.png Graphic file (type png)
 
 <use images/hsrlogo.png>
 Package pdftex.def Info: images/hsrlogo.png used on input line 18.
 (pdftex.def)             Requested size: 218.2364pt x 85.35826pt.
 
-<images/partnerlogo.png, id=188, 140.77594pt x 14.67984pt>
+<images/partnerlogo.png, id=192, 140.77594pt x 14.67984pt>
 File: images/partnerlogo.png Graphic file (type png)
 
 <use images/partnerlogo.png>
@@ -1237,7 +1237,7 @@ l.7 \end{abstract}
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 40.
  (main.toc
-Overfull \hbox (1.41287pt too wide) in paragraph at lines 19--19
+Overfull \hbox (1.41287pt too wide) in paragraph at lines 20--20
  [][] [][]\T1/ptm/m/n/10.95 Übung 1: Lo-gi-sches und ana-ly-ti-sches Den-ken, L
 ern-be-reit-schaft und 
  []
@@ -1268,15 +1268,170 @@ ra-gen die wich-tigs-ten Kern-
 
 ]
 Kapitel 3.
-) (chapter/05klaerung.tex [6
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 8.
 
-]
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+<img/clock.png, id=274, 256.96pt x 256.96pt>
+File: img/clock.png Graphic file (type png)
+ <use img/clock.png>
+Package pdftex.def Info: img/clock.png used on input line 13.
+(pdftex.def)             Requested size: 64.23984pt x 64.23984pt.
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 18.
+
+("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) <img/work.png, id=275, 58.5387pt x 52.0344pt>
+File: img/work.png Graphic file (type png)
+ <use img/work.png>
+Package pdftex.def Info: img/work.png used on input line 22.
+(pdftex.def)             Requested size: 64.39275pt x 57.23799pt.
+
+<img/lecture.png, id=276, 256.96pt x 256.96pt>
+File: img/lecture.png Graphic file (type png)
+ <use img/lecture.png>
+Package pdftex.def Info: img/lecture.png used on input line 30.
+(pdftex.def)             Requested size: 77.0886pt x 77.0886pt.
+ [6
+
+ <./img/clock.png> <./img/work.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
+<img/communication.png, id=283, 256.96pt x 256.96pt>
+File: img/communication.png Graphic file (type png)
+
+<use img/communication.png>
+Package pdftex.def Info: img/communication.png used on input line 38.
+(pdftex.def)             Requested size: 64.23984pt x 64.23984pt.
+
+Overfull \hbox (8.78163pt too wide) in paragraph at lines 42--43
+[]\T1/ptm/m/n/10.95 Als Kom-mu-ni-ka-ti-ons-kanä-le die-nen un-se-re WhatsApp-G
+ruppe und das schulin-
+ []
+
+
+Overfull \hbox (0.78816pt too wide) in paragraph at lines 42--43
+\T1/ptm/m/n/10.95 ter-ne E-Mail. Als Da-ten-ab-la-ge und Ver-si-ons-kon-trol-le
+ ver-wen-den wir GitHub.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+
+ []
+
+<img/doc.png, id=284, 45.92157pt x 56.46094pt>
+File: img/doc.png Graphic file (type png)
+ <use img/doc.png>
+Package pdftex.def Info: img/doc.png used on input line 46.
+(pdftex.def)             Requested size: 55.10559pt x 67.75276pt.
+
+<img/boss.jpg, id=285, 642.4pt x 642.4pt>
+File: img/boss.jpg Graphic file (type jpg)
+ <use img/boss.jpg>
+Package pdftex.def Info: img/boss.jpg used on input line 54.
+(pdftex.def)             Requested size: 77.08467pt x 77.08467pt.
+
+Overfull \hbox (5.20094pt too wide) in paragraph at lines 58--59
+\T1/ptm/m/n/10.95 gen-de Ver-ant-wor-tungs-be-rei-che de-fi-niert (Än-de-run-ge
+n bei Ein-stim-mig-keit vor-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+[7 <./img/lecture.png> <./img/communication.png> <./img/doc.png> <./img/boss.jp
+g>] <img/voteHand.png, id=293, 204.765pt x 204.765pt>
+File: img/voteHand.png Graphic file (type png)
+ <use img/voteHand.png>
+Package pdftex.def Info: img/voteHand.png used on input line 76.
+(pdftex.def)             Requested size: 61.42996pt x 61.42996pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+<img/performance.png, id=294, 256.96pt x 256.96pt>
+File: img/performance.png Graphic file (type png)
+ <use img/performance.png>
+Package pdftex.def Info: img/performance.png used on input line 84.
+(pdftex.def)             Requested size: 77.0886pt x 77.0886pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+<img/quality.png, id=295, 128.48pt x 128.48pt>
+File: img/quality.png Graphic file (type png)
+ <use img/quality.png>
+Package pdftex.def Info: img/quality.png used on input line 92.
+(pdftex.def)             Requested size: 89.93538pt x 89.93538pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+[8 <./img/voteHand.png> <./img/performance.png> <./img/quality.png>]
+<img/unterschriftPascal.png, id=303, 154.32657pt x 154.32657pt>
+File: img/unterschriftPascal.png Graphic file (type png)
+
+<use img/unterschriftPascal.png>
+Package pdftex.def Info: img/unterschriftPascal.png used on input line 101.
+(pdftex.def)             Requested size: 92.59663pt x 92.59663pt.
+
+<img/unterschriftGerome.png, id=304, 233.37187pt x 233.37187pt>
+File: img/unterschriftGerome.png Graphic file (type png)
+
+<use img/unterschriftGerome.png>
+Package pdftex.def Info: img/unterschriftGerome.png used on input line 102.
+(pdftex.def)             Requested size: 140.02419pt x 140.02419pt.
+
+<img/unterschriftGoekhan.png, id=305, 188.20313pt x 188.20313pt>
+File: img/unterschriftGoekhan.png Graphic file (type png)
+
+<use img/unterschriftGoekhan.png>
+Package pdftex.def Info: img/unterschriftGoekhan.png used on input line 103.
+(pdftex.def)             Requested size: 112.92273pt x 112.92273pt.
+
+Overfull \hbox (260.8287pt too wide) in paragraph at lines 99--105
+[][] 
+ []
+
+) (chapter/05klaerung.tex [9 <./img/unterschriftPascal.png> <./img/unterschrift
+Gerome.png> <./img/unterschriftGoekhan.png>]
 Kapitel 4.
-) (chapter/06vorgehen.tex [7
+) (chapter/06vorgehen.tex [10
 
 ]
 Kapitel 5.
-) (chapter/07interview.tex [8
+) (chapter/07interview.tex [11
 
 ]
 Kapitel 6.
@@ -1292,7 +1447,7 @@ Overfull \hbox (12.52614pt too wide) in paragraph at lines 20--21
 tig wa-ren, wur-den pro Schlüs-
  []
 
-<images/Tabelle_Kernkompetenzen.png, id=285, 674.52pt x 197.73875pt>
+<images/Tabelle_Kernkompetenzen.png, id=325, 674.52pt x 197.73875pt>
 File: images/Tabelle_Kernkompetenzen.png Graphic file (type png)
 
 <use images/Tabelle_Kernkompetenzen.png>
@@ -1300,17 +1455,17 @@ Package pdftex.def Info: images/Tabelle_Kernkompetenzen.png used on input line
 24.
 (pdftex.def)             Requested size: 323.9978pt x 94.98291pt.
 
-<images/Auswertung_kernkompetenzen.png, id=286, 538.01pt x 472.76625pt>
+<images/Auswertung_kernkompetenzen.png, id=326, 538.01pt x 472.76625pt>
 File: images/Auswertung_kernkompetenzen.png Graphic file (type png)
 
 <use images/Auswertung_kernkompetenzen.png>
 Package pdftex.def Info: images/Auswertung_kernkompetenzen.png used on input li
 ne 31.
 (pdftex.def)             Requested size: 251.9989pt x 221.4427pt.
- [9
+ [12
 
 ]) (chapter/08assessment.tex
-[10pdfTeX warning (ext4): destination with the same identifier (name{figure.6.1
+[13pdfTeX warning (ext4): destination with the same identifier (name{figure.6.1
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1325,11 +1480,9 @@ l.2 \chapter
             {Assessment} <./images/Tabelle_Kernkompetenzen.png> <./images/Auswe
 rtung_kernkompetenzen.png>]
 Kapitel 7.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 18.
-[11
+[14
 
-] [12]
+] [15]
 Overfull \hbox (0.16408pt too wide) in paragraph at lines 51--52
 []\T1/ptm/m/n/10.95 Wie ge-nau/-ver-ständ-lich konn-te der Pro-zess er-klärt we
 r-den. Wur-den die wich-
@@ -1350,7 +1503,7 @@ Overfull \hbox (5.30974pt too wide) in paragraph at lines 97--110
 [] 
  []
 
-[13]
+[16]
 Overfull \hbox (94.31093pt too wide) in paragraph at lines 112--125
 [] 
  []
@@ -1370,7 +1523,7 @@ Overfull \hbox (53.85078pt too wide) in paragraph at lines 172--185
 [] 
  []
 
-[14]
+[17]
 Overfull \hbox (2.86792pt too wide) in paragraph at lines 187--200
 [] 
  []
@@ -1380,83 +1533,77 @@ Overfull \hbox (20.14716pt too wide) in paragraph at lines 203--203
 []\T1/ptm/b/n/14.4 Übung 2: Selbst-ma-na-ge-ment und Selbst-or-ga-ni-sa-ti-on 
  []
 
-[15]
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 218.
-
-
-("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
+[18]
 Overfull \hbox (2.12335pt too wide) in paragraph at lines 226--227
 \T1/ptm/m/n/10.95 zu eins auf-tre-ten kann. Näm-lich, ver-schie-de-ne Auf-ga-be
 n mit un-ter-schied-li-cher Prio-
  []
 
-[16] [17]
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 273--273
+[19] [20]
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 300--300
+[]|\T1/ptm/b/n/10.95 Punkte| 
+ []
+
+[21]
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 317--317
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
 
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 290--290
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 332--332
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
 
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 305--305
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 346--346
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
-[18]
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 319--319
-[]|\T1/ptm/b/n/10.95 Punkte| 
- []
-
-
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 336--336
-[]|\T1/ptm/b/n/10.95 Punkte| 
- []
-
-[19]
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 350--350
+[22]
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 363--363
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
 
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 364--364
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 377--377
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
 
-Overfull \hbox (6.63303pt too wide) in paragraph at lines 362--370
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 391--391
+[]|\T1/ptm/b/n/10.95 Punkte| 
+ []
+
+
+Overfull \hbox (6.63303pt too wide) in paragraph at lines 389--397
  [] 
  []
 
 
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 375--375
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 402--402
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
 
-Overfull \hbox (6.63303pt too wide) in paragraph at lines 373--381
+Overfull \hbox (6.63303pt too wide) in paragraph at lines 400--408
  [] 
  []
 
-) (chapter/09bewertung.tex [20]
+) (chapter/09bewertung.tex [23] [24]
 Kapitel 8.
-) (chapter/10test.tex [21
+) (chapter/10test.tex [25
 
 ]
 Kapitel 9.
-) (chapter/11reflexion.tex [22
+) (chapter/11reflexion.tex [26
 
 ]
 Kapitel 10.
-) (chapter/12schluss.tex [23
+) (chapter/12schluss.tex [27
 
 ]
 Kapitel 11.
-) (main.bbl [24
+) (main.bbl [28
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 4--8
@@ -1464,14 +1611,75 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--8
 /infos-
  []
 
-) (chapter/14urheber.tex [25
+) (chapter/14urheber.tex [29
 
-]) (chapter/15anhang.tex [26
-
-]
-(attachments/messbericht.tex [27
+]) (chapter/15anhang.tex [30
 
 ]
+(attachments/emitterStufe.tex [31
+
+]
+<images/emitterStufe.png, id=459, 691.83469pt x 379.4175pt>
+File: images/emitterStufe.png Graphic file (type png)
+
+<use images/emitterStufe.png>
+Package pdftex.def Info: images/emitterStufe.png used on input line 3.
+(pdftex.def)             Requested size: 360.0pt x 197.43718pt.
+
+Overfull \hbox (30.0pt too wide) in paragraph at lines 3--4
+[] 
+ []
+
+
+Overfull \hbox (15.5156pt too wide) in paragraph at lines 8--10
+[]\T1/ptm/m/n/10.95 Wie gross wird der Kol-lek-tor-strom IC0 im Ar-beits-punkt,
+ wenn die Arbeitspunkt-
+ []
+
+[32 <./images/emitterStufe.png>]
+<images/datasheetBC547.png, id=468, 670.75594pt x 722.7pt>
+File: images/datasheetBC547.png Graphic file (type png)
+
+<use images/datasheetBC547.png>
+Package pdftex.def Info: images/datasheetBC547.png used on input line 15.
+(pdftex.def)             Requested size: 360.0pt x 387.87024pt.
+) (attachments/opAmp.tex
+Underfull \hbox (badness 10000) in paragraph at lines 15--1
+
+ []
+
+[33 <./images/datasheetBC547.png>]
+Overfull \hbox (8.92911pt too wide) in paragraph at lines 2--2
+[][]\T1/ptm/b/n/14.4 Aufgabe b: Be-rech-nung Ope-ra-ti-ons-ver-stär-ker-schal-t
+ung 
+ []
+
+<images/opAmp.png, id=473, 1127.71312pt x 526.21594pt>
+File: images/opAmp.png Graphic file (type png)
+ <use images/opAmp.png>
+Package pdftex.def Info: images/opAmp.png used on input line 5.
+(pdftex.def)             Requested size: 431.9989pt x 201.57805pt.
+
+Overfull \hbox (101.9989pt too wide) in paragraph at lines 5--6
+[][] 
+ []
+
+) (attachments/antwortMail.tex [34 <./images/opAmp.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 6--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--17
+
+ []
+
+) (attachments/messbericht.tex [35]
 Overfull \hbox (11.04866pt too wide) in paragraph at lines 4--5
 []\T1/ptm/m/n/10.95 Der Schal-tung vom Schal-tungs-teil T0453 wur-de von mir (P
 a-vel Dat-syuk) am 20.04.17
@@ -1490,70 +1698,46 @@ Overfull \hbox (24.93436pt too wide) in paragraph at lines 9--22
  [] 
  []
 
-[28]) (attachments/antwortMail.tex
-Underfull \hbox (badness 10000) in paragraph at lines 4--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--14
-
- []
-
-) (attachments/kreuzwortraetsel.tex
-<images/Kreuzwortraetsel.png, id=419, 642.14906pt x 683.55376pt>
+[36]) (attachments/kreuzwortraetsel.tex
+<images/Kreuzwortraetsel.png, id=490, 642.14906pt x 683.55376pt>
 File: images/Kreuzwortraetsel.png Graphic file (type png)
 
 <use images/Kreuzwortraetsel.png>
-Package pdftex.def Info: images/Kreuzwortraetsel.png used on input line 1.
+Package pdftex.def Info: images/Kreuzwortraetsel.png used on input line 2.
 (pdftex.def)             Requested size: 431.9989pt x 459.8665pt.
-)
-Overfull \hbox (71.9989pt too wide) in paragraph at lines 1--12
-[][]
+
+Overfull \hbox (101.9989pt too wide) in paragraph at lines 2--3
+[] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--12
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [29])
+[37 <./images/Kreuzwortraetsel.png>]))
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 82.
-
-[30 <./images/Kreuzwortraetsel.png>]
+ [38]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
  (main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: DF17E4E42C10529D9F801CC367837354;2965.
+(rerunfilecheck)             Checksum: AB227922E6F0B3DFE6D8DF7960CF8846;3093.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 15222 strings out of 493333
- 244844 string characters out of 3130144
+ 15322 strings out of 493333
+ 246724 string characters out of 3130144
  384682 words of memory out of 3000000
- 18280 multiletter control sequences out of 15000+200000
- 54150 words of font info for 78 fonts, out of 3000000 for 9000
+ 18342 multiletter control sequences out of 15000+200000
+ 56872 words of font info for 80 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,9n,74p,1939b,401s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 52i,13n,74p,1939b,428s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
 } <C:\Users\pasca\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
 ctt1200.pk><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/ti
 mes/utmb8a.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
 w/times/utmr8a.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/urw/times/utmri8a.pfb>
-Output written on main.pdf (31 pages, 642391 bytes).
+Output written on main.pdf (39 pages, 1645416 bytes).
 PDF statistics:
- 487 PDF objects out of 1000 (max. 8388607)
- 124 named destinations out of 1000 (max. 500000)
- 394 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 563 PDF objects out of 1000 (max. 8388607)
+ 140 named destinations out of 1000 (max. 500000)
+ 477 words of extra memory for PDF output out of 10000 (max. 10000000)
 
