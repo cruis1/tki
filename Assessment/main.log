@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  1 JUN 2017 13:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  1 JUN 2017 14:41
 entering extended mode
 **./main.tex
 (main.tex
@@ -1156,14 +1156,14 @@ LaTeX Info: Redefining \nameref on input line 34.
 
 \c@lstlisting=\count162
  (chapter/01title.tex
-<images/hsrlogo.png, id=191, 577.40718pt x 225.84375pt>
+<images/hsrlogo.png, id=195, 577.40718pt x 225.84375pt>
 File: images/hsrlogo.png Graphic file (type png)
 
 <use images/hsrlogo.png>
 Package pdftex.def Info: images/hsrlogo.png used on input line 18.
 (pdftex.def)             Requested size: 218.2364pt x 85.35826pt.
 
-<images/partnerlogo.png, id=192, 140.77594pt x 14.67984pt>
+<images/partnerlogo.png, id=196, 140.77594pt x 14.67984pt>
 File: images/partnerlogo.png Graphic file (type png)
 
 <use images/partnerlogo.png>
@@ -1275,7 +1275,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
-<img/clock.png, id=274, 256.96pt x 256.96pt>
+<img/clock.png, id=279, 256.96pt x 256.96pt>
 File: img/clock.png Graphic file (type png)
  <use img/clock.png>
 Package pdftex.def Info: img/clock.png used on input line 13.
@@ -1284,13 +1284,13 @@ LaTeX Font Info:    Try loading font information for TS1+ptm on input line 18.
 
 ("C:\Users\pasca\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-) <img/work.png, id=275, 58.5387pt x 52.0344pt>
+) <img/work.png, id=280, 58.5387pt x 52.0344pt>
 File: img/work.png Graphic file (type png)
  <use img/work.png>
 Package pdftex.def Info: img/work.png used on input line 22.
 (pdftex.def)             Requested size: 64.39275pt x 57.23799pt.
 
-<img/lecture.png, id=276, 256.96pt x 256.96pt>
+<img/lecture.png, id=281, 256.96pt x 256.96pt>
 File: img/lecture.png Graphic file (type png)
  <use img/lecture.png>
 Package pdftex.def Info: img/lecture.png used on input line 30.
@@ -1302,7 +1302,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--35
 
  []
 
-<img/communication.png, id=283, 256.96pt x 256.96pt>
+<img/communication.png, id=288, 256.96pt x 256.96pt>
 File: img/communication.png Graphic file (type png)
 
 <use img/communication.png>
@@ -1330,13 +1330,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
-<img/doc.png, id=284, 45.92157pt x 56.46094pt>
+<img/doc.png, id=289, 45.92157pt x 56.46094pt>
 File: img/doc.png Graphic file (type png)
  <use img/doc.png>
 Package pdftex.def Info: img/doc.png used on input line 46.
 (pdftex.def)             Requested size: 55.10559pt x 67.75276pt.
 
-<img/boss.jpg, id=285, 642.4pt x 642.4pt>
+<img/boss.jpg, id=290, 642.4pt x 642.4pt>
 File: img/boss.jpg Graphic file (type jpg)
  <use img/boss.jpg>
 Package pdftex.def Info: img/boss.jpg used on input line 54.
@@ -1353,7 +1353,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--59
  []
 
 [7 <./img/lecture.png> <./img/communication.png> <./img/doc.png> <./img/boss.jp
-g>] <img/voteHand.png, id=293, 204.765pt x 204.765pt>
+g>] <img/voteHand.png, id=298, 204.765pt x 204.765pt>
 File: img/voteHand.png Graphic file (type png)
  <use img/voteHand.png>
 Package pdftex.def Info: img/voteHand.png used on input line 76.
@@ -1368,7 +1368,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
-<img/performance.png, id=294, 256.96pt x 256.96pt>
+<img/performance.png, id=299, 256.96pt x 256.96pt>
 File: img/performance.png Graphic file (type png)
  <use img/performance.png>
 Package pdftex.def Info: img/performance.png used on input line 84.
@@ -1383,7 +1383,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 88--89
 
  []
 
-<img/quality.png, id=295, 128.48pt x 128.48pt>
+<img/quality.png, id=300, 128.48pt x 128.48pt>
 File: img/quality.png Graphic file (type png)
  <use img/quality.png>
 Package pdftex.def Info: img/quality.png used on input line 92.
@@ -1399,21 +1399,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--97
  []
 
 [8 <./img/voteHand.png> <./img/performance.png> <./img/quality.png>]
-<img/unterschriftPascal.png, id=303, 154.32657pt x 154.32657pt>
+<img/unterschriftPascal.png, id=308, 154.32657pt x 154.32657pt>
 File: img/unterschriftPascal.png Graphic file (type png)
 
 <use img/unterschriftPascal.png>
 Package pdftex.def Info: img/unterschriftPascal.png used on input line 101.
 (pdftex.def)             Requested size: 92.59663pt x 92.59663pt.
 
-<img/unterschriftGerome.png, id=304, 233.37187pt x 233.37187pt>
+<img/unterschriftGerome.png, id=309, 233.37187pt x 233.37187pt>
 File: img/unterschriftGerome.png Graphic file (type png)
 
 <use img/unterschriftGerome.png>
 Package pdftex.def Info: img/unterschriftGerome.png used on input line 102.
 (pdftex.def)             Requested size: 140.02419pt x 140.02419pt.
 
-<img/unterschriftGoekhan.png, id=305, 188.20313pt x 188.20313pt>
+<img/unterschriftGoekhan.png, id=310, 188.20313pt x 188.20313pt>
 File: img/unterschriftGoekhan.png Graphic file (type png)
 
 <use img/unterschriftGoekhan.png>
@@ -1453,7 +1453,7 @@ Overfull \hbox (12.52614pt too wide) in paragraph at lines 20--21
 tig wa-ren, wur-den pro Schlüs-
  []
 
-<images/Tabelle_Kernkompetenzen.png, id=325, 674.52pt x 197.73875pt>
+<images/Tabelle_Kernkompetenzen.png, id=330, 674.52pt x 197.73875pt>
 File: images/Tabelle_Kernkompetenzen.png Graphic file (type png)
 
 <use images/Tabelle_Kernkompetenzen.png>
@@ -1461,7 +1461,7 @@ Package pdftex.def Info: images/Tabelle_Kernkompetenzen.png used on input line
 24.
 (pdftex.def)             Requested size: 323.9978pt x 94.98291pt.
 
-<images/Auswertung_kernkompetenzen.png, id=326, 538.01pt x 472.76625pt>
+<images/Auswertung_kernkompetenzen.png, id=331, 538.01pt x 472.76625pt>
 File: images/Auswertung_kernkompetenzen.png Graphic file (type png)
 
 <use images/Auswertung_kernkompetenzen.png>
@@ -1546,56 +1546,56 @@ n mit un-ter-schied-li-cher Prio-
  []
 
 [19] [20]
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 301--301
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 307--307
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
 [21]
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 318--318
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 324--324
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
 
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 333--333
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 339--339
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
 
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 347--347
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 353--353
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
 [22]
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 364--364
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 370--370
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
 
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 378--378
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 384--384
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
 
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 392--392
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 398--398
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
 
-Overfull \hbox (6.63303pt too wide) in paragraph at lines 390--398
+Overfull \hbox (6.63303pt too wide) in paragraph at lines 396--404
  [] 
  []
 
 
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 403--403
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 409--409
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
 
-Overfull \hbox (6.63303pt too wide) in paragraph at lines 401--409
+Overfull \hbox (6.63303pt too wide) in paragraph at lines 407--415
  [] 
  []
 
-) (chapter/09bewertung.tex [23] [24]
+[23]) (chapter/09bewertung.tex [24]
 Kapitel 8.
 ) (chapter/10test.tex [25
 
@@ -1629,7 +1629,7 @@ Overfull \hbox (1.64249pt too wide) in paragraph at lines 2--2
 [][]\T1/ptm/b/n/14.4 Aufgabe a: Be-rech-nung AP Tran-sis-tor-schal-tung T0455 
  []
 
-<images/emitterStufe.png, id=459, 691.83469pt x 379.4175pt>
+<images/emitterStufe.png, id=464, 691.83469pt x 379.4175pt>
 File: images/emitterStufe.png Graphic file (type png)
 
 <use images/emitterStufe.png>
@@ -1647,7 +1647,7 @@ Overfull \hbox (15.5156pt too wide) in paragraph at lines 8--10
  []
 
 [32 <./images/emitterStufe.png>]
-<images/datasheetBC547.png, id=468, 670.75594pt x 722.7pt>
+<images/datasheetBC547.png, id=473, 670.75594pt x 722.7pt>
 File: images/datasheetBC547.png Graphic file (type png)
 
 <use images/datasheetBC547.png>
@@ -1669,7 +1669,7 @@ Overfull \hbox (50.0698pt too wide) in paragraph at lines 2--2
 ung T0454 
  []
 
-<images/opAmp.png, id=473, 1127.71312pt x 526.21594pt>
+<images/opAmp.png, id=478, 1127.71312pt x 526.21594pt>
 File: images/opAmp.png Graphic file (type png)
  <use images/opAmp.png>
 Package pdftex.def Info: images/opAmp.png used on input line 5.
@@ -1719,7 +1719,7 @@ Overfull \hbox (24.93436pt too wide) in paragraph at lines 9--22
  []
 
 [36]) (attachments/kreuzwortraetsel.tex
-<images/Kreuzwortraetsel.png, id=490, 642.14906pt x 683.55376pt>
+<images/Kreuzwortraetsel.png, id=495, 642.14906pt x 683.55376pt>
 File: images/Kreuzwortraetsel.png Graphic file (type png)
 
 <use images/Kreuzwortraetsel.png>
@@ -1738,14 +1738,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 82.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 82.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: AB227922E6F0B3DFE6D8DF7960CF8846;3093.
+(rerunfilecheck)             Checksum: 14A0C38B5BD8C0C14B14920BE40A74EF;3198.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 15322 strings out of 493333
- 246724 string characters out of 3130144
+ 15324 strings out of 493333
+ 246758 string characters out of 3130144
  384682 words of memory out of 3000000
- 18342 multiletter control sequences out of 15000+200000
+ 18343 multiletter control sequences out of 15000+200000
  56872 words of font info for 80 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  52i,13n,74p,1939b,428s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1755,9 +1755,9 @@ ctt1200.pk><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/ti
 mes/utmb8a.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
 w/times/utmr8a.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/urw/times/utmri8a.pfb>
-Output written on main.pdf (39 pages, 1643967 bytes).
+Output written on main.pdf (39 pages, 1644731 bytes).
 PDF statistics:
- 563 PDF objects out of 1000 (max. 8388607)
- 140 named destinations out of 1000 (max. 500000)
- 477 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 568 PDF objects out of 1000 (max. 8388607)
+ 141 named destinations out of 1000 (max. 500000)
+ 485 words of extra memory for PDF output out of 10000 (max. 10000000)
 
