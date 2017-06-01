@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  31 MAY 2017 16:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.5)  1 JUN 2017 13:55
 entering extended mode
 **./main.tex
 (main.tex
@@ -1427,6 +1427,12 @@ Overfull \hbox (260.8287pt too wide) in paragraph at lines 99--105
 ) (chapter/05klaerung.tex [9 <./img/unterschriftPascal.png> <./img/unterschrift
 Gerome.png> <./img/unterschriftGoekhan.png>]
 Kapitel 4.
+
+Overfull \hbox (20.27579pt too wide) in paragraph at lines 6--8
+\T1/ptm/m/n/10.95 Antwort: Es wur-de kei-ne kon-kre-te Zahl ge-nannt. Im Um-fan
+g sind wir frei-ge-stellt. 
+ []
+
 ) (chapter/06vorgehen.tex [10
 
 ]
@@ -1483,109 +1489,109 @@ Kapitel 7.
 [14
 
 ] [15]
-Overfull \hbox (0.16408pt too wide) in paragraph at lines 51--52
+Overfull \hbox (0.16408pt too wide) in paragraph at lines 52--53
 []\T1/ptm/m/n/10.95 Wie ge-nau/-ver-ständ-lich konn-te der Pro-zess er-klärt we
 r-den. Wur-den die wich-
  []
 
 
-Overfull \hbox (109.88147pt too wide) in paragraph at lines 67--80
+Overfull \hbox (109.88147pt too wide) in paragraph at lines 68--81
 [] 
  []
 
 
-Overfull \hbox (81.23643pt too wide) in paragraph at lines 82--95
+Overfull \hbox (81.23643pt too wide) in paragraph at lines 83--96
 [] 
  []
 
 
-Overfull \hbox (5.30974pt too wide) in paragraph at lines 97--110
+Overfull \hbox (5.30974pt too wide) in paragraph at lines 98--111
 [] 
  []
 
 [16]
-Overfull \hbox (94.31093pt too wide) in paragraph at lines 112--125
+Overfull \hbox (94.31093pt too wide) in paragraph at lines 113--126
 [] 
  []
 
 
-Overfull \hbox (84.80626pt too wide) in paragraph at lines 127--140
+Overfull \hbox (84.80626pt too wide) in paragraph at lines 128--141
 [] 
  []
 
 
-Overfull \hbox (11.70488pt too wide) in paragraph at lines 157--170
+Overfull \hbox (11.70488pt too wide) in paragraph at lines 158--171
 [] 
  []
 
 
-Overfull \hbox (53.85078pt too wide) in paragraph at lines 172--185
+Overfull \hbox (53.85078pt too wide) in paragraph at lines 173--186
 [] 
  []
 
 [17]
-Overfull \hbox (2.86792pt too wide) in paragraph at lines 187--200
+Overfull \hbox (2.86792pt too wide) in paragraph at lines 188--201
 [] 
  []
 
 
-Overfull \hbox (20.14716pt too wide) in paragraph at lines 203--203
+Overfull \hbox (20.14716pt too wide) in paragraph at lines 204--204
 []\T1/ptm/b/n/14.4 Übung 2: Selbst-ma-na-ge-ment und Selbst-or-ga-ni-sa-ti-on 
  []
 
 [18]
-Overfull \hbox (2.12335pt too wide) in paragraph at lines 226--227
+Overfull \hbox (2.12335pt too wide) in paragraph at lines 227--228
 \T1/ptm/m/n/10.95 zu eins auf-tre-ten kann. Näm-lich, ver-schie-de-ne Auf-ga-be
 n mit un-ter-schied-li-cher Prio-
  []
 
 [19] [20]
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 300--300
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 301--301
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
 [21]
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 317--317
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 318--318
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
 
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 332--332
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 333--333
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
 
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 346--346
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 347--347
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
 [22]
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 363--363
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 364--364
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
 
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 377--377
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 378--378
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
 
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 391--391
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 392--392
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
 
-Overfull \hbox (6.63303pt too wide) in paragraph at lines 389--397
+Overfull \hbox (6.63303pt too wide) in paragraph at lines 390--398
  [] 
  []
 
 
-Overfull \hbox (5.01007pt too wide) in paragraph at lines 402--402
+Overfull \hbox (5.01007pt too wide) in paragraph at lines 403--403
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
 
-Overfull \hbox (6.63303pt too wide) in paragraph at lines 400--408
+Overfull \hbox (6.63303pt too wide) in paragraph at lines 401--409
  [] 
  []
 
@@ -1619,6 +1625,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--8
 (attachments/emitterStufe.tex [31
 
 ]
+Overfull \hbox (1.64249pt too wide) in paragraph at lines 2--2
+[][]\T1/ptm/b/n/14.4 Aufgabe a: Be-rech-nung AP Tran-sis-tor-schal-tung T0455 
+ []
+
 <images/emitterStufe.png, id=459, 691.83469pt x 379.4175pt>
 File: images/emitterStufe.png Graphic file (type png)
 
@@ -1642,16 +1652,21 @@ File: images/datasheetBC547.png Graphic file (type png)
 
 <use images/datasheetBC547.png>
 Package pdftex.def Info: images/datasheetBC547.png used on input line 15.
-(pdftex.def)             Requested size: 360.0pt x 387.87024pt.
+(pdftex.def)             Requested size: 431.9989pt x 465.4487pt.
 ) (attachments/opAmp.tex
+Overfull \hbox (71.9989pt too wide) in paragraph at lines 15--1
+[][]
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 15--1
 
  []
 
 [33 <./images/datasheetBC547.png>]
-Overfull \hbox (8.92911pt too wide) in paragraph at lines 2--2
+Overfull \hbox (50.0698pt too wide) in paragraph at lines 2--2
 [][]\T1/ptm/b/n/14.4 Aufgabe b: Be-rech-nung Ope-ra-ti-ons-ver-stär-ker-schal-t
-ung 
+ung T0454 
  []
 
 <images/opAmp.png, id=473, 1127.71312pt x 526.21594pt>
@@ -1665,6 +1680,11 @@ Overfull \hbox (101.9989pt too wide) in paragraph at lines 5--6
  []
 
 ) (attachments/antwortMail.tex [34 <./images/opAmp.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 6--17
 
  []
@@ -1735,7 +1755,7 @@ ctt1200.pk><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/ti
 mes/utmb8a.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
 w/times/utmr8a.pfb><C:/Users/pasca/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/urw/times/utmri8a.pfb>
-Output written on main.pdf (39 pages, 1645416 bytes).
+Output written on main.pdf (39 pages, 1643967 bytes).
 PDF statistics:
  563 PDF objects out of 1000 (max. 8388607)
  140 named destinations out of 1000 (max. 500000)
