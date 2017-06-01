@@ -39,12 +39,13 @@
 \contentsline {subsubsection}{Aufgabe 3: Beantwortung E-Mail}{20}{section*.14}
 \contentsline {subsubsection}{Aufgabe 4: Berechnung Emitterschaltung}{20}{section*.15}
 \contentsline {subsubsection}{Aufgabe ohne Reihenfolge: Kreuzwortr\IeC {\"a}tsel}{20}{section*.16}
-\contentsline {subsection}{\numberline {7.3.3}Bewertung}{21}{subsection.7.3.3}
+\contentsline {subsection}{\numberline {7.3.3}Am Anfang dem Bewerber mitzuteilende Informationen}{21}{subsection.7.3.3}
+\contentsline {subsection}{\numberline {7.3.4}Bewertung}{21}{subsection.7.3.4}
 \contentsline {subsubsection}{Macht der Bewerber sich Notizen?}{21}{section*.17}
-\contentsline {subsubsection}{Schafft er sich eine \IeC {\"U}bersicht \IeC {\"u}ber die Arbeiten?}{21}{section*.18}
+\contentsline {subsubsection}{Schafft er sich eine \IeC {\"U}bersicht \IeC {\"u}ber die Arbeiten?}{22}{section*.18}
 \contentsline {subsubsection}{Erstellt er eine Zeitplanung?}{22}{section*.19}
 \contentsline {subsubsection}{Wendet er das vorgestellte Eisenhower-Prinzip an?}{22}{section*.20}
-\contentsline {subsubsection}{Notiert er sich Fragen?}{22}{section*.21}
+\contentsline {subsubsection}{Notiert er sich Fragen?}{23}{section*.21}
 \contentsline {subsubsection}{Informiert er \IeC {\"u}ber seinen Arbeitsstand?}{23}{section*.22}
 \contentsline {subsubsection}{Elemente des analytischen und systematischen Denkens}{23}{section*.23}
 \contentsline {section}{\numberline {7.4}Ausarbeitung}{24}{section.7.4}
