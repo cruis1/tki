@@ -34,61 +34,61 @@
 \contentsline {section}{\numberline {4.4}Teameffizienz}{13}{section.4.4}
 \contentsline {chapter}{\numberline {5}Kl\IeC {\"a}rung der Aufgabenstellung}{14}{chapter.5}
 \contentsline {chapter}{\numberline {6}Vorgehen}{15}{chapter.6}
-\contentsline {chapter}{\numberline {7}Interview}{22}{chapter.7}
-\contentsline {section}{\numberline {7.1}Teamideen}{22}{section.7.1}
-\contentsline {section}{\numberline {7.2}Interviewleitfaden}{22}{section.7.2}
-\contentsline {section}{\numberline {7.3}Interviewpartner Auswahl}{22}{section.7.3}
-\contentsline {section}{\numberline {7.4}Auswertung der Interviews}{22}{section.7.4}
-\contentsline {chapter}{\numberline {8}Assessment}{24}{chapter.8}
-\contentsline {section}{\numberline {8.1}Auswahl der wichtigsten Kernkompetenzen}{24}{section.8.1}
-\contentsline {section}{\numberline {8.2}\IeC {\"U}bung 1: Logisches und analytisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{24}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Idee}{24}{subsection.8.2.1}
-\contentsline {subsection}{\numberline {8.2.2}Detailbeschreibung}{25}{subsection.8.2.2}
-\contentsline {subsubsection}{Pr\IeC {\"u}fungsfrage}{25}{section*.3}
-\contentsline {subsection}{\numberline {8.2.3}Bewertung}{26}{subsection.8.2.3}
-\contentsline {subsubsection}{Verschafft er sich zuerst einen \IeC {\"U}berblick?}{26}{section*.4}
-\contentsline {subsubsection}{Ist eine Methodik zu erkennen oder wird wild ziellos gesucht?}{26}{section*.5}
-\contentsline {subsubsection}{Wie sicher f\IeC {\"u}hlt sich die Person w\IeC {\"a}hrend der Pr\IeC {\"a}sentation?}{27}{section*.6}
-\contentsline {subsubsection}{Wie genau/verst\IeC {\"a}ndlich konnte der Prozess erkl\IeC {\"a}rt werden. Wurden die wichtigsten Punkte erw\IeC {\"a}hnt?}{27}{section*.7}
-\contentsline {subsubsection}{Wurden Fremdw\IeC {\"o}rter verwendet oder alles in eigene Worte \IeC {\"u}bersetzt?}{27}{section*.8}
-\contentsline {subsubsection}{Wurde visuell gearbeitet? (Damit sind die Notizen inbegriffen)}{27}{section*.9}
-\contentsline {subsubsection}{Wurden die Erkl\IeC {\"a}rungen strukturiert?}{27}{section*.10}
-\contentsline {subsubsection}{Wie viel wurde \IeC {\"u}ber den Prozess gesprochen? Wurde unn\IeC {\"o}tig \IeC {\"u}ber Nebens\IeC {\"a}chlichkeiten geredet?}{28}{section*.11}
-\contentsline {subsubsection}{Wirkte die Person interessiert?}{28}{section*.12}
-\contentsline {section}{\numberline {8.3}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{28}{section.8.3}
-\contentsline {subsection}{\numberline {8.3.1}Idee/ Grobbeschreibung}{28}{subsection.8.3.1}
-\contentsline {subsection}{\numberline {8.3.2}Detailbeschreibung}{29}{subsection.8.3.2}
-\contentsline {subsubsection}{Aufgabe 1: Korrektur Messbericht}{30}{section*.13}
-\contentsline {subsubsection}{Aufgabe 2: Berechnung Operationsverst\IeC {\"a}rkerschaltung}{30}{section*.14}
-\contentsline {subsubsection}{Aufgabe 3: Beantwortung E-Mail}{30}{section*.15}
-\contentsline {subsubsection}{Aufgabe 4: Berechnung Emitterschaltung}{30}{section*.16}
-\contentsline {subsubsection}{Aufgabe ohne Reihenfolge: Kreuzwortr\IeC {\"a}tsel}{30}{section*.17}
-\contentsline {subsection}{\numberline {8.3.3}Am Anfang dem Bewerber mitzuteilende Informationen}{31}{subsection.8.3.3}
-\contentsline {subsection}{\numberline {8.3.4}Bewertung}{32}{subsection.8.3.4}
-\contentsline {subsubsection}{Macht der Bewerber sich Notizen?}{32}{section*.18}
-\contentsline {subsubsection}{Schafft er sich eine \IeC {\"U}bersicht \IeC {\"u}ber die Arbeiten?}{32}{section*.19}
-\contentsline {subsubsection}{Erstellt er eine Zeitplanung?}{32}{section*.20}
-\contentsline {subsubsection}{Wendet er das vorgestellte Eisenhower-Prinzip an?}{33}{section*.21}
-\contentsline {subsubsection}{Notiert er sich Fragen?}{33}{section*.22}
-\contentsline {subsubsection}{Informiert er \IeC {\"u}ber seinen Arbeitsstand?}{33}{section*.23}
-\contentsline {subsubsection}{Elemente des analytischen und systematischen Denkens}{34}{section*.24}
-\contentsline {section}{\numberline {8.4}Ausarbeitung}{34}{section.8.4}
-\contentsline {section}{\numberline {8.5}Ablauf des Assessments}{34}{section.8.5}
-\contentsline {section}{\numberline {8.6}Aufgabenstellung}{35}{section.8.6}
-\contentsline {chapter}{\numberline {9}Bewertung}{36}{chapter.9}
-\contentsline {section}{\numberline {9.1}Einleitung}{36}{section.9.1}
-\contentsline {section}{\numberline {9.2}Bewertungskriterien}{36}{section.9.2}
-\contentsline {subsection}{\numberline {9.2.1}Erster Eindruck}{36}{subsection.9.2.1}
-\contentsline {subsection}{\numberline {9.2.2}Vorgehen}{36}{subsection.9.2.2}
-\contentsline {subsection}{\numberline {9.2.3}Ergebnis}{36}{subsection.9.2.3}
-\contentsline {subsection}{\numberline {9.2.4}Auftreten}{36}{subsection.9.2.4}
-\contentsline {subsection}{\numberline {9.2.5}Diskussion}{36}{subsection.9.2.5}
-\contentsline {chapter}{\numberline {10}Test des Assessment}{37}{chapter.10}
-\contentsline {section}{\numberline {10.1}Vorbereitung}{37}{section.10.1}
-\contentsline {section}{\numberline {10.2}Auswertung}{37}{section.10.2}
-\contentsline {chapter}{\numberline {11}Reflexion}{38}{chapter.11}
-\contentsline {section}{\numberline {11.1}Lesson learned}{38}{section.11.1}
-\contentsline {section}{\numberline {11.2}Verbesserungspotenzial}{38}{section.11.2}
-\contentsline {chapter}{\numberline {12}Schlussfolgerungen, Ausblicke und Empfehlungen}{39}{chapter.12}
-\contentsline {section}{\numberline {12.1}SWOT Analyse}{39}{section.12.1}
-\contentsline {section}{\numberline {12.2}Aufwand und Kosten}{39}{section.12.2}
+\contentsline {chapter}{\numberline {7}Interview}{23}{chapter.7}
+\contentsline {section}{\numberline {7.1}Teamideen}{23}{section.7.1}
+\contentsline {section}{\numberline {7.2}Interviewleitfaden}{23}{section.7.2}
+\contentsline {section}{\numberline {7.3}Interviewpartner Auswahl}{23}{section.7.3}
+\contentsline {section}{\numberline {7.4}Auswertung der Interviews}{23}{section.7.4}
+\contentsline {chapter}{\numberline {8}Assessment}{25}{chapter.8}
+\contentsline {section}{\numberline {8.1}Auswahl der wichtigsten Kernkompetenzen}{25}{section.8.1}
+\contentsline {section}{\numberline {8.2}\IeC {\"U}bung 1: Logisches und analytisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{25}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Idee}{25}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Detailbeschreibung}{26}{subsection.8.2.2}
+\contentsline {subsubsection}{Pr\IeC {\"u}fungsfrage}{26}{section*.3}
+\contentsline {subsection}{\numberline {8.2.3}Bewertung}{27}{subsection.8.2.3}
+\contentsline {subsubsection}{Verschafft er sich zuerst einen \IeC {\"U}berblick?}{27}{section*.4}
+\contentsline {subsubsection}{Ist eine Methodik zu erkennen oder wird wild ziellos gesucht?}{27}{section*.5}
+\contentsline {subsubsection}{Wie sicher f\IeC {\"u}hlt sich die Person w\IeC {\"a}hrend der Pr\IeC {\"a}sentation?}{28}{section*.6}
+\contentsline {subsubsection}{Wie genau/verst\IeC {\"a}ndlich konnte der Prozess erkl\IeC {\"a}rt werden. Wurden die wichtigsten Punkte erw\IeC {\"a}hnt?}{28}{section*.7}
+\contentsline {subsubsection}{Wurden Fremdw\IeC {\"o}rter verwendet oder alles in eigene Worte \IeC {\"u}bersetzt?}{28}{section*.8}
+\contentsline {subsubsection}{Wurde visuell gearbeitet? (Damit sind die Notizen inbegriffen)}{28}{section*.9}
+\contentsline {subsubsection}{Wurden die Erkl\IeC {\"a}rungen strukturiert?}{28}{section*.10}
+\contentsline {subsubsection}{Wie viel wurde \IeC {\"u}ber den Prozess gesprochen? Wurde unn\IeC {\"o}tig \IeC {\"u}ber Nebens\IeC {\"a}chlichkeiten geredet?}{29}{section*.11}
+\contentsline {subsubsection}{Wirkte die Person interessiert?}{29}{section*.12}
+\contentsline {section}{\numberline {8.3}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{29}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}Idee/ Grobbeschreibung}{29}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}Detailbeschreibung}{30}{subsection.8.3.2}
+\contentsline {subsubsection}{Aufgabe 1: Korrektur Messbericht}{31}{section*.13}
+\contentsline {subsubsection}{Aufgabe 2: Berechnung Operationsverst\IeC {\"a}rkerschaltung}{31}{section*.14}
+\contentsline {subsubsection}{Aufgabe 3: Beantwortung E-Mail}{31}{section*.15}
+\contentsline {subsubsection}{Aufgabe 4: Berechnung Emitterschaltung}{31}{section*.16}
+\contentsline {subsubsection}{Aufgabe ohne Reihenfolge: Kreuzwortr\IeC {\"a}tsel}{31}{section*.17}
+\contentsline {subsection}{\numberline {8.3.3}Am Anfang dem Bewerber mitzuteilende Informationen}{32}{subsection.8.3.3}
+\contentsline {subsection}{\numberline {8.3.4}Bewertung}{33}{subsection.8.3.4}
+\contentsline {subsubsection}{Macht der Bewerber sich Notizen?}{33}{section*.18}
+\contentsline {subsubsection}{Schafft er sich eine \IeC {\"U}bersicht \IeC {\"u}ber die Arbeiten?}{33}{section*.19}
+\contentsline {subsubsection}{Erstellt er eine Zeitplanung?}{33}{section*.20}
+\contentsline {subsubsection}{Wendet er das vorgestellte Eisenhower-Prinzip an?}{34}{section*.21}
+\contentsline {subsubsection}{Notiert er sich Fragen?}{34}{section*.22}
+\contentsline {subsubsection}{Informiert er \IeC {\"u}ber seinen Arbeitsstand?}{34}{section*.23}
+\contentsline {subsubsection}{Elemente des analytischen und systematischen Denkens}{35}{section*.24}
+\contentsline {section}{\numberline {8.4}Ausarbeitung}{35}{section.8.4}
+\contentsline {section}{\numberline {8.5}Ablauf des Assessments}{35}{section.8.5}
+\contentsline {section}{\numberline {8.6}Aufgabenstellung}{36}{section.8.6}
+\contentsline {chapter}{\numberline {9}Bewertung}{37}{chapter.9}
+\contentsline {section}{\numberline {9.1}Einleitung}{37}{section.9.1}
+\contentsline {section}{\numberline {9.2}Bewertungskriterien}{37}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}Erster Eindruck}{37}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.2}Vorgehen}{37}{subsection.9.2.2}
+\contentsline {subsection}{\numberline {9.2.3}Ergebnis}{37}{subsection.9.2.3}
+\contentsline {subsection}{\numberline {9.2.4}Auftreten}{37}{subsection.9.2.4}
+\contentsline {subsection}{\numberline {9.2.5}Diskussion}{37}{subsection.9.2.5}
+\contentsline {chapter}{\numberline {10}Test des Assessment}{38}{chapter.10}
+\contentsline {section}{\numberline {10.1}Vorbereitung}{38}{section.10.1}
+\contentsline {section}{\numberline {10.2}Auswertung}{38}{section.10.2}
+\contentsline {chapter}{\numberline {11}Reflexion}{39}{chapter.11}
+\contentsline {section}{\numberline {11.1}Lesson learned}{39}{section.11.1}
+\contentsline {section}{\numberline {11.2}Verbesserungspotenzial}{39}{section.11.2}
+\contentsline {chapter}{\numberline {12}Schlussfolgerungen, Ausblicke und Empfehlungen}{40}{chapter.12}
+\contentsline {section}{\numberline {12.1}SWOT Analyse}{40}{section.12.1}
+\contentsline {section}{\numberline {12.2}Aufwand und Kosten}{40}{section.12.2}
