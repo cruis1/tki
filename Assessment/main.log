@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.3)  6 JUN 2017 11:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.3)  6 JUN 2017 11:52
 entering extended mode
 **./main.tex
 (main.tex
@@ -1483,16 +1483,75 @@ Overfull \hbox (2.8146pt too wide) in paragraph at lines 37--200
  E-Mail-Aufgabe
  []
 
+
+Overfull \hbox (58.92105pt too wide) in paragraph at lines 37--200
+\T1/ptm/m/n/10.95 kaya, Wed May 31 10:40:43 2017 +0200 : Mer-ge branch 'mas-ter
+' of htt-ps://github.com/cruis1/tki
+ []
+
+
+Overfull \hbox (66.50934pt too wide) in paragraph at lines 37--200
+\T1/ptm/m/n/10.95 Corumh, Mon Apr 3 15:57:15 2017 +0200 : Mer-ge branch 'mas-te
+r' of htt-ps://github.com/cruis1/tki 
+ []
+
+
+Overfull \hbox (1.96027pt too wide) in paragraph at lines 37--200
+\T1/ptm/m/n/10.95 Corumh, Wed Mar 22 20:27:56 2017 +0100 : neues-te Team-re-vie
+w 2 Ver-si-on Upload 
+ []
+
+
+Overfull \hbox (57.09236pt too wide) in paragraph at lines 37--200
+\T1/ptm/m/n/10.95 kaya, Wed Mar 22 20:06:50 2017 +0100 : Mer-ge branch 'mas-ter
+' of htt-ps://github.com/cruis1/tki 
+ []
+
+
+Overfull \hbox (57.09236pt too wide) in paragraph at lines 37--200
+\T1/ptm/m/n/10.95 kaya, Wed Mar 22 19:45:55 2017 +0100 : Mer-ge branch 'mas-ter
+' of htt-ps://github.com/cruis1/tki 
+ []
+
+
+Overfull \hbox (57.09236pt too wide) in paragraph at lines 37--200
+\T1/ptm/m/n/10.95 kaya, Wed Mar 22 18:38:25 2017 +0100 : Mer-ge branch 'mas-ter
+' of htt-ps://github.com/cruis1/tki 
+ []
+
+
+Overfull \hbox (57.97926pt too wide) in paragraph at lines 37--200
+\T1/ptm/m/n/10.95 kaya, Mon Mar 13 17:19:59 2017 +0100 : Mer-ge branch 'mas-ter
+' of htt-ps://github.com/cruis1/tki 
+ []
+
+
+Overfull \hbox (73.19965pt too wide) in paragraph at lines 37--200
+\T1/ptm/m/n/10.95 Corumh, Mon Mar 13 12:35:32 2017 +0100 : Mer-ge branch 'mas-t
+er' of htt-ps://github.com/cruis1/tki 
+ []
+
+
+Overfull \hbox (48.85796pt too wide) in paragraph at lines 37--200
+\T1/ptm/m/n/10.95 kaya, Sun Mar 5 00:14:02 2017 +0100 : Mer-ge branch 'mas-ter'
+ of htt-ps://github.com/cruis1/tki 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--200
+
+ []
+
 [15
 
-] [16] [17] [18]) (chapter/07interview.tex [19] [20pdfTeX warning (ext4): desti
-nation with the same identifier (name{figure.6.1}) has been already used, dupli
-cate ignored
+] [16] [17] [18] [19]) (chapter/07interview.tex [20] [21pdfTeX warning (ext4): 
+destination with the same identifier (name{figure.6.1}) has been already used, 
+duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.3 \chapter
-            {Interview} <./images/Grobablauf.png>] [21pdfTeX warning (ext4): de
+            {Interview} <./images/Grobablauf.png>] [22pdfTeX warning (ext4): de
 stination with the same identifier (name{figure.6.2}) has been already used, du
 plicate ignored
 
@@ -1519,7 +1578,7 @@ Overfull \hbox (12.52614pt too wide) in paragraph at lines 20--21
 tig wa-ren, wur-den pro Schlüs-
  []
 
-<images/Tabelle_Kernkompetenzen.png, id=541, 674.52pt x 197.73875pt>
+<images/Tabelle_Kernkompetenzen.png, id=545, 674.52pt x 197.73875pt>
 File: images/Tabelle_Kernkompetenzen.png Graphic file (type png)
 
 <use images/Tabelle_Kernkompetenzen.png>
@@ -1527,17 +1586,17 @@ Package pdftex.def Info: images/Tabelle_Kernkompetenzen.png used on input line
 24.
 (pdftex.def)             Requested size: 323.9978pt x 94.98291pt.
 
-<images/Auswertung_kernkompetenzen.png, id=542, 538.01pt x 472.76625pt>
+<images/Auswertung_kernkompetenzen.png, id=546, 538.01pt x 472.76625pt>
 File: images/Auswertung_kernkompetenzen.png Graphic file (type png)
 
 <use images/Auswertung_kernkompetenzen.png>
 Package pdftex.def Info: images/Auswertung_kernkompetenzen.png used on input li
 ne 31.
 (pdftex.def)             Requested size: 251.9989pt x 221.4427pt.
- [22
+ [23
 
 ]) (chapter/08assessment.tex
-[23pdfTeX warning (ext4): destination with the same identifier (name{figure.7.1
+[24pdfTeX warning (ext4): destination with the same identifier (name{figure.7.1
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1552,9 +1611,9 @@ l.2 \chapter
             {Assessment} <./images/Tabelle_Kernkompetenzen.png> <./images/Auswe
 rtung_kernkompetenzen.png>]
 Kapitel 8.
-[24
+[25
 
-] [25]
+] [26]
 Overfull \hbox (0.16408pt too wide) in paragraph at lines 52--53
 []\T1/ptm/m/n/10.95 Wie ge-nau/-ver-ständ-lich konn-te der Pro-zess er-klärt we
 r-den. Wur-den die wich-
@@ -1575,7 +1634,7 @@ Overfull \hbox (5.30974pt too wide) in paragraph at lines 98--111
 [] 
  []
 
-[26]
+[27]
 Overfull \hbox (94.31093pt too wide) in paragraph at lines 113--126
 [] 
  []
@@ -1595,7 +1654,7 @@ Overfull \hbox (53.85078pt too wide) in paragraph at lines 173--186
 [] 
  []
 
-[27]
+[28]
 Overfull \hbox (2.86792pt too wide) in paragraph at lines 188--201
 [] 
  []
@@ -1605,13 +1664,13 @@ Overfull \hbox (20.14716pt too wide) in paragraph at lines 204--204
 []\T1/ptm/b/n/14.4 Übung 2: Selbst-ma-na-ge-ment und Selbst-or-ga-ni-sa-ti-on 
  []
 
-[28]
+[29]
 Overfull \hbox (2.12335pt too wide) in paragraph at lines 227--228
 \T1/ptm/m/n/10.95 zu eins auf-tre-ten kann. Näm-lich, ver-schie-de-ne Auf-ga-be
 n mit un-ter-schied-li-cher Prio-
  []
 
-[29] [30] [31]
+[30] [31] [32]
 Overfull \hbox (5.01007pt too wide) in paragraph at lines 317--317
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
@@ -1626,7 +1685,7 @@ Overfull \hbox (5.01007pt too wide) in paragraph at lines 349--349
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
-[32]
+[33]
 Overfull \hbox (5.01007pt too wide) in paragraph at lines 363--363
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
@@ -1636,7 +1695,7 @@ Overfull \hbox (5.01007pt too wide) in paragraph at lines 380--380
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
 
-[33]
+[34]
 Overfull \hbox (5.01007pt too wide) in paragraph at lines 394--394
 []|\T1/ptm/b/n/10.95 Punkte| 
  []
@@ -1661,21 +1720,21 @@ Overfull \hbox (6.63303pt too wide) in paragraph at lines 417--425
  [] 
  []
 
-) (chapter/09bewertung.tex [34] [35]
+) (chapter/09bewertung.tex [35] [36]
 Kapitel 9.
-) (chapter/10test.tex [36
+) (chapter/10test.tex [37
 
 ]
 Kapitel 10.
-) (chapter/11reflexion.tex [37
+) (chapter/11reflexion.tex [38
 
 ]
 Kapitel 11.
-) (chapter/12schluss.tex [38
+) (chapter/12schluss.tex [39
 
 ]
 Kapitel 12.
-) (main.bbl [39
+) (main.bbl [40
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 4--8
@@ -1683,19 +1742,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--8
 /infos-
  []
 
-) (chapter/14urheber.tex [40
+) (chapter/14urheber.tex [41
 
-]) (chapter/15anhang.tex [41
+]) (chapter/15anhang.tex [42
 
 ]
-(attachments/emitterStufe.tex [42
+(attachments/emitterStufe.tex [43
 
 ]
 Overfull \hbox (1.64249pt too wide) in paragraph at lines 2--2
 [][]\T1/ptm/b/n/14.4 Aufgabe a: Be-rech-nung AP Tran-sis-tor-schal-tung T0455 
  []
 
-<images/emitterStufe.png, id=679, 691.83469pt x 379.4175pt>
+<images/emitterStufe.png, id=683, 691.83469pt x 379.4175pt>
 File: images/emitterStufe.png Graphic file (type png)
 
 <use images/emitterStufe.png>
@@ -1712,8 +1771,8 @@ Overfull \hbox (15.5156pt too wide) in paragraph at lines 8--10
  wenn die Arbeitspunkt-
  []
 
-[43 <./images/emitterStufe.png>]
-<images/datasheetBC547.png, id=688, 670.75594pt x 722.7pt>
+[44 <./images/emitterStufe.png>]
+<images/datasheetBC547.png, id=692, 670.75594pt x 722.7pt>
 File: images/datasheetBC547.png Graphic file (type png)
 
 <use images/datasheetBC547.png>
@@ -1729,13 +1788,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--1
 
  []
 
-[44 <./images/datasheetBC547.png>]
+[45 <./images/datasheetBC547.png>]
 Overfull \hbox (50.0698pt too wide) in paragraph at lines 2--2
 [][]\T1/ptm/b/n/14.4 Aufgabe b: Be-rech-nung Ope-ra-ti-ons-ver-stär-ker-schal-t
 ung T0454 
  []
 
-<images/opAmp.png, id=693, 1127.71312pt x 526.21594pt>
+<images/opAmp.png, id=697, 1127.71312pt x 526.21594pt>
 File: images/opAmp.png Graphic file (type png)
  <use images/opAmp.png>
 Package pdftex.def Info: images/opAmp.png used on input line 5.
@@ -1745,7 +1804,7 @@ Overfull \hbox (101.9989pt too wide) in paragraph at lines 5--6
 [][] 
  []
 
-) (attachments/antwortMail.tex [45 <./images/opAmp.png>]
+) (attachments/antwortMail.tex [46 <./images/opAmp.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
@@ -1765,7 +1824,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--17
 
  []
 
-) (attachments/messbericht.tex [46]
+) (attachments/messbericht.tex [47]
 Overfull \hbox (11.04866pt too wide) in paragraph at lines 4--5
 []\T1/ptm/m/n/10.95 Der Schal-tung vom Schal-tungs-teil T0453 wur-de von mir (P
 a-vel Dat-syuk) am 20.04.17
@@ -1784,8 +1843,8 @@ Overfull \hbox (24.93436pt too wide) in paragraph at lines 9--22
  [] 
  []
 
-[47]) (attachments/kreuzwortraetsel.tex
-<images/Kreuzwortraetsel.png, id=709, 642.14906pt x 683.55376pt>
+[48]) (attachments/kreuzwortraetsel.tex
+<images/Kreuzwortraetsel.png, id=714, 642.14906pt x 683.55376pt>
 File: images/Kreuzwortraetsel.png Graphic file (type png)
 
 <use images/Kreuzwortraetsel.png>
@@ -1796,9 +1855,9 @@ Overfull \hbox (101.9989pt too wide) in paragraph at lines 2--3
 [] 
  []
 
-[48 <./images/Kreuzwortraetsel.png>]))
+[49 <./images/Kreuzwortraetsel.png>]))
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 82.
- [49]
+ [50]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 82.
  (main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 82.
@@ -1808,9 +1867,9 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  ) 
 Here is how much of TeX's memory you used:
- 15415 strings out of 493333
- 244529 string characters out of 3139195
- 396814 words of memory out of 3000000
+ 15416 strings out of 493333
+ 244536 string characters out of 3139195
+ 395814 words of memory out of 3000000
  18389 multiletter control sequences out of 15000+200000
  56872 words of font info for 80 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1820,9 +1879,9 @@ Data\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1200.pk><C:/Progra
 m Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
 /times/utmri8a.pfb>
-Output written on main.pdf (50 pages, 2447061 bytes).
+Output written on main.pdf (51 pages, 2420582 bytes).
 PDF statistics:
- 790 PDF objects out of 1000 (max. 8388607)
- 180 named destinations out of 1000 (max. 500000)
+ 796 PDF objects out of 1000 (max. 8388607)
+ 181 named destinations out of 1000 (max. 500000)
  692 words of extra memory for PDF output out of 10000 (max. 10000000)
 
