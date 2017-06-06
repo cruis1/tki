@@ -32,6 +32,21 @@
 \usepackage[parfill]{parskip}
 \usepackage{etoolbox} %Damit kein Pagebreak bei Chapter entsteht
 \definecolor{lightgrey}{rgb}{.9,.9,.9}
+\usepackage{tikz} %Damit Ellipse um erreichte Punkte bei Bewertung Proband möglich
+\usetikzlibrary{fit,shapes.geometric}
+
+\newcounter{nodemarkers}
+\newcommand\circletext[1]{%
+    \tikz[overlay,remember picture] 
+        \node (marker-\arabic{nodemarkers}-a) at (0,1.5ex) {};%
+    #1%
+    \tikz[overlay,remember picture]
+        \node (marker-\arabic{nodemarkers}-b) at (0,0){};%
+    \tikz[overlay,remember picture,inner sep=2pt]
+        \node[draw,ellipse,fit=(marker-\arabic{nodemarkers}-a.center) (marker-\arabic{nodemarkers}-b.center)] {};%
+    \stepcounter{nodemarkers}%
+}
+
 
 
 % Table Stylings
