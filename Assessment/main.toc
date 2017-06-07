@@ -99,15 +99,18 @@
 \contentsline {subsubsection}{Summe der erreichten Punkte}{45}{section*.35}
 \contentsline {subsubsection}{Anmerkungen}{45}{section*.36}
 \contentsline {chapter}{\numberline {10}Auswertung des Assessments}{46}{chapter.10}
-\contentsline {section}{\numberline {10.1}\IeC {\"U}bung 1}{46}{section.10.1}
-\contentsline {section}{\numberline {10.2}\IeC {\"U}bung 2}{46}{section.10.2}
+\contentsline {section}{\numberline {10.1}Auswertung \IeC {\"U}bung 1}{46}{section.10.1}
+\contentsline {section}{\numberline {10.2}Auswertung \IeC {\"U}bung 2}{46}{section.10.2}
 \contentsline {subsection}{\numberline {10.2.1}Tiefe erreichte Werte}{46}{subsection.10.2.1}
-\contentsline {subsection}{\numberline {10.2.2}Punkteverteilung f\IeC {\"u}r Kernkompetenzen}{46}{subsection.10.2.2}
-\contentsline {section}{\numberline {10.3}Assessment allgemein}{46}{section.10.3}
-\contentsline {subsection}{\numberline {10.3.1}Analytisches und systematisches Denken}{46}{subsection.10.3.1}
-\contentsline {chapter}{\numberline {11}Reflexion}{47}{chapter.11}
-\contentsline {section}{\numberline {11.1}Lesson learned}{47}{section.11.1}
-\contentsline {section}{\numberline {11.2}Verbesserungspotenzial}{47}{section.11.2}
-\contentsline {chapter}{\numberline {12}Schlussfolgerungen, Ausblicke und Empfehlungen}{48}{chapter.12}
-\contentsline {section}{\numberline {12.1}SWOT Analyse}{48}{section.12.1}
-\contentsline {section}{\numberline {12.2}Aufwand und Kosten}{48}{section.12.2}
+\contentsline {subsubsection}{M\IeC {\"o}gliche Massnahmen}{46}{section*.37}
+\contentsline {subsection}{\numberline {10.2.2}Punkteverteilung f\IeC {\"u}r Kernkompetenzen}{47}{subsection.10.2.2}
+\contentsline {subsubsection}{M\IeC {\"o}gliche Massnahmen}{47}{section*.38}
+\contentsline {section}{\numberline {10.3}Assessment allgemein}{47}{section.10.3}
+\contentsline {subsection}{\numberline {10.3.1}Schwergewichtsbildung Kernkompetenzen}{47}{subsection.10.3.1}
+\contentsline {subsection}{\numberline {10.3.2}Analytisches und systematisches Denken}{47}{subsection.10.3.2}
+\contentsline {chapter}{\numberline {11}Reflexion}{48}{chapter.11}
+\contentsline {section}{\numberline {11.1}Lesson learned}{48}{section.11.1}
+\contentsline {section}{\numberline {11.2}Verbesserungspotenzial}{48}{section.11.2}
+\contentsline {chapter}{\numberline {12}Schlussfolgerungen, Ausblicke und Empfehlungen}{49}{chapter.12}
+\contentsline {section}{\numberline {12.1}SWOT Analyse}{49}{section.12.1}
+\contentsline {section}{\numberline {12.2}Aufwand und Kosten}{49}{section.12.2}
