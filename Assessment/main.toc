@@ -76,20 +76,23 @@
 \contentsline {chapter}{\numberline {9}Bewertung Probanden}{39}{chapter.9}
 \contentsline {section}{\numberline {9.1}Einleitung}{39}{section.9.1}
 \contentsline {section}{\numberline {9.2}Tomo Bogdanovic}{40}{section.9.2}
-\contentsline {subsection}{\numberline {9.2.1}\IeC {\"U}bung 1: Logisches und analytisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{40}{subsection.9.2.1}
+\contentsline {subsection}{\numberline {9.2.1}\IeC {\"U}bung 1: Analytisches und systematisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{40}{subsection.9.2.1}
 \contentsline {subsection}{\numberline {9.2.2}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{40}{subsection.9.2.2}
 \contentsline {subsubsection}{Resultate der Bewertungskriterien}{40}{section*.25}
-\contentsline {subsubsection}{Allgemeiner Eindruck}{42}{section*.26}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{41}{section*.26}
+\contentsline {subsubsection}{Allgemeiner Eindruck}{42}{section*.27}
 \contentsline {section}{\numberline {9.3}Michel Andr\IeC {\'e} Nyffenegger}{42}{section.9.3}
-\contentsline {subsection}{\numberline {9.3.1}\IeC {\"U}bung 1: Logisches und analytisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{42}{subsection.9.3.1}
+\contentsline {subsection}{\numberline {9.3.1}\IeC {\"U}bung 1: Analytisches und systematisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{42}{subsection.9.3.1}
 \contentsline {subsection}{\numberline {9.3.2}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{42}{subsection.9.3.2}
-\contentsline {subsubsection}{Resultate der Bewertungskriterien}{42}{section*.27}
-\contentsline {subsubsection}{Allgemeiner Eindruck}{44}{section*.28}
+\contentsline {subsubsection}{Resultate der Bewertungskriterien}{42}{section*.28}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{43}{section*.29}
+\contentsline {subsubsection}{Allgemeiner Eindruck}{44}{section*.30}
 \contentsline {section}{\numberline {9.4}Matthias Schneider}{44}{section.9.4}
-\contentsline {subsection}{\numberline {9.4.1}\IeC {\"U}bung 1: Logisches und analytisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{44}{subsection.9.4.1}
+\contentsline {subsection}{\numberline {9.4.1}\IeC {\"U}bung 1:Analytisches und systematisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{44}{subsection.9.4.1}
 \contentsline {subsection}{\numberline {9.4.2}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{44}{subsection.9.4.2}
-\contentsline {subsubsection}{Resultate der Bewertungskriterien}{44}{section*.29}
-\contentsline {subsubsection}{Allgemeiner Eindruck}{45}{section*.30}
+\contentsline {subsubsection}{Resultate der Bewertungskriterien}{44}{section*.31}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{45}{section*.32}
+\contentsline {subsubsection}{Allgemeiner Eindruck}{45}{section*.33}
 \contentsline {chapter}{\numberline {10}Auswertung des Assessments}{46}{chapter.10}
 \contentsline {section}{\numberline {10.1}Vorbereitung}{46}{section.10.1}
 \contentsline {section}{\numberline {10.2}Auswertung}{46}{section.10.2}
