@@ -47,7 +47,7 @@
 \contentsline {subsubsection}{Pr\IeC {\"u}fungsfrage}{28}{section*.3}
 \contentsline {subsection}{\numberline {8.2.3}Bewertung}{29}{subsection.8.2.3}
 \contentsline {subsubsection}{Verschafft er sich zuerst einen \IeC {\"U}berblick?}{29}{section*.4}
-\contentsline {subsubsection}{Ist eine Methodik zu erkennen oder wird wild ziellos gesucht?}{29}{section*.5}
+\contentsline {subsubsection}{Ist eine Methodik zu erkennen oder wird ziellos gesucht?}{29}{section*.5}
 \contentsline {subsubsection}{Wie sicher f\IeC {\"u}hlt sich die Person w\IeC {\"a}hrend der Pr\IeC {\"a}sentation?}{30}{section*.6}
 \contentsline {subsubsection}{Wie genau/verst\IeC {\"a}ndlich konnte der Prozess erkl\IeC {\"a}rt werden. Wurden die wichtigsten Punkte erw\IeC {\"a}hnt?}{30}{section*.7}
 \contentsline {subsubsection}{Wurden Fremdw\IeC {\"o}rter verwendet oder alles in eigene Worte \IeC {\"u}bersetzt?}{30}{section*.8}
@@ -79,39 +79,59 @@
 \contentsline {section}{\numberline {9.1}Einleitung}{39}{section.9.1}
 \contentsline {section}{\numberline {9.2}Tomo Bogdanovic}{39}{section.9.2}
 \contentsline {subsection}{\numberline {9.2.1}\IeC {\"U}bung 1: Analytisches und systematisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{39}{subsection.9.2.1}
-\contentsline {subsubsection}{Summe der erreichten Punkte}{39}{section*.25}
-\contentsline {subsection}{\numberline {9.2.2}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{40}{subsection.9.2.2}
-\contentsline {subsubsection}{Resultate der Bewertungskriterien}{40}{section*.26}
-\contentsline {subsubsection}{Summe der erreichten Punkte}{41}{section*.27}
-\contentsline {subsubsection}{Anmerkungen}{41}{section*.28}
-\contentsline {section}{\numberline {9.3}Michel Andr\IeC {\'e} Nyffenegger}{41}{section.9.3}
-\contentsline {subsection}{\numberline {9.3.1}\IeC {\"U}bung 1: Analytisches und systematisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{41}{subsection.9.3.1}
-\contentsline {subsubsection}{Summe der erreichten Punkte}{41}{section*.29}
-\contentsline {subsection}{\numberline {9.3.2}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{42}{subsection.9.3.2}
-\contentsline {subsubsection}{Resultate der Bewertungskriterien}{42}{section*.30}
-\contentsline {subsubsection}{Summe der erreichten Punkte}{43}{section*.31}
-\contentsline {subsubsection}{Anmerkungen}{43}{section*.32}
-\contentsline {section}{\numberline {9.4}Matthias Schneider}{43}{section.9.4}
-\contentsline {subsection}{\numberline {9.4.1}\IeC {\"U}bung 1:Analytisches und systematisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{43}{subsection.9.4.1}
-\contentsline {subsubsection}{Summe der erreichten Punkte}{43}{section*.33}
-\contentsline {subsection}{\numberline {9.4.2}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{44}{subsection.9.4.2}
-\contentsline {subsubsection}{Resultate der Bewertungskriterien}{44}{section*.34}
-\contentsline {subsubsection}{Summe der erreichten Punkte}{45}{section*.35}
-\contentsline {subsubsection}{Anmerkungen}{45}{section*.36}
-\contentsline {chapter}{\numberline {10}Auswertung des Assessments}{46}{chapter.10}
-\contentsline {section}{\numberline {10.1}Auswertung \IeC {\"U}bung 1}{46}{section.10.1}
-\contentsline {section}{\numberline {10.2}Auswertung \IeC {\"U}bung 2}{46}{section.10.2}
-\contentsline {subsection}{\numberline {10.2.1}Tiefe erreichte Punktewerte}{46}{subsection.10.2.1}
-\contentsline {subsubsection}{M\IeC {\"o}gliche Massnahmen}{46}{section*.37}
-\contentsline {subsection}{\numberline {10.2.2}Punkteverteilung f\IeC {\"u}r Kernkompetenzen}{47}{subsection.10.2.2}
-\contentsline {subsubsection}{M\IeC {\"o}gliche Massnahmen}{47}{section*.38}
-\contentsline {section}{\numberline {10.3}Assessment allgemein}{47}{section.10.3}
-\contentsline {subsection}{\numberline {10.3.1}Schwergewichtsbildung Kernkompetenzen}{47}{subsection.10.3.1}
-\contentsline {subsubsection}{M\IeC {\"o}gliche Verbesserungsmassnahmen}{48}{section*.39}
-\contentsline {subsection}{\numberline {10.3.2}Problem Vorwissen bei \IeC {\"U}bung 1}{48}{subsection.10.3.2}
-\contentsline {chapter}{\numberline {11}Reflexion}{49}{chapter.11}
-\contentsline {section}{\numberline {11.1}Lesson learned}{49}{section.11.1}
-\contentsline {section}{\numberline {11.2}Verbesserungspotenzial}{49}{section.11.2}
-\contentsline {chapter}{\numberline {12}Schlussfolgerungen, Ausblicke und Empfehlungen}{50}{chapter.12}
-\contentsline {section}{\numberline {12.1}SWOT Analyse}{50}{section.12.1}
-\contentsline {section}{\numberline {12.2}Aufwand und Kosten}{50}{section.12.2}
+\contentsline {subsubsection}{Resultate der Bewertungskriterien}{39}{section*.25}
+\contentsline {subsubsection}{Verschafft er sich zuerst einen \IeC {\"U}berblick?}{39}{section*.26}
+\contentsline {subsubsection}{Ist eine Methodik zu erkennen oder wird ziellos gesucht?}{40}{section*.27}
+\contentsline {subsubsection}{Wie sicher f\IeC {\"u}hlt sich die Person w\IeC {\"a}hrend der Pr\IeC {\"a}sentation?}{40}{section*.28}
+\contentsline {subsubsection}{Wie genau/verst\IeC {\"a}ndlich konnte der Prozess erkl\IeC {\"a}rt werden. Wurden die wichtigsten Punkte erw\IeC {\"a}hnt?}{40}{section*.29}
+\contentsline {subsubsection}{Wurden Fremdw\IeC {\"o}rter verwendet oder alles in eigene Worte \IeC {\"u}bersetzt?}{40}{section*.30}
+\contentsline {subsubsection}{Wurde visuell gearbeitet? (Damit sind die Notizen inbegriffen)}{40}{section*.31}
+\contentsline {subsubsection}{Wurden die Erkl\IeC {\"a}rungen strukturiert?}{41}{section*.32}
+\contentsline {subsubsection}{Wie viel wurde \IeC {\"u}ber den Prozess gesprochen? Wurde unn\IeC {\"o}tig \IeC {\"u}ber Nebens\IeC {\"a}chlichkeiten geredet?}{41}{section*.33}
+\contentsline {subsubsection}{Wirkte die Person interessiert?}{41}{section*.34}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{41}{section*.35}
+\contentsline {subsection}{\numberline {9.2.2}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{42}{subsection.9.2.2}
+\contentsline {subsubsection}{Resultate der Bewertungskriterien}{42}{section*.36}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{43}{section*.37}
+\contentsline {subsubsection}{Anmerkungen}{43}{section*.38}
+\contentsline {section}{\numberline {9.3}Michel Andr\IeC {\'e} Nyffenegger}{44}{section.9.3}
+\contentsline {subsection}{\numberline {9.3.1}\IeC {\"U}bung 1: Analytisches und systematisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{44}{subsection.9.3.1}
+\contentsline {subsubsection}{Resultate der Bewertungskriterien}{44}{section*.39}
+\contentsline {subsubsection}{Verschafft er sich zuerst einen \IeC {\"U}berblick?}{44}{section*.40}
+\contentsline {subsubsection}{Ist eine Methodik zu erkennen oder wird ziellos gesucht?}{44}{section*.41}
+\contentsline {subsubsection}{Wie sicher f\IeC {\"u}hlt sich die Person w\IeC {\"a}hrend der Pr\IeC {\"a}sentation?}{44}{section*.42}
+\contentsline {subsubsection}{Wie genau/verst\IeC {\"a}ndlich konnte der Prozess erkl\IeC {\"a}rt werden. Wurden die wichtigsten Punkte erw\IeC {\"a}hnt?}{44}{section*.43}
+\contentsline {subsubsection}{Wurden Fremdw\IeC {\"o}rter verwendet oder alles in eigene Worte \IeC {\"u}bersetzt?}{45}{section*.44}
+\contentsline {subsubsection}{Wurde visuell gearbeitet? (Damit sind die Notizen inbegriffen)}{45}{section*.45}
+\contentsline {subsubsection}{Wurden die Erkl\IeC {\"a}rungen strukturiert?}{45}{section*.46}
+\contentsline {subsubsection}{Wie viel wurde \IeC {\"u}ber den Prozess gesprochen? Wurde unn\IeC {\"o}tig \IeC {\"u}ber Nebens\IeC {\"a}chlichkeiten geredet?}{45}{section*.47}
+\contentsline {subsubsection}{Wirkte die Person interessiert?}{45}{section*.48}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{46}{section*.49}
+\contentsline {subsection}{\numberline {9.3.2}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{47}{subsection.9.3.2}
+\contentsline {subsubsection}{Resultate der Bewertungskriterien}{47}{section*.50}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{48}{section*.51}
+\contentsline {subsubsection}{Anmerkungen}{48}{section*.52}
+\contentsline {section}{\numberline {9.4}Matthias Schneider}{48}{section.9.4}
+\contentsline {subsection}{\numberline {9.4.1}\IeC {\"U}bung 1:Analytisches und systematisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{48}{subsection.9.4.1}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{48}{section*.53}
+\contentsline {subsection}{\numberline {9.4.2}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{49}{subsection.9.4.2}
+\contentsline {subsubsection}{Resultate der Bewertungskriterien}{49}{section*.54}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{50}{section*.55}
+\contentsline {subsubsection}{Anmerkungen}{50}{section*.56}
+\contentsline {chapter}{\numberline {10}Auswertung des Assessments}{51}{chapter.10}
+\contentsline {section}{\numberline {10.1}Auswertung \IeC {\"U}bung 1}{51}{section.10.1}
+\contentsline {section}{\numberline {10.2}Auswertung \IeC {\"U}bung 2}{51}{section.10.2}
+\contentsline {subsection}{\numberline {10.2.1}Tiefe erreichte Punktewerte}{51}{subsection.10.2.1}
+\contentsline {subsubsection}{M\IeC {\"o}gliche Massnahmen}{51}{section*.57}
+\contentsline {subsection}{\numberline {10.2.2}Punkteverteilung f\IeC {\"u}r Kernkompetenzen}{52}{subsection.10.2.2}
+\contentsline {subsubsection}{M\IeC {\"o}gliche Massnahmen}{52}{section*.58}
+\contentsline {section}{\numberline {10.3}Assessment allgemein}{52}{section.10.3}
+\contentsline {subsection}{\numberline {10.3.1}Schwergewichtsbildung Kernkompetenzen}{52}{subsection.10.3.1}
+\contentsline {subsubsection}{M\IeC {\"o}gliche Verbesserungsmassnahmen}{53}{section*.59}
+\contentsline {subsection}{\numberline {10.3.2}Problem Vorwissen bei \IeC {\"U}bung 1}{53}{subsection.10.3.2}
+\contentsline {chapter}{\numberline {11}Reflexion}{54}{chapter.11}
+\contentsline {section}{\numberline {11.1}Lesson learned}{54}{section.11.1}
+\contentsline {section}{\numberline {11.2}Verbesserungspotenzial}{54}{section.11.2}
+\contentsline {chapter}{\numberline {12}Schlussfolgerungen, Ausblicke und Empfehlungen}{55}{chapter.12}
+\contentsline {section}{\numberline {12.1}SWOT Analyse}{55}{section.12.1}
+\contentsline {section}{\numberline {12.2}Aufwand und Kosten}{55}{section.12.2}
