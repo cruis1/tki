@@ -135,18 +135,26 @@
 \contentsline {subsubsection}{Anmerkungen}{54}{section*.72}
 \contentsline {chapter}{\numberline {10}Auswertung des Assessments}{55}{chapter.10}
 \contentsline {section}{\numberline {10.1}Auswertung \IeC {\"U}bung 1}{55}{section.10.1}
-\contentsline {section}{\numberline {10.2}Auswertung \IeC {\"U}bung 2}{55}{section.10.2}
-\contentsline {subsection}{\numberline {10.2.1}Tiefe erreichte Punktewerte}{55}{subsection.10.2.1}
-\contentsline {subsubsection}{M\IeC {\"o}gliche Massnahmen}{55}{section*.73}
-\contentsline {subsection}{\numberline {10.2.2}Punkteverteilung f\IeC {\"u}r Kernkompetenzen}{56}{subsection.10.2.2}
-\contentsline {subsubsection}{M\IeC {\"o}gliche Massnahmen}{56}{section*.74}
-\contentsline {section}{\numberline {10.3}Assessment allgemein}{56}{section.10.3}
-\contentsline {subsection}{\numberline {10.3.1}Schwergewichtsbildung Kernkompetenzen}{56}{subsection.10.3.1}
-\contentsline {subsubsection}{M\IeC {\"o}gliche Verbesserungsmassnahmen}{57}{section*.75}
-\contentsline {subsection}{\numberline {10.3.2}Problem Vorwissen bei \IeC {\"U}bung 1}{57}{subsection.10.3.2}
-\contentsline {chapter}{\numberline {11}Reflexion}{58}{chapter.11}
-\contentsline {section}{\numberline {11.1}Lesson learned}{58}{section.11.1}
-\contentsline {section}{\numberline {11.2}Verbesserungspotenzial}{58}{section.11.2}
-\contentsline {chapter}{\numberline {12}Schlussfolgerungen, Ausblicke und Empfehlungen}{59}{chapter.12}
-\contentsline {section}{\numberline {12.1}SWOT Analyse}{59}{section.12.1}
-\contentsline {section}{\numberline {12.2}Aufwand und Kosten}{59}{section.12.2}
+\contentsline {subsection}{\numberline {10.1.1}Erreichte Punkte}{55}{subsection.10.1.1}
+\contentsline {subsubsection}{Tomo Bogdanovic}{55}{section*.73}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{55}{section*.74}
+\contentsline {subsubsection}{Michel Andr\'{e} Nyffenegger}{56}{section*.75}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{56}{section*.76}
+\contentsline {subsubsection}{Matthias Schneider}{56}{section*.77}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{56}{section*.78}
+\contentsline {subsection}{\numberline {10.1.2}Vergleiche unter den Testkandidaten}{56}{subsection.10.1.2}
+\contentsline {section}{\numberline {10.2}Auswertung \IeC {\"U}bung 2}{57}{section.10.2}
+\contentsline {subsection}{\numberline {10.2.1}Tiefe erreichte Punktewerte}{57}{subsection.10.2.1}
+\contentsline {subsubsection}{M\IeC {\"o}gliche Massnahmen}{57}{section*.79}
+\contentsline {subsection}{\numberline {10.2.2}Punkteverteilung f\IeC {\"u}r Kernkompetenzen}{57}{subsection.10.2.2}
+\contentsline {subsubsection}{M\IeC {\"o}gliche Massnahmen}{58}{section*.80}
+\contentsline {section}{\numberline {10.3}Assessment allgemein}{58}{section.10.3}
+\contentsline {subsection}{\numberline {10.3.1}Schwergewichtsbildung Kernkompetenzen}{58}{subsection.10.3.1}
+\contentsline {subsubsection}{M\IeC {\"o}gliche Verbesserungsmassnahmen}{58}{section*.81}
+\contentsline {subsection}{\numberline {10.3.2}Problem Vorwissen bei \IeC {\"U}bung 1}{58}{subsection.10.3.2}
+\contentsline {chapter}{\numberline {11}Reflexion}{59}{chapter.11}
+\contentsline {section}{\numberline {11.1}Lesson learned}{59}{section.11.1}
+\contentsline {section}{\numberline {11.2}Verbesserungspotenzial}{59}{section.11.2}
+\contentsline {chapter}{\numberline {12}Schlussfolgerungen, Ausblicke und Empfehlungen}{60}{chapter.12}
+\contentsline {section}{\numberline {12.1}SWOT Analyse}{60}{section.12.1}
+\contentsline {section}{\numberline {12.2}Aufwand und Kosten}{60}{section.12.2}
