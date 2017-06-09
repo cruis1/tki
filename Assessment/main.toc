@@ -49,7 +49,7 @@
 \contentsline {subsection}{\numberline {7.2.1}Idee}{24}{subsection.7.2.1}
 \contentsline {subsection}{\numberline {7.2.2}Detailbeschreibung}{25}{subsection.7.2.2}
 \contentsline {subsubsection}{Pr\IeC {\"u}fungsfrage}{25}{section*.13}
-\contentsline {subsection}{\numberline {7.2.3}Bewertung}{25}{subsection.7.2.3}
+\contentsline {subsection}{\numberline {7.2.3}Bewertung}{26}{subsection.7.2.3}
 \contentsline {subsubsection}{Verschafft er sich zuerst einen \IeC {\"U}berblick?}{26}{section*.14}
 \contentsline {subsubsection}{Ist eine Methodik zu erkennen oder wird ziellos gesucht?}{26}{section*.15}
 \contentsline {subsubsection}{Wie sicher f\IeC {\"u}hlt sich die Person w\IeC {\"a}hrend der Pr\IeC {\"a}sentation?}{27}{section*.16}
@@ -112,7 +112,7 @@
 \contentsline {subsubsection}{Wirkte die Person interessiert?}{42}{section*.58}
 \contentsline {subsubsection}{Summe der erreichten Punkte}{43}{section*.59}
 \contentsline {subsubsection}{Vorgehen des Kandidaten}{43}{section*.60}
-\contentsline {subsubsection}{Pr\IeC {\"a}senation}{43}{section*.61}
+\contentsline {subsubsection}{Pr\IeC {\"a}sentation}{43}{section*.61}
 \contentsline {subsection}{\numberline {8.3.2}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{43}{subsection.8.3.2}
 \contentsline {subsubsection}{Resultate der Bewertungskriterien}{43}{section*.62}
 \contentsline {subsubsection}{Summe der erreichten Punkte}{44}{section*.63}
