@@ -158,5 +158,5 @@
 \contentsline {subsubsection}{Technologieschwierigkeiten}{54}{section*.89}
 \contentsline {subsubsection}{Organisationsprobleme}{54}{section*.90}
 \contentsline {section}{\numberline {10.2}Verbesserungspotenzial}{55}{section.10.2}
-\contentsline {chapter}{\numberline {11}Schlussfolgerungen und Empfehlungen}{57}{chapter.11}
-\contentsline {section}{\numberline {11.1}Aufwand und Kosten}{58}{section.11.1}
+\contentsline {chapter}{\numberline {11}Schlussfolgerungen und Empfehlungen}{56}{chapter.11}
+\contentsline {section}{\numberline {11.1}Aufwand und Kosten}{57}{section.11.1}
