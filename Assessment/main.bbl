@@ -1,21 +1,12 @@
 \begin{thebibliography}{1}
 
-\bibitem{wiki:Stakeholder}
-Wikipedia.
-\newblock Stakeholder --- wikipedia{,} die freie enzyklopädie, 2017.
-\newblock [Online; Stand 09. Juni 2017].
-
-\bibitem{wiki:Projektziel}
-Wikipedia.
-\newblock Projektziel --- wikipedia{,} die freie enzyklopädie, 2017.
+\bibitem{page:Abwicklungsziel}
+Anforderungsmanagement.
+\newblock Abwicklungsziel --- anforderungsmanagement.ch, 2017.
 
 \bibitem{page:Systemziel}
 Anforderungsmanagement.
 \newblock Systemziel --- anforderungsmanagement.ch, 2017.
-
-\bibitem{page:Abwicklungsziel}
-Anforderungsmanagement.
-\newblock Abwicklungsziel --- anforderungsmanagement.ch, 2017.
 
 \bibitem{Schluesselqualifikationen}
 Schluesselqualifikationen.
@@ -35,5 +26,13 @@ Wikipedia.
 \newblock Lernfähigkeit --- wikipedia{,} die freie enzyklopädie, 2017.
 \newblock [Online; Stand 30. Mai 2017].
 
+\bibitem{wiki:Projektziel}
+Wikipedia.
+\newblock Projektziel --- wikipedia{,} die freie enzyklopädie, 2017.
+
+\bibitem{wiki:Stakeholder}
+Wikipedia.
+\newblock Stakeholder --- wikipedia{,} die freie enzyklopädie, 2017.
+\newblock [Online; Stand 09. Juni 2017].
 
 \end{thebibliography}
