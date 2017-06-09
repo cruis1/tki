@@ -37,15 +37,15 @@
 \contentsline {chapter}{\numberline {4}Teamgrundlagen}{12}{chapter.4}
 \contentsline {section}{\numberline {4.1}Organigramm}{12}{section.4.1}
 \contentsline {section}{\numberline {4.2}Teamvertrag}{12}{section.4.2}
-\contentsline {section}{\numberline {4.3}Teamrollen}{14}{section.4.3}
-\contentsline {section}{\numberline {4.4}Teameffizienz}{14}{section.4.4}
-\contentsline {chapter}{\numberline {5}Kl\IeC {\"a}rung der Aufgabenstellung}{15}{chapter.5}
-\contentsline {chapter}{\numberline {6}Vorgehen}{16}{chapter.6}
-\contentsline {chapter}{\numberline {7}Interview}{20}{chapter.7}
-\contentsline {section}{\numberline {7.1}Interviewleitfaden}{20}{section.7.1}
-\contentsline {section}{\numberline {7.2}Technische Hilfsmittel}{20}{section.7.2}
-\contentsline {section}{\numberline {7.3}Interviewpartner Auswahl}{20}{section.7.3}
-\contentsline {section}{\numberline {7.4}Auswertung der Interviews}{21}{section.7.4}
+\contentsline {section}{\numberline {4.3}Teamrollen}{15}{section.4.3}
+\contentsline {section}{\numberline {4.4}Teameffizienz}{15}{section.4.4}
+\contentsline {chapter}{\numberline {5}Kl\IeC {\"a}rung der Aufgabenstellung}{16}{chapter.5}
+\contentsline {chapter}{\numberline {6}Vorgehen}{17}{chapter.6}
+\contentsline {chapter}{\numberline {7}Interview}{21}{chapter.7}
+\contentsline {section}{\numberline {7.1}Interviewleitfaden}{21}{section.7.1}
+\contentsline {section}{\numberline {7.2}Technische Hilfsmittel}{21}{section.7.2}
+\contentsline {section}{\numberline {7.3}Interviewpartner Auswahl}{21}{section.7.3}
+\contentsline {section}{\numberline {7.4}Auswertung der Interviews}{22}{section.7.4}
 \contentsline {chapter}{\numberline {8}Assessment}{24}{chapter.8}
 \contentsline {section}{\numberline {8.1}Auswahl der wichtigsten Kernkompetenzen}{24}{section.8.1}
 \contentsline {section}{\numberline {8.2}\IeC {\"U}bung 1: Logisches und analytisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{24}{section.8.2}
