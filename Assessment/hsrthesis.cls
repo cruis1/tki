@@ -25,7 +25,7 @@
 \usepackage{wrapfig}
 \usepackage{url}
 \usepackage{float}
-\usepackage{natbib}
+\usepackage[sort]{natbib}
 \usepackage{tabularx}
 \usepackage{booktabs}
 \usepackage{verbatim}
