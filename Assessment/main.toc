@@ -24,131 +24,6 @@
 \contentsline {subsection}{\numberline {3.3.1}Risiken}{10}{subsection.3.3.1}
 \contentsline {subsection}{\numberline {3.3.2}Chancen}{10}{subsection.3.3.2}
 \contentsline {subsection}{\numberline {3.3.3}Kritische Erfolgsfaktoren}{10}{subsection.3.3.3}
-<<<<<<< HEAD
-\contentsline {section}{\numberline {3.4}Probleml\IeC {\"o}sung}{11}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}L\IeC {\"o}sungsvarianten}{11}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}L\IeC {\"o}sungsauswahl}{11}{subsection.3.4.2}
-\contentsline {section}{\numberline {3.5}Grobplanung}{11}{section.3.5}
-\contentsline {subsection}{\numberline {3.5.1}Rahmen}{11}{subsection.3.5.1}
-\contentsline {subsection}{\numberline {3.5.2}Meilensteine}{11}{subsection.3.5.2}
-\contentsline {section}{\numberline {3.6}Ressourcen/Kosten}{11}{section.3.6}
-\contentsline {section}{\numberline {3.7}Projektorganisation}{11}{section.3.7}
-\contentsline {section}{\numberline {3.8}Machbarkeit}{11}{section.3.8}
-\contentsline {section}{\numberline {3.9}Unterschriften}{11}{section.3.9}
-\contentsline {chapter}{\numberline {4}Teamgrundlagen}{12}{chapter.4}
-\contentsline {section}{\numberline {4.1}Organigramm}{12}{section.4.1}
-\contentsline {section}{\numberline {4.2}Teamvertrag}{12}{section.4.2}
-\contentsline {section}{\numberline {4.3}Teamrollen}{15}{section.4.3}
-\contentsline {section}{\numberline {4.4}Teameffizienz}{15}{section.4.4}
-\contentsline {chapter}{\numberline {5}Kl\IeC {\"a}rung der Aufgabenstellung}{16}{chapter.5}
-\contentsline {chapter}{\numberline {6}Vorgehen}{17}{chapter.6}
-\contentsline {chapter}{\numberline {7}Interview}{21}{chapter.7}
-\contentsline {section}{\numberline {7.1}Interviewleitfaden}{21}{section.7.1}
-\contentsline {section}{\numberline {7.2}Technische Hilfsmittel}{21}{section.7.2}
-\contentsline {section}{\numberline {7.3}Interviewpartner Auswahl}{21}{section.7.3}
-\contentsline {section}{\numberline {7.4}Auswertung der Interviews}{22}{section.7.4}
-\contentsline {chapter}{\numberline {8}Assessment}{24}{chapter.8}
-\contentsline {section}{\numberline {8.1}Auswahl der wichtigsten Kernkompetenzen}{24}{section.8.1}
-\contentsline {section}{\numberline {8.2}\IeC {\"U}bung 1: Logisches und analytisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{24}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Idee}{24}{subsection.8.2.1}
-\contentsline {subsection}{\numberline {8.2.2}Detailbeschreibung}{25}{subsection.8.2.2}
-\contentsline {subsubsection}{Pr\IeC {\"u}fungsfrage}{25}{section*.11}
-\contentsline {subsection}{\numberline {8.2.3}Bewertung}{26}{subsection.8.2.3}
-\contentsline {subsubsection}{Verschafft er sich zuerst einen \IeC {\"U}berblick?}{26}{section*.12}
-\contentsline {subsubsection}{Ist eine Methodik zu erkennen oder wird ziellos gesucht?}{26}{section*.13}
-\contentsline {subsubsection}{Wie sicher f\IeC {\"u}hlt sich die Person w\IeC {\"a}hrend der Pr\IeC {\"a}sentation?}{27}{section*.14}
-\contentsline {subsubsection}{Wie genau/verst\IeC {\"a}ndlich konnte der Prozess erkl\IeC {\"a}rt werden. Wurden die wichtigsten Punkte erw\IeC {\"a}hnt?}{27}{section*.15}
-\contentsline {subsubsection}{Wurden Fremdw\IeC {\"o}rter verwendet oder alles in eigene Worte \IeC {\"u}bersetzt?}{27}{section*.16}
-\contentsline {subsubsection}{Wurde visuell gearbeitet? (Damit sind die Notizen inbegriffen)}{27}{section*.17}
-\contentsline {subsubsection}{Wurden die Erkl\IeC {\"a}rungen strukturiert?}{27}{section*.18}
-\contentsline {subsubsection}{Wie viel wurde \IeC {\"u}ber den Prozess gesprochen? Wurde unn\IeC {\"o}tig \IeC {\"u}ber Nebens\IeC {\"a}chlichkeiten geredet?}{28}{section*.19}
-\contentsline {subsubsection}{Wirkte die Person interessiert?}{28}{section*.20}
-\contentsline {section}{\numberline {8.3}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{28}{section.8.3}
-\contentsline {subsection}{\numberline {8.3.1}Idee/ Grobbeschreibung}{28}{subsection.8.3.1}
-\contentsline {subsection}{\numberline {8.3.2}Detailbeschreibung}{29}{subsection.8.3.2}
-\contentsline {subsubsection}{Aufgabe 1: Korrektur Messbericht}{30}{section*.21}
-\contentsline {subsubsection}{Aufgabe 2: Berechnung Operationsverst\IeC {\"a}rkerschaltung}{30}{section*.22}
-\contentsline {subsubsection}{Aufgabe 3: Beantwortung E-Mail}{30}{section*.23}
-\contentsline {subsubsection}{Aufgabe 4: Berechnung Emitterschaltung}{30}{section*.24}
-\contentsline {subsubsection}{Aufgabe ohne Reihenfolge: Kreuzwortr\IeC {\"a}tsel}{30}{section*.25}
-\contentsline {subsection}{\numberline {8.3.3}Am Anfang dem Bewerber mitzuteilende Informationen}{31}{subsection.8.3.3}
-\contentsline {subsection}{\numberline {8.3.4}Bewertung}{32}{subsection.8.3.4}
-\contentsline {subsubsection}{Macht der Bewerber sich Notizen?}{32}{section*.26}
-\contentsline {subsubsection}{Schafft er sich eine \IeC {\"U}bersicht \IeC {\"u}ber die Arbeiten?}{32}{section*.27}
-\contentsline {subsubsection}{Erstellt er eine Zeitplanung?}{32}{section*.28}
-\contentsline {subsubsection}{Wendet er das vorgestellte Eisenhower-Prinzip an?}{33}{section*.29}
-\contentsline {subsubsection}{Notiert er sich Fragen?}{33}{section*.30}
-\contentsline {subsubsection}{Informiert er \IeC {\"u}ber seinen Arbeitsstand?}{33}{section*.31}
-\contentsline {subsubsection}{Elemente des analytischen und systematischen Denkens}{34}{section*.32}
-\contentsline {section}{\numberline {8.4}Ablauf des Assessments}{34}{section.8.4}
-\contentsline {subsection}{\numberline {8.4.1}Videoaufnahme}{35}{subsection.8.4.1}
-\contentsline {subsection}{\numberline {8.4.2}Zeitverh\IeC {\"a}ltnisse}{35}{subsection.8.4.2}
-\contentsline {chapter}{\numberline {9}Bewertung Probanden}{36}{chapter.9}
-\contentsline {section}{\numberline {9.1}Einleitung}{36}{section.9.1}
-\contentsline {section}{\numberline {9.2}Tomo Bogdanovic}{36}{section.9.2}
-\contentsline {subsection}{\numberline {9.2.1}\IeC {\"U}bung 1: Analytisches und systematisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{36}{subsection.9.2.1}
-\contentsline {subsubsection}{Resultate der Bewertungskriterien}{36}{section*.33}
-\contentsline {subsubsection}{Verschafft er sich zuerst einen \IeC {\"U}berblick?}{36}{section*.34}
-\contentsline {subsubsection}{Ist eine Methodik zu erkennen oder wird ziellos gesucht?}{37}{section*.35}
-\contentsline {subsubsection}{Wie sicher f\IeC {\"u}hlt sich die Person w\IeC {\"a}hrend der Pr\IeC {\"a}sentation?}{37}{section*.36}
-\contentsline {subsubsection}{Wie genau/verst\IeC {\"a}ndlich konnte der Prozess erkl\IeC {\"a}rt werden. Wurden die wichtigsten Punkte erw\IeC {\"a}hnt?}{37}{section*.37}
-\contentsline {subsubsection}{Wurden Fremdw\IeC {\"o}rter verwendet oder alles in eigene Worte \IeC {\"u}bersetzt?}{37}{section*.38}
-\contentsline {subsubsection}{Wurde visuell gearbeitet? (Damit sind die Notizen inbegriffen)}{37}{section*.39}
-\contentsline {subsubsection}{Wurden die Erkl\IeC {\"a}rungen strukturiert?}{38}{section*.40}
-\contentsline {subsubsection}{Wie viel wurde \IeC {\"u}ber den Prozess gesprochen? Wurde unn\IeC {\"o}tig \IeC {\"u}ber Nebens\IeC {\"a}chlichkeiten geredet?}{38}{section*.41}
-\contentsline {subsubsection}{Wirkte die Person interessiert?}{38}{section*.42}
-\contentsline {subsubsection}{Summe der erreichten Punkte}{38}{section*.43}
-\contentsline {subsubsection}{Vorgehen des Kandidaten}{38}{section*.44}
-\contentsline {subsubsection}{Anmerkungen/Pr\IeC {\"a}sentation}{39}{section*.45}
-\contentsline {subsection}{\numberline {9.2.2}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{40}{subsection.9.2.2}
-\contentsline {subsubsection}{Resultate der Bewertungskriterien}{40}{section*.46}
-\contentsline {subsubsection}{Summe der erreichten Punkte}{41}{section*.47}
-\contentsline {subsubsection}{Anmerkungen}{41}{section*.48}
-\contentsline {section}{\numberline {9.3}Michel Andr\IeC {\'e} Nyffenegger}{42}{section.9.3}
-\contentsline {subsection}{\numberline {9.3.1}\IeC {\"U}bung 1: Analytisches und systematisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{42}{subsection.9.3.1}
-\contentsline {subsubsection}{Resultate der Bewertungskriterien}{42}{section*.49}
-\contentsline {subsubsection}{Verschafft er sich zuerst einen \IeC {\"U}berblick?}{42}{section*.50}
-\contentsline {subsubsection}{Ist eine Methodik zu erkennen oder wird ziellos gesucht?}{42}{section*.51}
-\contentsline {subsubsection}{Wie sicher f\IeC {\"u}hlt sich die Person w\IeC {\"a}hrend der Pr\IeC {\"a}sentation?}{42}{section*.52}
-\contentsline {subsubsection}{Wie genau/verst\IeC {\"a}ndlich konnte der Prozess erkl\IeC {\"a}rt werden. Wurden die wichtigsten Punkte erw\IeC {\"a}hnt?}{42}{section*.53}
-\contentsline {subsubsection}{Wurden Fremdw\IeC {\"o}rter verwendet oder alles in eigene Worte \IeC {\"u}bersetzt?}{43}{section*.54}
-\contentsline {subsubsection}{Wurde visuell gearbeitet? (Damit sind die Notizen inbegriffen)}{43}{section*.55}
-\contentsline {subsubsection}{Wurden die Erkl\IeC {\"a}rungen strukturiert?}{43}{section*.56}
-\contentsline {subsubsection}{Wie viel wurde \IeC {\"u}ber den Prozess gesprochen? Wurde unn\IeC {\"o}tig \IeC {\"u}ber Nebens\IeC {\"a}chlichkeiten geredet?}{43}{section*.57}
-\contentsline {subsubsection}{Wirkte die Person interessiert?}{43}{section*.58}
-\contentsline {subsubsection}{Summe der erreichten Punkte}{44}{section*.59}
-\contentsline {subsubsection}{Vorgehen des Kandidaten}{44}{section*.60}
-\contentsline {subsubsection}{Pr\IeC {\"a}senation}{44}{section*.61}
-\contentsline {subsection}{\numberline {9.3.2}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{45}{subsection.9.3.2}
-\contentsline {subsubsection}{Resultate der Bewertungskriterien}{45}{section*.62}
-\contentsline {subsubsection}{Summe der erreichten Punkte}{46}{section*.63}
-\contentsline {subsubsection}{Anmerkungen}{46}{section*.64}
-\contentsline {section}{\numberline {9.4}Matthias Schneider}{47}{section.9.4}
-\contentsline {subsection}{\numberline {9.4.1}\IeC {\"U}bung 1:Analytisches und systematisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{47}{subsection.9.4.1}
-\contentsline {subsubsection}{Resultate der Bewertungskriterien}{47}{section*.65}
-\contentsline {subsubsection}{Verschafft er sich zuerst einen \IeC {\"U}berblick?}{47}{section*.66}
-\contentsline {subsubsection}{Ist eine Methodik zu erkennen oder wird ziellos gesucht?}{47}{section*.67}
-\contentsline {subsubsection}{Wie sicher f\IeC {\"u}hlt sich die Person w\IeC {\"a}hrend der Pr\IeC {\"a}sentation?}{47}{section*.68}
-\contentsline {subsubsection}{Wie genau/verst\IeC {\"a}ndlich konnte der Prozess erkl\IeC {\"a}rt werden. Wurden die wichtigsten Punkte erw\IeC {\"a}hnt?}{47}{section*.69}
-\contentsline {subsubsection}{Wurden Fremdw\IeC {\"o}rter verwendet oder alles in eigene Worte \IeC {\"u}bersetzt?}{48}{section*.70}
-\contentsline {subsubsection}{Wurde visuell gearbeitet? (Damit sind die Notizen inbegriffen)}{48}{section*.71}
-\contentsline {subsubsection}{Wurden die Erkl\IeC {\"a}rungen strukturiert?}{48}{section*.72}
-\contentsline {subsubsection}{Wie viel wurde \IeC {\"u}ber den Prozess gesprochen? Wurde unn\IeC {\"o}tig \IeC {\"u}ber Nebens\IeC {\"a}chlichkeiten geredet?}{48}{section*.73}
-\contentsline {subsubsection}{Wirkte die Person interessiert?}{48}{section*.74}
-\contentsline {subsubsection}{Summe der erreichten Punkte}{49}{section*.75}
-\contentsline {subsubsection}{Vorgehen des Kandidaten}{49}{section*.76}
-\contentsline {subsubsection}{Pr\IeC {\"a}sentation}{49}{section*.77}
-\contentsline {subsection}{\numberline {9.4.2}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{50}{subsection.9.4.2}
-\contentsline {subsubsection}{Resultate der Bewertungskriterien}{50}{section*.78}
-\contentsline {subsubsection}{Summe der erreichten Punkte}{51}{section*.79}
-\contentsline {subsubsection}{Anmerkungen}{51}{section*.80}
-\contentsline {chapter}{\numberline {10}Auswertung des Assessments}{52}{chapter.10}
-\contentsline {section}{\numberline {10.1}Auswertung \IeC {\"U}bung 1}{52}{section.10.1}
-\contentsline {subsection}{\numberline {10.1.1}Erreichte Punkte}{52}{subsection.10.1.1}
-\contentsline {subsubsection}{Tomo Bogdanovic}{52}{section*.81}
-\contentsline {subsubsection}{Summe der erreichten Punkte}{52}{section*.82}
-\contentsline {subsubsection}{Michel Andr\'{e} Nyffenegger}{53}{section*.83}
-=======
 \contentsline {section}{\numberline {3.4}Grobplanung}{11}{section.3.4}
 \contentsline {subsection}{\numberline {3.4.1}Zeitliche Abgrenzung}{11}{subsection.3.4.1}
 \contentsline {subsection}{\numberline {3.4.2}Meilensteine}{11}{subsection.3.4.2}
@@ -159,136 +34,134 @@
 \contentsline {subsubsection}{Personelle Kosten}{12}{section*.11}
 \contentsline {subsubsection}{Materielle Kosten}{12}{section*.12}
 \contentsline {section}{\numberline {3.6}Projektorganisation}{12}{section.3.6}
-\contentsline {section}{\numberline {3.7}Machbarkeit}{12}{section.3.7}
-\contentsline {chapter}{\numberline {4}Teamgrundlagen}{13}{chapter.4}
-\contentsline {section}{\numberline {4.1}Organigramm}{13}{section.4.1}
-\contentsline {section}{\numberline {4.2}Teamvertrag}{13}{section.4.2}
-\contentsline {section}{\numberline {4.3}Teamrollen}{16}{section.4.3}
-\contentsline {section}{\numberline {4.4}Teameffizienz}{16}{section.4.4}
-\contentsline {chapter}{\numberline {5}Kl\IeC {\"a}rung der Aufgabenstellung}{17}{chapter.5}
-\contentsline {chapter}{\numberline {6}Vorgehen}{18}{chapter.6}
-\contentsline {chapter}{\numberline {7}Interview}{22}{chapter.7}
-\contentsline {section}{\numberline {7.1}Interviewleitfaden}{22}{section.7.1}
-\contentsline {section}{\numberline {7.2}Technische Hilfsmittel}{22}{section.7.2}
-\contentsline {section}{\numberline {7.3}Interviewpartner Auswahl}{22}{section.7.3}
-\contentsline {section}{\numberline {7.4}Auswertung der Interviews}{23}{section.7.4}
-\contentsline {chapter}{\numberline {8}Assessment}{25}{chapter.8}
-\contentsline {section}{\numberline {8.1}Auswahl der wichtigsten Kernkompetenzen}{25}{section.8.1}
-\contentsline {section}{\numberline {8.2}\IeC {\"U}bung 1: Logisches und analytisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{25}{section.8.2}
-\contentsline {subsection}{\numberline {8.2.1}Idee}{25}{subsection.8.2.1}
-\contentsline {subsection}{\numberline {8.2.2}Detailbeschreibung}{26}{subsection.8.2.2}
-\contentsline {subsubsection}{Pr\IeC {\"u}fungsfrage}{26}{section*.13}
-\contentsline {subsection}{\numberline {8.2.3}Bewertung}{27}{subsection.8.2.3}
-\contentsline {subsubsection}{Verschafft er sich zuerst einen \IeC {\"U}berblick?}{27}{section*.14}
-\contentsline {subsubsection}{Ist eine Methodik zu erkennen oder wird ziellos gesucht?}{27}{section*.15}
-\contentsline {subsubsection}{Wie sicher f\IeC {\"u}hlt sich die Person w\IeC {\"a}hrend der Pr\IeC {\"a}sentation?}{28}{section*.16}
-\contentsline {subsubsection}{Wie genau/verst\IeC {\"a}ndlich konnte der Prozess erkl\IeC {\"a}rt werden. Wurden die wichtigsten Punkte erw\IeC {\"a}hnt?}{28}{section*.17}
-\contentsline {subsubsection}{Wurden Fremdw\IeC {\"o}rter verwendet oder alles in eigene Worte \IeC {\"u}bersetzt?}{28}{section*.18}
-\contentsline {subsubsection}{Wurde visuell gearbeitet? (Damit sind die Notizen inbegriffen)}{28}{section*.19}
-\contentsline {subsubsection}{Wurden die Erkl\IeC {\"a}rungen strukturiert?}{28}{section*.20}
-\contentsline {subsubsection}{Wie viel wurde \IeC {\"u}ber den Prozess gesprochen? Wurde unn\IeC {\"o}tig \IeC {\"u}ber Nebens\IeC {\"a}chlichkeiten geredet?}{29}{section*.21}
-\contentsline {subsubsection}{Wirkte die Person interessiert?}{29}{section*.22}
-\contentsline {section}{\numberline {8.3}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{29}{section.8.3}
-\contentsline {subsection}{\numberline {8.3.1}Idee/ Grobbeschreibung}{29}{subsection.8.3.1}
-\contentsline {subsection}{\numberline {8.3.2}Detailbeschreibung}{30}{subsection.8.3.2}
-\contentsline {subsubsection}{Aufgabe 1: Korrektur Messbericht}{31}{section*.23}
-\contentsline {subsubsection}{Aufgabe 2: Berechnung Operationsverst\IeC {\"a}rkerschaltung}{31}{section*.24}
-\contentsline {subsubsection}{Aufgabe 3: Beantwortung E-Mail}{31}{section*.25}
-\contentsline {subsubsection}{Aufgabe 4: Berechnung Emitterschaltung}{31}{section*.26}
-\contentsline {subsubsection}{Aufgabe ohne Reihenfolge: Kreuzwortr\IeC {\"a}tsel}{31}{section*.27}
-\contentsline {subsection}{\numberline {8.3.3}Am Anfang dem Bewerber mitzuteilende Informationen}{32}{subsection.8.3.3}
-\contentsline {subsection}{\numberline {8.3.4}Bewertung}{33}{subsection.8.3.4}
-\contentsline {subsubsection}{Macht der Bewerber sich Notizen?}{33}{section*.28}
-\contentsline {subsubsection}{Schafft er sich eine \IeC {\"U}bersicht \IeC {\"u}ber die Arbeiten?}{33}{section*.29}
-\contentsline {subsubsection}{Erstellt er eine Zeitplanung?}{33}{section*.30}
-\contentsline {subsubsection}{Wendet er das vorgestellte Eisenhower-Prinzip an?}{34}{section*.31}
-\contentsline {subsubsection}{Notiert er sich Fragen?}{34}{section*.32}
-\contentsline {subsubsection}{Informiert er \IeC {\"u}ber seinen Arbeitsstand?}{34}{section*.33}
-\contentsline {subsubsection}{Elemente des analytischen und systematischen Denkens}{35}{section*.34}
-\contentsline {section}{\numberline {8.4}Ablauf des Assessments}{35}{section.8.4}
-\contentsline {subsection}{\numberline {8.4.1}Videoaufnahme}{36}{subsection.8.4.1}
-\contentsline {subsection}{\numberline {8.4.2}Zeitverh\IeC {\"a}ltnisse}{36}{subsection.8.4.2}
-\contentsline {chapter}{\numberline {9}Bewertung Probanden}{37}{chapter.9}
-\contentsline {section}{\numberline {9.1}Einleitung}{37}{section.9.1}
-\contentsline {section}{\numberline {9.2}Tomo Bogdanovic}{37}{section.9.2}
-\contentsline {subsection}{\numberline {9.2.1}\IeC {\"U}bung 1: Analytisches und systematisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{37}{subsection.9.2.1}
-\contentsline {subsubsection}{Resultate der Bewertungskriterien}{37}{section*.35}
-\contentsline {subsubsection}{Verschafft er sich zuerst einen \IeC {\"U}berblick?}{37}{section*.36}
-\contentsline {subsubsection}{Ist eine Methodik zu erkennen oder wird ziellos gesucht?}{38}{section*.37}
-\contentsline {subsubsection}{Wie sicher f\IeC {\"u}hlt sich die Person w\IeC {\"a}hrend der Pr\IeC {\"a}sentation?}{38}{section*.38}
-\contentsline {subsubsection}{Wie genau/verst\IeC {\"a}ndlich konnte der Prozess erkl\IeC {\"a}rt werden. Wurden die wichtigsten Punkte erw\IeC {\"a}hnt?}{38}{section*.39}
-\contentsline {subsubsection}{Wurden Fremdw\IeC {\"o}rter verwendet oder alles in eigene Worte \IeC {\"u}bersetzt?}{38}{section*.40}
-\contentsline {subsubsection}{Wurde visuell gearbeitet? (Damit sind die Notizen inbegriffen)}{38}{section*.41}
-\contentsline {subsubsection}{Wurden die Erkl\IeC {\"a}rungen strukturiert?}{39}{section*.42}
-\contentsline {subsubsection}{Wie viel wurde \IeC {\"u}ber den Prozess gesprochen? Wurde unn\IeC {\"o}tig \IeC {\"u}ber Nebens\IeC {\"a}chlichkeiten geredet?}{39}{section*.43}
-\contentsline {subsubsection}{Wirkte die Person interessiert?}{39}{section*.44}
-\contentsline {subsubsection}{Summe der erreichten Punkte}{39}{section*.45}
-\contentsline {subsubsection}{Vorgehen des Kandidaten}{39}{section*.46}
-\contentsline {subsubsection}{Anmerkungen/Pr\IeC {\"a}sentation}{40}{section*.47}
-\contentsline {subsection}{\numberline {9.2.2}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{41}{subsection.9.2.2}
-\contentsline {subsubsection}{Resultate der Bewertungskriterien}{41}{section*.48}
-\contentsline {subsubsection}{Summe der erreichten Punkte}{42}{section*.49}
-\contentsline {subsubsection}{Anmerkungen}{42}{section*.50}
-\contentsline {section}{\numberline {9.3}Michel Andr\IeC {\'e} Nyffenegger}{43}{section.9.3}
-\contentsline {subsection}{\numberline {9.3.1}\IeC {\"U}bung 1: Analytisches und systematisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{43}{subsection.9.3.1}
-\contentsline {subsubsection}{Resultate der Bewertungskriterien}{43}{section*.51}
-\contentsline {subsubsection}{Verschafft er sich zuerst einen \IeC {\"U}berblick?}{43}{section*.52}
-\contentsline {subsubsection}{Ist eine Methodik zu erkennen oder wird ziellos gesucht?}{43}{section*.53}
-\contentsline {subsubsection}{Wie sicher f\IeC {\"u}hlt sich die Person w\IeC {\"a}hrend der Pr\IeC {\"a}sentation?}{43}{section*.54}
-\contentsline {subsubsection}{Wie genau/verst\IeC {\"a}ndlich konnte der Prozess erkl\IeC {\"a}rt werden. Wurden die wichtigsten Punkte erw\IeC {\"a}hnt?}{43}{section*.55}
-\contentsline {subsubsection}{Wurden Fremdw\IeC {\"o}rter verwendet oder alles in eigene Worte \IeC {\"u}bersetzt?}{44}{section*.56}
-\contentsline {subsubsection}{Wurde visuell gearbeitet? (Damit sind die Notizen inbegriffen)}{44}{section*.57}
-\contentsline {subsubsection}{Wurden die Erkl\IeC {\"a}rungen strukturiert?}{44}{section*.58}
-\contentsline {subsubsection}{Wie viel wurde \IeC {\"u}ber den Prozess gesprochen? Wurde unn\IeC {\"o}tig \IeC {\"u}ber Nebens\IeC {\"a}chlichkeiten geredet?}{44}{section*.59}
-\contentsline {subsubsection}{Wirkte die Person interessiert?}{44}{section*.60}
-\contentsline {subsubsection}{Summe der erreichten Punkte}{45}{section*.61}
-\contentsline {subsubsection}{Vorgehen des Kandidaten}{45}{section*.62}
-\contentsline {subsubsection}{Pr\IeC {\"a}senation}{45}{section*.63}
-\contentsline {subsection}{\numberline {9.3.2}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{46}{subsection.9.3.2}
-\contentsline {subsubsection}{Resultate der Bewertungskriterien}{46}{section*.64}
-\contentsline {subsubsection}{Summe der erreichten Punkte}{47}{section*.65}
-\contentsline {subsubsection}{Anmerkungen}{47}{section*.66}
-\contentsline {section}{\numberline {9.4}Matthias Schneider}{48}{section.9.4}
-\contentsline {subsection}{\numberline {9.4.1}\IeC {\"U}bung 1:Analytisches und systematisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{48}{subsection.9.4.1}
-\contentsline {subsubsection}{Resultate der Bewertungskriterien}{48}{section*.67}
-\contentsline {subsubsection}{Verschafft er sich zuerst einen \IeC {\"U}berblick?}{48}{section*.68}
-\contentsline {subsubsection}{Ist eine Methodik zu erkennen oder wird ziellos gesucht?}{48}{section*.69}
-\contentsline {subsubsection}{Wie sicher f\IeC {\"u}hlt sich die Person w\IeC {\"a}hrend der Pr\IeC {\"a}sentation?}{48}{section*.70}
-\contentsline {subsubsection}{Wie genau/verst\IeC {\"a}ndlich konnte der Prozess erkl\IeC {\"a}rt werden. Wurden die wichtigsten Punkte erw\IeC {\"a}hnt?}{48}{section*.71}
-\contentsline {subsubsection}{Wurden Fremdw\IeC {\"o}rter verwendet oder alles in eigene Worte \IeC {\"u}bersetzt?}{49}{section*.72}
-\contentsline {subsubsection}{Wurde visuell gearbeitet? (Damit sind die Notizen inbegriffen)}{49}{section*.73}
-\contentsline {subsubsection}{Wurden die Erkl\IeC {\"a}rungen strukturiert?}{49}{section*.74}
-\contentsline {subsubsection}{Wie viel wurde \IeC {\"u}ber den Prozess gesprochen? Wurde unn\IeC {\"o}tig \IeC {\"u}ber Nebens\IeC {\"a}chlichkeiten geredet?}{49}{section*.75}
-\contentsline {subsubsection}{Wirkte die Person interessiert?}{49}{section*.76}
-\contentsline {subsubsection}{Summe der erreichten Punkte}{50}{section*.77}
-\contentsline {subsubsection}{Vorgehen des Kandidaten}{50}{section*.78}
-\contentsline {subsubsection}{Pr\IeC {\"a}sentation}{50}{section*.79}
-\contentsline {subsection}{\numberline {9.4.2}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{51}{subsection.9.4.2}
-\contentsline {subsubsection}{Resultate der Bewertungskriterien}{51}{section*.80}
-\contentsline {subsubsection}{Summe der erreichten Punkte}{52}{section*.81}
-\contentsline {subsubsection}{Anmerkungen}{52}{section*.82}
-\contentsline {chapter}{\numberline {10}Auswertung des Assessments}{53}{chapter.10}
-\contentsline {section}{\numberline {10.1}Auswertung \IeC {\"U}bung 1}{53}{section.10.1}
-\contentsline {subsection}{\numberline {10.1.1}Erreichte Punkte}{53}{subsection.10.1.1}
-\contentsline {subsubsection}{Tomo Bogdanovic}{53}{section*.83}
->>>>>>> cc901d0c165b6e64726c50929e2825e598aab2a5
-\contentsline {subsubsection}{Summe der erreichten Punkte}{53}{section*.84}
-\contentsline {subsubsection}{Michel Andr\'{e} Nyffenegger}{54}{section*.85}
-\contentsline {subsubsection}{Summe der erreichten Punkte}{54}{section*.86}
-\contentsline {subsubsection}{Matthias Schneider}{54}{section*.87}
-\contentsline {subsubsection}{Summe der erreichten Punkte}{54}{section*.88}
-\contentsline {subsection}{\numberline {10.1.2}Vergleiche unter den Testkandidaten}{54}{subsection.10.1.2}
-\contentsline {section}{\numberline {10.2}Auswertung \IeC {\"U}bung 2}{55}{section.10.2}
-\contentsline {subsection}{\numberline {10.2.1}Tiefe erreichte Punktewerte}{55}{subsection.10.2.1}
-\contentsline {subsubsection}{M\IeC {\"o}gliche Massnahmen}{55}{section*.89}
-\contentsline {subsection}{\numberline {10.2.2}Punkteverteilung f\IeC {\"u}r Kernkompetenzen}{55}{subsection.10.2.2}
-\contentsline {subsubsection}{M\IeC {\"o}gliche Massnahmen}{56}{section*.90}
-\contentsline {section}{\numberline {10.3}Assessment allgemein}{56}{section.10.3}
-\contentsline {subsection}{\numberline {10.3.1}Schwergewichtsbildung Kernkompetenzen}{56}{subsection.10.3.1}
-\contentsline {subsubsection}{M\IeC {\"o}gliche Verbesserungsmassnahmen}{56}{section*.91}
-\contentsline {chapter}{\numberline {11}Reflexion}{57}{chapter.11}
-\contentsline {section}{\numberline {11.1}Lesson learned}{57}{section.11.1}
-\contentsline {section}{\numberline {11.2}Verbesserungspotenzial}{57}{section.11.2}
-\contentsline {chapter}{\numberline {12}Schlussfolgerungen, Ausblicke und Empfehlungen}{58}{chapter.12}
-\contentsline {section}{\numberline {12.1}SWOT Analyse}{58}{section.12.1}
-\contentsline {section}{\numberline {12.2}Aufwand und Kosten}{58}{section.12.2}
+\contentsline {section}{\numberline {3.7}Machbarkeit}{13}{section.3.7}
+\contentsline {chapter}{\numberline {4}Teamgrundlagen}{14}{chapter.4}
+\contentsline {section}{\numberline {4.1}Teamvertrag}{14}{section.4.1}
+\contentsline {section}{\numberline {4.2}Teamrollen}{17}{section.4.2}
+\contentsline {section}{\numberline {4.3}Teameffizienz}{17}{section.4.3}
+\contentsline {chapter}{\numberline {5}Kl\IeC {\"a}rung der Aufgabenstellung}{18}{chapter.5}
+\contentsline {chapter}{\numberline {6}Vorgehen}{19}{chapter.6}
+\contentsline {chapter}{\numberline {7}Interview}{23}{chapter.7}
+\contentsline {section}{\numberline {7.1}Interviewleitfaden}{23}{section.7.1}
+\contentsline {section}{\numberline {7.2}Technische Hilfsmittel}{23}{section.7.2}
+\contentsline {section}{\numberline {7.3}Interviewpartner Auswahl}{23}{section.7.3}
+\contentsline {section}{\numberline {7.4}Auswertung der Interviews}{24}{section.7.4}
+\contentsline {chapter}{\numberline {8}Assessment}{26}{chapter.8}
+\contentsline {section}{\numberline {8.1}Auswahl der wichtigsten Kernkompetenzen}{26}{section.8.1}
+\contentsline {section}{\numberline {8.2}\IeC {\"U}bung 1: Logisches und analytisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{26}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Idee}{26}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Detailbeschreibung}{27}{subsection.8.2.2}
+\contentsline {subsubsection}{Pr\IeC {\"u}fungsfrage}{27}{section*.13}
+\contentsline {subsection}{\numberline {8.2.3}Bewertung}{28}{subsection.8.2.3}
+\contentsline {subsubsection}{Verschafft er sich zuerst einen \IeC {\"U}berblick?}{28}{section*.14}
+\contentsline {subsubsection}{Ist eine Methodik zu erkennen oder wird ziellos gesucht?}{28}{section*.15}
+\contentsline {subsubsection}{Wie sicher f\IeC {\"u}hlt sich die Person w\IeC {\"a}hrend der Pr\IeC {\"a}sentation?}{29}{section*.16}
+\contentsline {subsubsection}{Wie genau/verst\IeC {\"a}ndlich konnte der Prozess erkl\IeC {\"a}rt werden. Wurden die wichtigsten Punkte erw\IeC {\"a}hnt?}{29}{section*.17}
+\contentsline {subsubsection}{Wurden Fremdw\IeC {\"o}rter verwendet oder alles in eigene Worte \IeC {\"u}bersetzt?}{29}{section*.18}
+\contentsline {subsubsection}{Wurde visuell gearbeitet? (Damit sind die Notizen inbegriffen)}{29}{section*.19}
+\contentsline {subsubsection}{Wurden die Erkl\IeC {\"a}rungen strukturiert?}{29}{section*.20}
+\contentsline {subsubsection}{Wie viel wurde \IeC {\"u}ber den Prozess gesprochen? Wurde unn\IeC {\"o}tig \IeC {\"u}ber Nebens\IeC {\"a}chlichkeiten geredet?}{30}{section*.21}
+\contentsline {subsubsection}{Wirkte die Person interessiert?}{30}{section*.22}
+\contentsline {section}{\numberline {8.3}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{30}{section.8.3}
+\contentsline {subsection}{\numberline {8.3.1}Idee/ Grobbeschreibung}{30}{subsection.8.3.1}
+\contentsline {subsection}{\numberline {8.3.2}Detailbeschreibung}{31}{subsection.8.3.2}
+\contentsline {subsubsection}{Aufgabe 1: Korrektur Messbericht}{32}{section*.23}
+\contentsline {subsubsection}{Aufgabe 2: Berechnung Operationsverst\IeC {\"a}rkerschaltung}{32}{section*.24}
+\contentsline {subsubsection}{Aufgabe 3: Beantwortung E-Mail}{32}{section*.25}
+\contentsline {subsubsection}{Aufgabe 4: Berechnung Emitterschaltung}{32}{section*.26}
+\contentsline {subsubsection}{Aufgabe ohne Reihenfolge: Kreuzwortr\IeC {\"a}tsel}{32}{section*.27}
+\contentsline {subsection}{\numberline {8.3.3}Am Anfang dem Bewerber mitzuteilende Informationen}{33}{subsection.8.3.3}
+\contentsline {subsection}{\numberline {8.3.4}Bewertung}{34}{subsection.8.3.4}
+\contentsline {subsubsection}{Macht der Bewerber sich Notizen?}{34}{section*.28}
+\contentsline {subsubsection}{Schafft er sich eine \IeC {\"U}bersicht \IeC {\"u}ber die Arbeiten?}{34}{section*.29}
+\contentsline {subsubsection}{Erstellt er eine Zeitplanung?}{34}{section*.30}
+\contentsline {subsubsection}{Wendet er das vorgestellte Eisenhower-Prinzip an?}{35}{section*.31}
+\contentsline {subsubsection}{Notiert er sich Fragen?}{35}{section*.32}
+\contentsline {subsubsection}{Informiert er \IeC {\"u}ber seinen Arbeitsstand?}{35}{section*.33}
+\contentsline {subsubsection}{Elemente des analytischen und systematischen Denkens}{36}{section*.34}
+\contentsline {section}{\numberline {8.4}Ablauf des Assessments}{36}{section.8.4}
+\contentsline {subsection}{\numberline {8.4.1}Videoaufnahme}{37}{subsection.8.4.1}
+\contentsline {subsection}{\numberline {8.4.2}Zeitverh\IeC {\"a}ltnisse}{37}{subsection.8.4.2}
+\contentsline {chapter}{\numberline {9}Bewertung Probanden}{38}{chapter.9}
+\contentsline {section}{\numberline {9.1}Einleitung}{38}{section.9.1}
+\contentsline {section}{\numberline {9.2}Tomo Bogdanovic}{38}{section.9.2}
+\contentsline {subsection}{\numberline {9.2.1}\IeC {\"U}bung 1: Analytisches und systematisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{38}{subsection.9.2.1}
+\contentsline {subsubsection}{Resultate der Bewertungskriterien}{38}{section*.35}
+\contentsline {subsubsection}{Verschafft er sich zuerst einen \IeC {\"U}berblick?}{38}{section*.36}
+\contentsline {subsubsection}{Ist eine Methodik zu erkennen oder wird ziellos gesucht?}{39}{section*.37}
+\contentsline {subsubsection}{Wie sicher f\IeC {\"u}hlt sich die Person w\IeC {\"a}hrend der Pr\IeC {\"a}sentation?}{39}{section*.38}
+\contentsline {subsubsection}{Wie genau/verst\IeC {\"a}ndlich konnte der Prozess erkl\IeC {\"a}rt werden. Wurden die wichtigsten Punkte erw\IeC {\"a}hnt?}{39}{section*.39}
+\contentsline {subsubsection}{Wurden Fremdw\IeC {\"o}rter verwendet oder alles in eigene Worte \IeC {\"u}bersetzt?}{39}{section*.40}
+\contentsline {subsubsection}{Wurde visuell gearbeitet? (Damit sind die Notizen inbegriffen)}{39}{section*.41}
+\contentsline {subsubsection}{Wurden die Erkl\IeC {\"a}rungen strukturiert?}{40}{section*.42}
+\contentsline {subsubsection}{Wie viel wurde \IeC {\"u}ber den Prozess gesprochen? Wurde unn\IeC {\"o}tig \IeC {\"u}ber Nebens\IeC {\"a}chlichkeiten geredet?}{40}{section*.43}
+\contentsline {subsubsection}{Wirkte die Person interessiert?}{40}{section*.44}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{40}{section*.45}
+\contentsline {subsubsection}{Vorgehen des Kandidaten}{40}{section*.46}
+\contentsline {subsubsection}{Anmerkungen/Pr\IeC {\"a}sentation}{41}{section*.47}
+\contentsline {subsection}{\numberline {9.2.2}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{42}{subsection.9.2.2}
+\contentsline {subsubsection}{Resultate der Bewertungskriterien}{42}{section*.48}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{43}{section*.49}
+\contentsline {subsubsection}{Anmerkungen}{43}{section*.50}
+\contentsline {section}{\numberline {9.3}Michel Andr\IeC {\'e} Nyffenegger}{44}{section.9.3}
+\contentsline {subsection}{\numberline {9.3.1}\IeC {\"U}bung 1: Analytisches und systematisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{44}{subsection.9.3.1}
+\contentsline {subsubsection}{Resultate der Bewertungskriterien}{44}{section*.51}
+\contentsline {subsubsection}{Verschafft er sich zuerst einen \IeC {\"U}berblick?}{44}{section*.52}
+\contentsline {subsubsection}{Ist eine Methodik zu erkennen oder wird ziellos gesucht?}{44}{section*.53}
+\contentsline {subsubsection}{Wie sicher f\IeC {\"u}hlt sich die Person w\IeC {\"a}hrend der Pr\IeC {\"a}sentation?}{44}{section*.54}
+\contentsline {subsubsection}{Wie genau/verst\IeC {\"a}ndlich konnte der Prozess erkl\IeC {\"a}rt werden. Wurden die wichtigsten Punkte erw\IeC {\"a}hnt?}{44}{section*.55}
+\contentsline {subsubsection}{Wurden Fremdw\IeC {\"o}rter verwendet oder alles in eigene Worte \IeC {\"u}bersetzt?}{45}{section*.56}
+\contentsline {subsubsection}{Wurde visuell gearbeitet? (Damit sind die Notizen inbegriffen)}{45}{section*.57}
+\contentsline {subsubsection}{Wurden die Erkl\IeC {\"a}rungen strukturiert?}{45}{section*.58}
+\contentsline {subsubsection}{Wie viel wurde \IeC {\"u}ber den Prozess gesprochen? Wurde unn\IeC {\"o}tig \IeC {\"u}ber Nebens\IeC {\"a}chlichkeiten geredet?}{45}{section*.59}
+\contentsline {subsubsection}{Wirkte die Person interessiert?}{45}{section*.60}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{46}{section*.61}
+\contentsline {subsubsection}{Vorgehen des Kandidaten}{46}{section*.62}
+\contentsline {subsubsection}{Pr\IeC {\"a}senation}{46}{section*.63}
+\contentsline {subsection}{\numberline {9.3.2}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{47}{subsection.9.3.2}
+\contentsline {subsubsection}{Resultate der Bewertungskriterien}{47}{section*.64}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{48}{section*.65}
+\contentsline {subsubsection}{Anmerkungen}{48}{section*.66}
+\contentsline {section}{\numberline {9.4}Matthias Schneider}{49}{section.9.4}
+\contentsline {subsection}{\numberline {9.4.1}\IeC {\"U}bung 1:Analytisches und systematisches Denken, Lernbereitschaft und Lernf\IeC {\"a}higkeit}{49}{subsection.9.4.1}
+\contentsline {subsubsection}{Resultate der Bewertungskriterien}{49}{section*.67}
+\contentsline {subsubsection}{Verschafft er sich zuerst einen \IeC {\"U}berblick?}{49}{section*.68}
+\contentsline {subsubsection}{Ist eine Methodik zu erkennen oder wird ziellos gesucht?}{49}{section*.69}
+\contentsline {subsubsection}{Wie sicher f\IeC {\"u}hlt sich die Person w\IeC {\"a}hrend der Pr\IeC {\"a}sentation?}{49}{section*.70}
+\contentsline {subsubsection}{Wie genau/verst\IeC {\"a}ndlich konnte der Prozess erkl\IeC {\"a}rt werden. Wurden die wichtigsten Punkte erw\IeC {\"a}hnt?}{49}{section*.71}
+\contentsline {subsubsection}{Wurden Fremdw\IeC {\"o}rter verwendet oder alles in eigene Worte \IeC {\"u}bersetzt?}{50}{section*.72}
+\contentsline {subsubsection}{Wurde visuell gearbeitet? (Damit sind die Notizen inbegriffen)}{50}{section*.73}
+\contentsline {subsubsection}{Wurden die Erkl\IeC {\"a}rungen strukturiert?}{50}{section*.74}
+\contentsline {subsubsection}{Wie viel wurde \IeC {\"u}ber den Prozess gesprochen? Wurde unn\IeC {\"o}tig \IeC {\"u}ber Nebens\IeC {\"a}chlichkeiten geredet?}{50}{section*.75}
+\contentsline {subsubsection}{Wirkte die Person interessiert?}{50}{section*.76}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{51}{section*.77}
+\contentsline {subsubsection}{Vorgehen des Kandidaten}{51}{section*.78}
+\contentsline {subsubsection}{Pr\IeC {\"a}sentation}{51}{section*.79}
+\contentsline {subsection}{\numberline {9.4.2}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{52}{subsection.9.4.2}
+\contentsline {subsubsection}{Resultate der Bewertungskriterien}{52}{section*.80}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{53}{section*.81}
+\contentsline {subsubsection}{Anmerkungen}{53}{section*.82}
+\contentsline {chapter}{\numberline {10}Auswertung des Assessments}{54}{chapter.10}
+\contentsline {section}{\numberline {10.1}Auswertung \IeC {\"U}bung 1}{54}{section.10.1}
+\contentsline {subsection}{\numberline {10.1.1}Erreichte Punkte}{54}{subsection.10.1.1}
+\contentsline {subsubsection}{Tomo Bogdanovic}{54}{section*.83}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{54}{section*.84}
+\contentsline {subsubsection}{Michel Andr\'{e} Nyffenegger}{55}{section*.85}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{55}{section*.86}
+\contentsline {subsubsection}{Matthias Schneider}{55}{section*.87}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{55}{section*.88}
+\contentsline {subsection}{\numberline {10.1.2}Vergleiche unter den Testkandidaten}{55}{subsection.10.1.2}
+\contentsline {section}{\numberline {10.2}Auswertung \IeC {\"U}bung 2}{56}{section.10.2}
+\contentsline {subsection}{\numberline {10.2.1}Tiefe erreichte Punktewerte}{56}{subsection.10.2.1}
+\contentsline {subsubsection}{M\IeC {\"o}gliche Massnahmen}{56}{section*.89}
+\contentsline {subsection}{\numberline {10.2.2}Punkteverteilung f\IeC {\"u}r Kernkompetenzen}{56}{subsection.10.2.2}
+\contentsline {subsubsection}{M\IeC {\"o}gliche Massnahmen}{57}{section*.90}
+\contentsline {section}{\numberline {10.3}Assessment allgemein}{57}{section.10.3}
+\contentsline {subsection}{\numberline {10.3.1}Schwergewichtsbildung Kernkompetenzen}{57}{subsection.10.3.1}
+\contentsline {subsubsection}{M\IeC {\"o}gliche Verbesserungsmassnahmen}{57}{section*.91}
+\contentsline {chapter}{\numberline {11}Reflexion}{58}{chapter.11}
+\contentsline {section}{\numberline {11.1}Lesson learned}{58}{section.11.1}
+\contentsline {section}{\numberline {11.2}Verbesserungspotenzial}{58}{section.11.2}
+\contentsline {chapter}{\numberline {12}Schlussfolgerungen, Ausblicke und Empfehlungen}{59}{chapter.12}
+\contentsline {section}{\numberline {12.1}SWOT Analyse}{59}{section.12.1}
+\contentsline {section}{\numberline {12.2}Aufwand und Kosten}{59}{section.12.2}
