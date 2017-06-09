@@ -134,6 +134,41 @@
 \contentsline {subsubsection}{Wurden die Erkl\IeC {\"a}rungen strukturiert?}{47}{section*.74}
 \contentsline {subsubsection}{Wie viel wurde \IeC {\"u}ber den Prozess gesprochen? Wurde unn\IeC {\"o}tig \IeC {\"u}ber Nebens\IeC {\"a}chlichkeiten geredet?}{48}{section*.75}
 \contentsline {subsubsection}{Wirkte die Person interessiert?}{48}{section*.76}
+<<<<<<< HEAD
+\contentsline {subsubsection}{Summe der erreichten Punkte}{49}{section*.77}
+\contentsline {subsubsection}{Vorgehen des Kandidaten}{49}{section*.78}
+\contentsline {subsubsection}{Pr\IeC {\"a}sentation}{49}{section*.79}
+\contentsline {subsection}{\numberline {9.4.2}\IeC {\"U}bung 2: Selbstmanagement und Selbstorganisation}{50}{subsection.9.4.2}
+\contentsline {subsubsection}{Resultate der Bewertungskriterien}{50}{section*.80}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{51}{section*.81}
+\contentsline {subsubsection}{Anmerkungen}{51}{section*.82}
+\contentsline {chapter}{\numberline {10}Auswertung des Assessments}{52}{chapter.10}
+\contentsline {section}{\numberline {10.1}Auswertung \IeC {\"U}bung 1}{52}{section.10.1}
+\contentsline {subsection}{\numberline {10.1.1}Erreichte Punkte}{52}{subsection.10.1.1}
+\contentsline {subsubsection}{Tomo Bogdanovic}{52}{section*.83}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{52}{section*.84}
+\contentsline {subsubsection}{Michel Andr\'{e} Nyffenegger}{53}{section*.85}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{53}{section*.86}
+\contentsline {subsubsection}{Matthias Schneider}{53}{section*.87}
+\contentsline {subsubsection}{Summe der erreichten Punkte}{53}{section*.88}
+\contentsline {subsection}{\numberline {10.1.2}Vergleiche unter den Testkandidaten}{53}{subsection.10.1.2}
+\contentsline {section}{\numberline {10.2}Auswertung \IeC {\"U}bung 2}{54}{section.10.2}
+\contentsline {subsection}{\numberline {10.2.1}Tiefe erreichte Punktewerte}{54}{subsection.10.2.1}
+\contentsline {subsubsection}{M\IeC {\"o}gliche Massnahmen}{54}{section*.89}
+\contentsline {subsection}{\numberline {10.2.2}Punkteverteilung f\IeC {\"u}r Kernkompetenzen}{54}{subsection.10.2.2}
+\contentsline {subsubsection}{M\IeC {\"o}gliche Massnahmen}{55}{section*.90}
+\contentsline {section}{\numberline {10.3}Assessment allgemein}{55}{section.10.3}
+\contentsline {subsection}{\numberline {10.3.1}Schwergewichtsbildung Kernkompetenzen}{55}{subsection.10.3.1}
+\contentsline {subsubsection}{M\IeC {\"o}gliche Verbesserungsmassnahmen}{55}{section*.91}
+\contentsline {chapter}{\numberline {11}Reflexion}{56}{chapter.11}
+\contentsline {section}{\numberline {11.1}Lesson learned}{56}{section.11.1}
+\contentsline {subsubsection}{Technologieschwierigkeiten}{56}{section*.92}
+\contentsline {subsubsection}{Organisationsprobleme}{56}{section*.93}
+\contentsline {section}{\numberline {11.2}Verbesserungspotenzial}{57}{section.11.2}
+\contentsline {chapter}{\numberline {12}Schlussfolgerungen, Ausblicke und Empfehlungen}{58}{chapter.12}
+\contentsline {section}{\numberline {12.1}SWOT Analyse}{58}{section.12.1}
+\contentsline {section}{\numberline {12.2}Aufwand und Kosten}{58}{section.12.2}
+=======
 \contentsline {subsubsection}{Summe der erreichten Punkte}{48}{section*.77}
 \contentsline {subsubsection}{Vorgehen des Kandidaten}{48}{section*.78}
 \contentsline {subsubsection}{Pr\IeC {\"a}sentation}{48}{section*.79}
@@ -167,3 +202,4 @@
 \contentsline {chapter}{\numberline {12}Schlussfolgerungen, Ausblicke und Empfehlungen}{57}{chapter.12}
 \contentsline {section}{\numberline {12.1}SWOT Analyse}{57}{section.12.1}
 \contentsline {section}{\numberline {12.2}Aufwand und Kosten}{57}{section.12.2}
+>>>>>>> 187a0703abdba8bd3e8166ae8baa13ed3b2cdd95
